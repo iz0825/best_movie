@@ -4,24 +4,26 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class App extends JFrame{
-
+public class App extends JFrame {
   private JPanel backgroundPanel;
-  private JButton startButton;
+  private JPanel buttonPanel;
   private JButton cancelButton;
-  private JLabel welcomeLabel;
-  private JLabel textLabel;
+  private JButton startButton;
+  private JPanel contentPanel;
+  private JLabel titleLabel;
+  private JLabel msgLabel;
 
   public App() {
-    setSize(new Dimension(550, 300));
+    setSize(new Dimension(600, 350));
 
     add(backgroundPanel);
 
-    welcomeLabel.setBorder(new EmptyBorder(20, 20, 20, 20));
-    textLabel.setBorder(new EmptyBorder(30, 30, 0, 20));
+    titleLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
+    msgLabel.setBorder(new EmptyBorder(0, 30, 0, 20));
 
     startButton.addActionListener(e -> {
       GenreSelection genreWindow = new GenreSelection();
+      genreWindow.setLocationRelativeTo(null);
       genreWindow.setVisible(true);
       dispose();
     });
@@ -38,6 +40,7 @@ public class App extends JFrame{
 
   private void exitCheck() {
     ExitCheck exitWindow = new ExitCheck();
+    exitWindow.setLocationRelativeTo(null);
     exitWindow.setVisible(true);
   }
 }

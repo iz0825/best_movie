@@ -5,29 +5,35 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 public class GenreSelection extends JFrame {
+
   private JPanel backgroundPanel;
+  private JButton nextButton;
+  private JButton cancelButton;
+  private JPanel buttonPanel;
+  private JPanel contentPanel;
   private JLabel titleLabel;
   private JComboBox comboBox1;
-  private JButton cancelButton;
-  private JButton nextButton;
+  private String type;
 
   public GenreSelection() {
 
-    setSize(550, 300);
+    setSize(600, 350);
 
-    setContentPane(backgroundPanel);
+    add(backgroundPanel);
 
-    titleLabel.setBorder(new EmptyBorder(20, 20, 20, 20));
-    comboBox1.setBorder(new EmptyBorder(20, 20, 20, 20));
+    titleLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
+    comboBox1.setBorder(new EmptyBorder(0, 20, 20, 20));
 
     nextButton.addActionListener(
         e -> {
           switch (String.valueOf(comboBox1.getSelectedItem())) {
-            case "- Select form below -":
+            case "- Select from below -":
               titleLabel.setForeground(Color.red);
               break;
-            case "Action":
+            default:
+              type = String.valueOf(comboBox1.getSelectedItem());
               MovieName movieNameWindow = new MovieName();
+              movieNameWindow.setLocationRelativeTo(null);
               movieNameWindow.setVisible(true);
               dispose();
               break;
@@ -48,6 +54,7 @@ public class GenreSelection extends JFrame {
 
   private void exitCheck() {
     ExitCheck exitWindow = new ExitCheck();
+    exitWindow.setLocationRelativeTo(null);
     exitWindow.setVisible(true);
   }
 }
