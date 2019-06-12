@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Princess Bride",
+    "Cast": [
+        "Cary Elwes",
+        "Mandy Patinkin",
+        "Chris Sarandon",
+        "Christopher Guest",
+        "Wallace Shawn",
+        "Andr\u00e9 the Giant",
+        "Fred Savage",
+        "Robin Wright",
+        "Peter Falk",
+        "Peter Cook",
+        "Mel Smith",
+        "Carol Kane",
+        "Billy Crystal",
+        "Anne Dyson",
+        "Margery Mason"
+    ],
+    "Director": "Rob Reiner",
+    "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Romance"
+    ],
+    "GrossRevenue": 30857814,
+    "Budget": 16000000,
+    "NetRevenue": 14857814
+}

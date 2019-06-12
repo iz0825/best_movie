@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Sting",
+    "Cast": [
+        "Paul Newman",
+        "Robert Redford",
+        "Robert Shaw",
+        "Charles Durning",
+        "Ray Walston",
+        "Eileen Brennan",
+        "Harold Gould",
+        "John Heffernan",
+        "Dana Elcar",
+        "Jack Kehoe",
+        "Dimitra Arliss",
+        "Robert Earl Jones",
+        "James Sloyan",
+        "Charles Dierkop",
+        "Lee Paul"
+    ],
+    "Director": "George Roy Hill",
+    "Genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "GrossRevenue": 159600000,
+    "Budget": 5500000,
+    "NetRevenue": 154100000
+}

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Casablanca",
+    "Cast": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains",
+        "Conrad Veidt",
+        "Sydney Greenstreet",
+        "Peter Lorre",
+        "S.Z. Sakall",
+        "Madeleine Lebeau",
+        "Dooley Wilson",
+        "Joy Page",
+        "John Qualen",
+        "Leonid Kinskey",
+        "Curt Bois",
+        "Enrique Acosta"
+    ],
+    "Director": "Michael Curtiz",
+    "Genres": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "GrossRevenue": 14952620,
+    "Budget": 950000,
+    "NetRevenue": 14002620
+}

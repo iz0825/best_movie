@@ -1,0 +1,28 @@
+{
+    "MovieName": "It Happened One Night",
+    "Cast": [
+        "Clark Gable",
+        "Claudette Colbert",
+        "Walter Connolly",
+        "Roscoe Karns",
+        "Jameson Thomas",
+        "Alan Hale",
+        "Arthur Hoyt",
+        "Blanche Friderici",
+        "Charles C. Wilson",
+        "Ernie Adams",
+        "Jessie Arnold",
+        "Irving Bacon",
+        "William Bailey",
+        "Ward Bond",
+        "Harry C. Bradley"
+    ],
+    "Director": "Frank Capra",
+    "Genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "GrossRevenue": 4360000,
+    "Budget": 325000,
+    "NetRevenue": 4035000
+}

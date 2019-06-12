@@ -1,0 +1,28 @@
+{
+    "MovieName": "Full Metal Jacket",
+    "Cast": [
+        "Matthew Modine",
+        "Adam Baldwin",
+        "Vincent D'Onofrio",
+        "R. Lee Ermey",
+        "Dorian Harewood",
+        "Kevyn Major Howard",
+        "Arliss Howard",
+        "Ed O'Ross",
+        "John Terry",
+        "Kieron Jecchinis",
+        "Kirk Taylor",
+        "Tim Colceri",
+        "Jon Stafford",
+        "Bruce Boa",
+        "Ian Tyler"
+    ],
+    "Director": "Stanley Kubrick",
+    "Genres": [
+        "Drama",
+        "War"
+    ],
+    "GrossRevenue": 46357676,
+    "Budget": 30000000,
+    "NetRevenue": 16357676
+}
