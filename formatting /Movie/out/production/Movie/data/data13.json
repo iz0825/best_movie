@@ -1,0 +1,30 @@
+{
+    "MovieName": "Star Wars: Episode V - The Empire Strikes Back",
+    "Cast": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse",
+        "Peter Mayhew",
+        "Kenny Baker",
+        "Frank Oz",
+        "Alec Guinness",
+        "Jeremy Bulloch",
+        "John Hollis",
+        "Jack Purvis",
+        "Des Webb",
+        "Clive Revill"
+    ],
+    "Director": "Irvin Kershner",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 247916602,
+    "Budget": 18000000,
+    "NetRevenue": 229916602
+}

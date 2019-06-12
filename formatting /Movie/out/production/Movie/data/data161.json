@@ -1,0 +1,29 @@
+{
+    "MovieName": "Ben-Hur",
+    "Cast": [
+        "Charlton Heston",
+        "Jack Hawkins",
+        "Haya Harareet",
+        "Stephen Boyd",
+        "Hugh Griffith",
+        "Martha Scott",
+        "Cathy O'Donnell",
+        "Sam Jaffe",
+        "Finlay Currie",
+        "Frank Thring",
+        "Terence Longdon",
+        "George Relph",
+        "Andr\u00e9 Morell",
+        "Fortunato Arena",
+        "Bruno Ari\u00e8"
+    ],
+    "Director": "William Wyler",
+    "Genres": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "GrossRevenue": 196200000,
+    "Budget": 15900000,
+    "NetRevenue": 180300000
+}

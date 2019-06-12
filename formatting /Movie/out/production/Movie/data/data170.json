@@ -1,0 +1,29 @@
+{
+    "MovieName": "Catch Me If You Can",
+    "Cast": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye",
+        "Amy Adams",
+        "James Brolin",
+        "Brian Howe",
+        "Frank John Hughes",
+        "Steve Eastin",
+        "Chris Ellis",
+        "John Finn",
+        "Jennifer Garner",
+        "Nancy Lenehan",
+        "Ellen Pompeo"
+    ],
+    "Director": "Steven Spielberg",
+    "Genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "GrossRevenue": 352114312,
+    "Budget": 52000000,
+    "NetRevenue": 300114312
+}

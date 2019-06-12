@@ -1,0 +1,30 @@
+{
+    "MovieName": "Up",
+    "Cast": [
+        "Edward Asner",
+        "Christopher Plummer",
+        "Jordan Nagai",
+        "Bob Peterson",
+        "Delroy Lindo",
+        "Jerome Ranft",
+        "John Ratzenberger",
+        "David Kaye",
+        "Elie Docter",
+        "Jeremy Leary",
+        "Mickie McGowan",
+        "Danny Mann",
+        "Donald Fullilove",
+        "Jess Harnell",
+        "Josh Cooley"
+    ],
+    "Director": "Bob Peterson",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "GrossRevenue": 731342744,
+    "Budget": 175000000,
+    "NetRevenue": 556342744
+}

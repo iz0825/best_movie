@@ -1,0 +1,30 @@
+{
+    "MovieName": "Gone with the Wind",
+    "Cast": [
+        "Thomas Mitchell",
+        "Barbara O'Neil",
+        "Vivien Leigh",
+        "Evelyn Keyes",
+        "Ann Rutherford",
+        "George Reeves",
+        "Fred Crane",
+        "Hattie McDaniel",
+        "Oscar Polk",
+        "Butterfly McQueen",
+        "Victor Jory",
+        "Everett Brown",
+        "Howard Hickman",
+        "Alicia Rhett",
+        "Leslie Howard"
+    ],
+    "Director": "Sam Wood",
+    "Genres": [
+        "Drama",
+        "History",
+        "Romance",
+        "War"
+    ],
+    "GrossRevenue": 400176459,
+    "Budget": 3977000,
+    "NetRevenue": 396199459
+}

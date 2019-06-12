@@ -1,0 +1,30 @@
+{
+    "MovieName": "Modern Times",
+    "Cast": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Henry Bergman",
+        "Tiny Sandford",
+        "Chester Conklin",
+        "Hank Mann",
+        "Stanley Blystone",
+        "Garcia Al Ernest",
+        "Richard Alexander",
+        "Cecil Reynolds",
+        "Mira McKinney",
+        "Murdock MacQuarrie",
+        "Wilfred Lucas",
+        "Edward LeSaint",
+        "Fred Malatesta"
+    ],
+    "Director": "Charles Chaplin",
+    "Genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "GrossRevenue": 163245,
+    "Budget": 1500000,
+    "NetRevenue": -1336755
+}
