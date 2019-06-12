@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Snowman",
+    "Cast": [
+        "Michael Fassbender",
+        "Rebecca Ferguson",
+        "Charlotte Gainsbourg",
+        "Jonas Karlsson",
+        "Michael Yates",
+        "Ronan Vibert",
+        "J.K. Simmons",
+        "Val Kilmer",
+        "David Dencik",
+        "Toby Jones",
+        "Genevieve O'Reilly",
+        "James D'Arcy",
+        "Jet\u00e9 Laurence",
+        "Adrian Dunbar",
+        "Chlo\u00eb Sevigny"
+    ],
+    "Director": "Tomas Alfredson",
+    "Genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 6670765,
+    "Budget": 35000000,
+    "NetRevenue": -28329235
+}

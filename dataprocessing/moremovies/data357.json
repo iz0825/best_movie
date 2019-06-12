@@ -1,0 +1,28 @@
+{
+    "MovieName": "Beetlejuice",
+    "Cast": [
+        "Alec Baldwin",
+        "Geena Davis",
+        "Annie McEnroe",
+        "Maurice Page",
+        "Hugo Stanger",
+        "Michael Keaton",
+        "Rachel Mittelman",
+        "Catherine O'Hara",
+        "J. Jay Saunders",
+        "Mark Ettlinger",
+        "Jeffrey Jones",
+        "Winona Ryder",
+        "Glenn Shadix",
+        "Patrice Martinez",
+        "Cindy Daly"
+    ],
+    "Director": "Tim Burton",
+    "Genres": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "GrossRevenue": 73707461,
+    "Budget": 15000000,
+    "NetRevenue": 58707461
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "Ex Machina",
+    "Cast": [
+        "Domhnall Gleeson",
+        "Alicia Vikander",
+        "Oscar Isaac",
+        "Sonoya Mizuno",
+        "Corey Johnson",
+        "Claire Selby",
+        "Symara A. Templeman",
+        "Gana Bayarsaikhan",
+        "Tiffany Pisani",
+        "Elina Alminas",
+        "Chelsea Li",
+        "Caitlin Morton",
+        "Deborah Rosan",
+        "Johanna Thea",
+        "Evie Wray"
+    ],
+    "Director": "Alex Garland",
+    "Genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 38978784,
+    "Budget": 15000000,
+    "NetRevenue": 23978784
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "X-Men: Days of Future Past",
+    "Cast": [
+        "Hugh Jackman",
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence",
+        "Halle Berry",
+        "Nicholas Hoult",
+        "Anna Paquin",
+        "Ellen Page",
+        "Peter Dinklage",
+        "Shawn Ashmore",
+        "Omar Sy",
+        "Evan Peters",
+        "Josh Helman",
+        "Daniel Cudmore",
+        "Bingbing Fan"
+    ],
+    "Director": "Bryan Singer",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 748121534,
+    "Budget": 200000000,
+    "NetRevenue": 548121534
+}

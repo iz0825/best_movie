@@ -1,0 +1,28 @@
+{
+    "MovieName": "Vacation",
+    "Cast": [
+        "Ed Helms",
+        "Christina Applegate",
+        "Skyler Gisondo",
+        "Steele Stebbins",
+        "Chris Hemsworth",
+        "Leslie Mann",
+        "Chevy Chase",
+        "Beverly D'Angelo",
+        "Charlie Day",
+        "Catherine Missal",
+        "Ron Livingston",
+        "Norman Reedus",
+        "Keegan-Michael Key",
+        "Regina Hall",
+        "Emyri Crutchfield"
+    ],
+    "Director": "Jonathan Goldstein",
+    "Genres": [
+        "Adventure",
+        "Comedy"
+    ],
+    "GrossRevenue": 104884188,
+    "Budget": 31000000,
+    "NetRevenue": 73884188
+}

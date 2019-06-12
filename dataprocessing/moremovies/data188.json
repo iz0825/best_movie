@@ -1,0 +1,30 @@
+{
+    "MovieName": "X2: X-Men United",
+    "Cast": [
+        "Patrick Stewart",
+        "Hugh Jackman",
+        "Ian McKellen",
+        "Halle Berry",
+        "Famke Janssen",
+        "James Marsden",
+        "Anna Paquin",
+        "Rebecca Romijn",
+        "Brian Cox",
+        "Alan Cumming",
+        "Bruce Davison",
+        "Aaron Stanford",
+        "Shawn Ashmore",
+        "Kelly Hu",
+        "Katie Stuart"
+    ],
+    "Director": "Bryan Singer",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 407711549,
+    "Budget": 110000000,
+    "NetRevenue": 297711549
+}

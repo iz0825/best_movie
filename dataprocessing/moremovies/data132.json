@@ -1,0 +1,31 @@
+{
+    "MovieName": "Dunkirk",
+    "Cast": [
+        "Fionn Whitehead",
+        "Damien Bonnard",
+        "Aneurin Barnard",
+        "Lee Armstrong",
+        "James Bloor",
+        "Barry Keoghan",
+        "Mark Rylance",
+        "Tom Glynn-Carney",
+        "Tom Hardy",
+        "Jack Lowden",
+        "Luke Thompson",
+        "Michel Biel",
+        "Constantin Balsan",
+        "Billy Howle",
+        "Mikey Collins"
+    ],
+    "Director": "Christopher Nolan",
+    "Genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+    ],
+    "GrossRevenue": 525573161,
+    "Budget": 100000000,
+    "NetRevenue": 425573161
+}

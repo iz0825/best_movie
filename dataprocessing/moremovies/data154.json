@@ -1,0 +1,30 @@
+{
+    "MovieName": "Legend",
+    "Cast": [
+        "Paul Anderson",
+        "Tom Hardy",
+        "Christopher Eccleston",
+        "Joshua Hill",
+        "Emily Browning",
+        "Colin Morgan",
+        "Tara Fitzgerald",
+        "Nicholas Farrell",
+        "Adam Fogerty",
+        "Mel Raido",
+        "Major Johnson Finley",
+        "Millie Brady",
+        "Chris Mason",
+        "Stephen Thompson",
+        "Sam Spruell"
+    ],
+    "Director": "Brian Helgeland",
+    "Genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "GrossRevenue": 42642077,
+    "Budget": 30000000,
+    "NetRevenue": 12642077
+}

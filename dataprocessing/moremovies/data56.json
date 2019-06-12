@@ -1,0 +1,28 @@
+{
+    "MovieName": "Titanic",
+    "Cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates",
+        "Frances Fisher",
+        "Gloria Stuart",
+        "Bill Paxton",
+        "Bernard Hill",
+        "David Warner",
+        "Victor Garber",
+        "Jonathan Hyde",
+        "Suzy Amis",
+        "Lewis Abernathy",
+        "Nicholas Cascone",
+        "Anatoly M. Sagalevitch"
+    ],
+    "Director": "James Cameron",
+    "Genres": [
+        "Drama",
+        "Romance"
+    ],
+    "GrossRevenue": 2186772302,
+    "Budget": 200000000,
+    "NetRevenue": 1986772302
+}

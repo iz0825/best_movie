@@ -1,0 +1,29 @@
+{
+    "MovieName": "Spider-Man: Homecoming",
+    "Cast": [
+        "Tom Holland",
+        "Michael Keaton",
+        "Robert Downey Jr.",
+        "Marisa Tomei",
+        "Jon Favreau",
+        "Gwyneth Paltrow",
+        "Zendaya",
+        "Donald Glover",
+        "Jacob Batalon",
+        "Laura Harrier",
+        "Tony Revolori",
+        "Bokeem Woodbine",
+        "Tyne Daly",
+        "Abraham Attah",
+        "Hannibal Buress"
+    ],
+    "Director": "Jon Watts",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 880166924,
+    "Budget": 175000000,
+    "NetRevenue": 705166924
+}

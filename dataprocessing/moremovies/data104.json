@@ -1,0 +1,30 @@
+{
+    "MovieName": "Alita: Battle Angel",
+    "Cast": [
+        "Rosa Salazar",
+        "Christoph Waltz",
+        "Jennifer Connelly",
+        "Mahershala Ali",
+        "Ed Skrein",
+        "Jackie Earle Haley",
+        "Keean Johnson",
+        "Jorge Lendeborg Jr.",
+        "Lana Condor",
+        "Idara Victor",
+        "Jeff Fahey",
+        "Eiza Gonz\u00e1lez",
+        "Derek Mears",
+        "Leonard Wu",
+        "Racer Maximiliano Rodriguez-Avellan"
+    ],
+    "Director": "Robert Rodriguez",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 404780321,
+    "Budget": 170000000,
+    "NetRevenue": 234780321
+}

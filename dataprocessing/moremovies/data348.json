@@ -1,0 +1,29 @@
+{
+    "MovieName": "Us",
+    "Cast": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss",
+        "Tim Heidecker",
+        "Shahadi Wright Joseph",
+        "Evan Alex",
+        "Yahya Abdul-Mateen II",
+        "Anna Diop",
+        "Cali Sheldon",
+        "Noelle Sheldon",
+        "Madison Curry",
+        "Ashley Mckoy",
+        "Napiera Groves",
+        "Lon Gowan",
+        "Alan Frazier"
+    ],
+    "Director": "Jordan Peele",
+    "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 253511645,
+    "Budget": 20000000,
+    "NetRevenue": 233511645
+}

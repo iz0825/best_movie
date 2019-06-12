@@ -1,0 +1,30 @@
+{
+    "MovieName": "American Gangster",
+    "Cast": [
+        "Denzel Washington",
+        "Russell Crowe",
+        "Chiwetel Ejiofor",
+        "Josh Brolin",
+        "Lymari Nadal",
+        "Ted Levine",
+        "Roger Guenveur Smith",
+        "John Hawkes",
+        "RZA",
+        "Yul Vazquez",
+        "Malcolm Goodwin",
+        "Ruby Dee",
+        "Ruben Santiago-Hudson",
+        "Carla Gugino",
+        "Skyler Fortgang"
+    ],
+    "Director": "Ridley Scott",
+    "Genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "GrossRevenue": 266465037,
+    "Budget": 100000000,
+    "NetRevenue": 166465037
+}

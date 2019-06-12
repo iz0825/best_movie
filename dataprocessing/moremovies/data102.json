@@ -1,0 +1,30 @@
+{
+    "MovieName": "Blade Runner 2049",
+    "Cast": [
+        "Ryan Gosling",
+        "Dave Bautista",
+        "Robin Wright",
+        "Mark Arnold",
+        "Vilma Sz\u00e9csi",
+        "Ana de Armas",
+        "Wood Harris",
+        "David Dastmalchian",
+        "T\u00f3mas Lemarquis",
+        "Sylvia Hoeks",
+        "Edward James Olmos",
+        "Jared Leto",
+        "Sallie Harmsen",
+        "Hiam Abbass",
+        "Mackenzie Davis"
+    ],
+    "Director": "Denis Villeneuve",
+    "Genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 259344059,
+    "Budget": 150000000,
+    "NetRevenue": 109344059
+}

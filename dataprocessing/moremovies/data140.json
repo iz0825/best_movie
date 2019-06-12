@@ -1,0 +1,29 @@
+{
+    "MovieName": "Spider-Man 3",
+    "Cast": [
+        "Tobey Maguire",
+        "Kirsten Dunst",
+        "James Franco",
+        "Thomas Haden Church",
+        "Topher Grace",
+        "Bryce Dallas Howard",
+        "Rosemary Harris",
+        "J.K. Simmons",
+        "James Cromwell",
+        "Theresa Russell",
+        "Dylan Baker",
+        "Bill Nunn",
+        "Bruce Campbell",
+        "Elizabeth Banks",
+        "Ted Raimi"
+    ],
+    "Director": "Sam Raimi",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 554341323,
+    "Budget": 258000000,
+    "NetRevenue": 296341323
+}

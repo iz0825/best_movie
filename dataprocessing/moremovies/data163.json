@@ -1,0 +1,30 @@
+{
+    "MovieName": "Arrival",
+    "Cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan",
+        "Jadyn Malone",
+        "Frank Schorpion",
+        "Lucas Chartier-Dessert",
+        "Christian Jadah",
+        "Lucy Van Oldenbarneveld",
+        "Andrew Shaver",
+        "Pat Kiely"
+    ],
+    "Director": "Denis Villeneuve",
+    "Genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 203388186,
+    "Budget": 47000000,
+    "NetRevenue": 156388186
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "Peter Pan",
+    "Cast": [
+        "Jason Isaacs",
+        "Jeremy Sumpter",
+        "Rachel Hurd-Wood",
+        "Lynn Redgrave",
+        "Richard Briers",
+        "Olivia Williams",
+        "Geoffrey Palmer",
+        "Harry Newell",
+        "Freddie Popplewell",
+        "Ludivine Sagnier",
+        "Theodore Chester",
+        "Rupert Simonian",
+        "George MacKay",
+        "Harry Eden",
+        "Patrick Gooch"
+    ],
+    "Director": "P.J. Hogan",
+    "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Romance"
+    ],
+    "GrossRevenue": 121975011,
+    "Budget": 100000000,
+    "NetRevenue": 21975011
+}

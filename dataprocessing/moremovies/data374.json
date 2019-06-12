@@ -1,0 +1,30 @@
+{
+    "MovieName": "Resident Evil: The Final Chapter",
+    "Cast": [
+        "Milla Jovovich",
+        "Iain Glen",
+        "Ali Larter",
+        "Shawn Roberts",
+        "Eoin Macken",
+        "Fraser James",
+        "Ruby Rose",
+        "William Levy",
+        "Rola",
+        "Ever Anderson",
+        "Mark Simpson",
+        "Milton Schorr",
+        "Siobhan Hodgson",
+        "Joon-Gi Lee",
+        "Aubrey Shelton"
+    ],
+    "Director": "Paul W.S. Anderson",
+    "Genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 312242626,
+    "Budget": 40000000,
+    "NetRevenue": 272242626
+}

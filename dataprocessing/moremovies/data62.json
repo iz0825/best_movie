@@ -1,0 +1,29 @@
+{
+    "MovieName": "Twilight",
+    "Cast": [
+        "Kristen Stewart",
+        "Sarah Clarke",
+        "Matt Bushell",
+        "Billy Burke",
+        "Gil Birmingham",
+        "Taylor Lautner",
+        "Gregory Tyree Boyce",
+        "Justin Chon",
+        "Michael Welch",
+        "Anna Kendrick",
+        "Christian Serratos",
+        "Nikki Reed",
+        "Kellan Lutz",
+        "Ashley Greene",
+        "Jackson Rathbone"
+    ],
+    "Director": "Catherine Hardwicke",
+    "Genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "GrossRevenue": 392616625,
+    "Budget": 37000000,
+    "NetRevenue": 355616625
+}

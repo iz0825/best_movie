@@ -1,0 +1,31 @@
+{
+    "MovieName": "Mandy",
+    "Cast": [
+        "Nicolas Cage",
+        "Andrea Riseborough",
+        "Linus Roache",
+        "Ned Dennehy",
+        "Olwen Fou\u00e9r\u00e9",
+        "Richard Brake",
+        "Bill Duke",
+        "Line Pillet",
+        "Cl\u00e9ment Baronnet",
+        "Alexis Julemont",
+        "Stephan Fraser",
+        "Ivailo Dimitrov",
+        "Hayley Saywell",
+        "Kalin Kerin",
+        "Tam\u00e1s Hagyu\u00f3"
+    ],
+    "Director": "Panos Cosmatos",
+    "Genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 1214525,
+    "Budget": 6000000,
+    "NetRevenue": -4785475
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "Manhunter",
+    "Cast": [
+        "William Petersen",
+        "Kim Greist",
+        "Joan Allen",
+        "Brian Cox",
+        "Dennis Farina",
+        "Tom Noonan",
+        "Stephen Lang",
+        "David Seaman",
+        "Benjamin Hendrickson",
+        "Michael Talbott",
+        "Dan Butler",
+        "Michele Shay",
+        "Robin Moseley",
+        "Paul Perri",
+        "Patricia Charbonneau"
+    ],
+    "Director": "Michael Mann",
+    "Genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 8620929,
+    "Budget": 15000000,
+    "NetRevenue": -6379071
+}

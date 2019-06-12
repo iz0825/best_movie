@@ -55,29 +55,37 @@ class MovieData:
         self.Budget = int(budget.replace(",",""))
         self.NetRevenue = self.GrossRevenue - self.Budget
 
-
+movie_title_list = []
 counter = 0
-top250 = ia.get_bottom100_movies()
-for entry in top250:
-    list_of_actors = []
-    name_of_director= ""
-    movie = ia.get_movie(entry.movieID)
-    movie_title= movie.get('title')
-    summary = movie.summary()
-    cast = movie.get('cast')
-    director = movie.get('director')
-    genre = movie.get('genre')
-    movie_id = movie.movieID
-    budget, gross_revenue = get_money(movie_id)
-    if gross_revenue == 0:
-        continue
-    for person in cast:
-        name_of_actor = person.get('name')
-        list_of_actors.append(name_of_actor)
-    for person in director:
-        name_of_director = person.get('name')
-    movie_for_saving = MovieData(movie_title, list_of_actors[:15],name_of_director, genre, gross_revenue, budget)
-    with open('bottomdata/data{}.json'.format(counter), 'w') as outfile:
-        file_text = json.dumps(movie_for_saving.__dict__, indent=4)
-        outfile.write(file_text)
-    counter += 1
+for tag in ["monster","sad", "happy", "bad", "love", "dog","cat","funny", "food", "alien", "america", "ice","cult","shakespeare", "robbery"
+            "robot", "vampire", "high school", "fairy tale", "chick flick", "dystopia", "corruption", "funny", "competition",
+            "coming of age", "dystopia", "hero", "supernatural", "time travel","corruption", "murder", "no music",
+            "anime", "action hero", "zombie", "superhero", "animation"]:
+    top250 = ia.get_keyword(tag, results=100)
+    print(len(top250), top250)
+    for entry in top250:
+        list_of_actors = []
+        name_of_director= ""
+        movie = ia.get_movie(entry.movieID)
+        movie_title= movie.get('title')
+        if movie_title in movie_title_list:
+            continue
+        movie_title_list.append(movie_title)
+        summary = movie.summary()
+        cast = movie.get('cast')
+        director = movie.get('director')
+        genre = movie.get('genre')
+        movie_id = movie.movieID
+        budget, gross_revenue = get_money(movie_id)
+        if gross_revenue == 0:
+            continue
+        for person in cast:
+            name_of_actor = person.get('name')
+            list_of_actors.append(name_of_actor)
+        for person in director:
+            name_of_director = person.get('name')
+        movie_for_saving = MovieData(movie_title, list_of_actors[:15],name_of_director, genre, gross_revenue, budget)
+        with open('horror/data{}.json'.format(counter), 'w') as outfile:
+            file_text = json.dumps(movie_for_saving.__dict__, indent=4)
+            outfile.write(file_text)
+        counter += 1

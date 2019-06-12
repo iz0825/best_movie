@@ -1,0 +1,29 @@
+{
+    "MovieName": "Highlander",
+    "Cast": [
+        "Christopher Lambert",
+        "Roxanne Hart",
+        "Clancy Brown",
+        "Sean Connery",
+        "Beatie Edney",
+        "Alan North",
+        "Sheila Gish",
+        "Jon Polito",
+        "Hugh Quarshie",
+        "Christopher Malcolm",
+        "Peter Diamond",
+        "Billy Hartman",
+        "James Cosmo",
+        "Celia Imrie",
+        "Alistair Findlay"
+    ],
+    "Director": "Russell Mulcahy",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 12885193,
+    "Budget": 16000000,
+    "NetRevenue": -3114807
+}

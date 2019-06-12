@@ -1,0 +1,33 @@
+{
+    "MovieName": "Hercules",
+    "Cast": [
+        "Tate Donovan",
+        "Josh Keaton",
+        "Roger Bart",
+        "Danny DeVito",
+        "James Woods",
+        "Susan Egan",
+        "Bobcat Goldthwait",
+        "Matt Frewer",
+        "Rip Torn",
+        "Samantha Eggar",
+        "Barbara Barrie",
+        "Hal Holbrook",
+        "Paul Shaffer",
+        "Amanda Plummer",
+        "Carole Shelley"
+    ],
+    "Director": "John Musker",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+    ],
+    "GrossRevenue": 252712101,
+    "Budget": 85000000,
+    "NetRevenue": 167712101
+}

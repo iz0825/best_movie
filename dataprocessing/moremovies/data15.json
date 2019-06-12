@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Dark Crystal",
+    "Cast": [
+        "Jim Henson",
+        "Kathryn Mullen",
+        "Frank Oz",
+        "Dave Goelz",
+        "Steve Whitmire",
+        "Louise Gold",
+        "Brian Muehl",
+        "Bob Payne",
+        "Mike Quinn",
+        "Tim Rose",
+        "Jean-Pierre Amiel",
+        "Hugh Spight",
+        "Robbie Barnett",
+        "Swee Lim",
+        "Simon J. Williamson"
+    ],
+    "Director": "Frank Oz",
+    "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 40577001,
+    "Budget": 15000000,
+    "NetRevenue": 25577001
+}

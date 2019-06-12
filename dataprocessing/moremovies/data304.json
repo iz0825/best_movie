@@ -1,0 +1,29 @@
+{
+    "MovieName": "A Knight's Tale",
+    "Cast": [
+        "Heath Ledger",
+        "Rufus Sewell",
+        "Shannyn Sossamon",
+        "Paul Bettany",
+        "Laura Fraser",
+        "Mark Addy",
+        "Alan Tudyk",
+        "B\u00e9r\u00e9nice Bejo",
+        "Scott Handy",
+        "James Purefoy",
+        "Leagh Conwell",
+        "Christopher Cazenove",
+        "Steven O'Donnell",
+        "Jonathan Slinger",
+        "Nick Brimble"
+    ],
+    "Director": "Brian Helgeland",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+    ],
+    "GrossRevenue": 117487473,
+    "Budget": 65000000,
+    "NetRevenue": 52487473
+}

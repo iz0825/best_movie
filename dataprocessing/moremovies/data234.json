@@ -1,0 +1,28 @@
+{
+    "MovieName": "Conan the Barbarian",
+    "Cast": [
+        "Arnold Schwarzenegger",
+        "James Earl Jones",
+        "Max von Sydow",
+        "Sandahl Bergman",
+        "Ben Davidson",
+        "Cassandra Gava",
+        "Gerry Lopez",
+        "Mako",
+        "Val\u00e9rie Quennessen",
+        "William Smith",
+        "Luis Barboo",
+        "Franco Columbu",
+        "Leslie Foldvary",
+        "Gary Herman",
+        "Erik Holmey"
+    ],
+    "Director": "John Milius",
+    "Genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 29286000,
+    "Budget": 20000000,
+    "NetRevenue": 9286000
+}

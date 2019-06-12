@@ -1,0 +1,29 @@
+{
+    "MovieName": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "Cast": [
+        "Johnny Depp",
+        "Javier Bardem",
+        "Geoffrey Rush",
+        "Brenton Thwaites",
+        "Kaya Scodelario",
+        "Kevin McNally",
+        "Golshifteh Farahani",
+        "David Wenham",
+        "Stephen Graham",
+        "Angus Barnett",
+        "Martin Klebba",
+        "Adam Brown",
+        "Giles New",
+        "Orlando Bloom",
+        "Keira Knightley"
+    ],
+    "Director": "Espen Sandberg",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 794861794,
+    "Budget": 230000000,
+    "NetRevenue": 564861794
+}
