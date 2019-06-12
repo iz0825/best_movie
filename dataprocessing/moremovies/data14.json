@@ -1,0 +1,30 @@
+{
+    "MovieName": "Guardians of the Galaxy Vol. 2",
+    "Cast": [
+        "Chris Pratt",
+        "Zoe Saldana",
+        "Dave Bautista",
+        "Vin Diesel",
+        "Bradley Cooper",
+        "Michael Rooker",
+        "Karen Gillan",
+        "Pom Klementieff",
+        "Sylvester Stallone",
+        "Kurt Russell",
+        "Elizabeth Debicki",
+        "Chris Sullivan",
+        "Sean Gunn",
+        "Tommy Flanagan",
+        "Laura Haddock"
+    ],
+    "Director": "James Gunn",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 863756051,
+    "Budget": 200000000,
+    "NetRevenue": 663756051
+}

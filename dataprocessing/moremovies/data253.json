@@ -1,0 +1,29 @@
+{
+    "MovieName": "Van Helsing",
+    "Cast": [
+        "Hugh Jackman",
+        "Kate Beckinsale",
+        "Richard Roxburgh",
+        "David Wenham",
+        "Shuler Hensley",
+        "Elena Anaya",
+        "Will Kemp",
+        "Kevin J. O'Connor",
+        "Alun Armstrong",
+        "Silvia Colloca",
+        "Josie Maran",
+        "Tom Fisher",
+        "Samuel West",
+        "Robbie Coltrane",
+        "Stephen Fisher"
+    ],
+    "Director": "Stephen Sommers",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 300257475,
+    "Budget": 160000000,
+    "NetRevenue": 140257475
+}

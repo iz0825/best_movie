@@ -1,0 +1,30 @@
+{
+    "MovieName": "Kong: Skull Island",
+    "Cast": [
+        "Tom Hiddleston",
+        "Samuel L. Jackson",
+        "Brie Larson",
+        "John C. Reilly",
+        "John Goodman",
+        "Corey Hawkins",
+        "John Ortiz",
+        "Tian Jing",
+        "Toby Kebbell",
+        "Jason Mitchell",
+        "Shea Whigham",
+        "Thomas Mann",
+        "Eugene Cordero",
+        "Marc Evan Jackson",
+        "Will Brittain"
+    ],
+    "Director": "Jordan Vogt-Roberts",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 566652812,
+    "Budget": 185000000,
+    "NetRevenue": 381652812
+}

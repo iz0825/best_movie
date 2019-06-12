@@ -1,0 +1,29 @@
+{
+    "MovieName": "Avengers: Infinity War",
+    "Cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Don Cheadle",
+        "Benedict Cumberbatch",
+        "Tom Holland",
+        "Chadwick Boseman",
+        "Zoe Saldana",
+        "Karen Gillan",
+        "Tom Hiddleston",
+        "Paul Bettany",
+        "Elizabeth Olsen",
+        "Anthony Mackie"
+    ],
+    "Director": "Joe Russo",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 2048709917,
+    "Budget": 321000000,
+    "NetRevenue": 1727709917
+}

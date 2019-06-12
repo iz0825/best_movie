@@ -1,0 +1,32 @@
+{
+    "MovieName": "Ratatouille",
+    "Cast": [
+        "Patton Oswalt",
+        "Ian Holm",
+        "Lou Romano",
+        "Brian Dennehy",
+        "Peter Sohn",
+        "Peter O'Toole",
+        "Brad Garrett",
+        "Janeane Garofalo",
+        "Will Arnett",
+        "Julius Callahan",
+        "James Remar",
+        "John Ratzenberger",
+        "Teddy Newton",
+        "Tony Fucile",
+        "Jake Steinfeld"
+    ],
+    "Director": "Jan Pinkava",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 623722818,
+    "Budget": 150000000,
+    "NetRevenue": 473722818
+}

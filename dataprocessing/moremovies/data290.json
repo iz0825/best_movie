@@ -1,0 +1,28 @@
+{
+    "MovieName": "Batman",
+    "Cast": [
+        "Michael Keaton",
+        "Jack Nicholson",
+        "Kim Basinger",
+        "Robert Wuhl",
+        "Pat Hingle",
+        "Billy Dee Williams",
+        "Michael Gough",
+        "Jack Palance",
+        "Jerry Hall",
+        "Tracey Walter",
+        "Lee Wallace",
+        "William Hootkins",
+        "Richard Strange",
+        "Carl Chase",
+        "Mac McDonald"
+    ],
+    "Director": "Tim Burton",
+    "Genres": [
+        "Action",
+        "Adventure"
+    ],
+    "GrossRevenue": 411348924,
+    "Budget": 35000000,
+    "NetRevenue": 376348924
+}

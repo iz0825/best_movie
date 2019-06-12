@@ -1,0 +1,8 @@
+{
+  "Movie_Name": "Example",
+  "Actors": ["Actor1", "Actor2", "Actor3"],
+  "Director": ["Director1", "Director2", "Director3"],
+  "Genre": "[Genre1, Genre2,  Genre3]",
+  "Cost": 1,
+  "Revenue": 1
+}

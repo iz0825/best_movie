@@ -1,0 +1,29 @@
+{
+    "MovieName": "Empire of the Sun",
+    "Cast": [
+        "Christian Bale",
+        "John Malkovich",
+        "Miranda Richardson",
+        "Nigel Havers",
+        "Joe Pantoliano",
+        "Leslie Phillips",
+        "Masat\u00f4 Ibu",
+        "Emily Richard",
+        "Rupert Frazer",
+        "Peter Gale",
+        "Takatar\u00f4 Kataoka",
+        "Ben Stiller",
+        "David Neidorf",
+        "Ralph Seymour",
+        "Robert Stephens"
+    ],
+    "Director": "Steven Spielberg",
+    "Genres": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "GrossRevenue": 66700000,
+    "Budget": 35000000,
+    "NetRevenue": 31700000
+}

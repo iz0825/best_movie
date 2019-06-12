@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Meg",
+    "Cast": [
+        "Jason Statham",
+        "Bingbing Li",
+        "Rainn Wilson",
+        "Cliff Curtis",
+        "Winston Chao",
+        "Shuya Sophia Cai",
+        "Ruby Rose",
+        "Page Kennedy",
+        "Robert Taylor",
+        "\u00d3lafur Darri \u00d3lafsson",
+        "Jessica McNamee",
+        "Masi Oka",
+        "Raymond Vinten",
+        "Hongmei Mai",
+        "Wei Yi"
+    ],
+    "Director": "Jon Turteltaub",
+    "Genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 530243742,
+    "Budget": 130000000,
+    "NetRevenue": 400243742
+}

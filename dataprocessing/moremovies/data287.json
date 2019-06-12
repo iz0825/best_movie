@@ -1,0 +1,29 @@
+{
+    "MovieName": "Widows",
+    "Cast": [
+        "Viola Davis",
+        "Liam Neeson",
+        "Jon Bernthal",
+        "Manuel Garcia-Rulfo",
+        "Coburn Goss",
+        "Michelle Rodriguez",
+        "Alejandro Verdin",
+        "Bailey Rhyse Walters",
+        "Elizabeth Debicki",
+        "Carrie Coon",
+        "Robert Duvall",
+        "Colin Farrell",
+        "Molly Kunz",
+        "James Vincent Meredith",
+        "Brian Tyree Henry"
+    ],
+    "Director": "Steve McQueen",
+    "Genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "GrossRevenue": 42402632,
+    "Budget": 42000000,
+    "NetRevenue": 402632
+}

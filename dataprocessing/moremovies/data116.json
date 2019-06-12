@@ -1,0 +1,31 @@
+{
+    "MovieName": "The Shape of Water",
+    "Cast": [
+        "Sally Hawkins",
+        "Michael Shannon",
+        "Richard Jenkins",
+        "Octavia Spencer",
+        "Michael Stuhlbarg",
+        "Doug Jones",
+        "David Hewlett",
+        "Nick Searcy",
+        "Stewart Arnott",
+        "Nigel Bennett",
+        "Lauren Lee Smith",
+        "Martin Roach",
+        "Allegra Fulton",
+        "John Kapelos",
+        "Morgan Kelly"
+    ],
+    "Director": "Guillermo del Toro",
+    "Genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Thriller"
+    ],
+    "GrossRevenue": 195243464,
+    "Budget": 19400000,
+    "NetRevenue": 175843464
+}

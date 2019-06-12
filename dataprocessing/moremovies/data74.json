@@ -1,0 +1,27 @@
+{
+    "MovieName": "Airplane!",
+    "Cast": [
+        "Kareem Abdul-Jabbar",
+        "Lloyd Bridges",
+        "Peter Graves",
+        "Julie Hagerty",
+        "Robert Hays",
+        "Leslie Nielsen",
+        "Lorna Patterson",
+        "Robert Stack",
+        "Stephen Stucker",
+        "Otto",
+        "Jim Abrahams",
+        "Frank Ashmore",
+        "Jonathan Banks",
+        "Craig Berenson",
+        "Barbara Billingsley"
+    ],
+    "Director": "Jerry Zucker",
+    "Genres": [
+        "Comedy"
+    ],
+    "GrossRevenue": 130000000,
+    "Budget": 3500000,
+    "NetRevenue": 126500000
+}

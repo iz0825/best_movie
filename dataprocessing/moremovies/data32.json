@@ -1,0 +1,29 @@
+{
+    "MovieName": "300",
+    "Cast": [
+        "Gerard Butler",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Vincent Regan",
+        "Michael Fassbender",
+        "Tom Wisdom",
+        "Andrew Pleavin",
+        "Andrew Tiernan",
+        "Rodrigo Santoro",
+        "Giovani Cimmino",
+        "Stephen McHattie",
+        "Greg Kramer",
+        "Alex Ivanovici",
+        "Kelly Craig"
+    ],
+    "Director": "Zack Snyder",
+    "Genres": [
+        "Action",
+        "Fantasy",
+        "War"
+    ],
+    "GrossRevenue": 456068181,
+    "Budget": 65000000,
+    "NetRevenue": 391068181
+}

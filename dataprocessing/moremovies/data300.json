@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Social Network",
+    "Cast": [
+        "Jesse Eisenberg",
+        "Rooney Mara",
+        "Bryan Barter",
+        "Dustin Fitzsimons",
+        "Joseph Mazzello",
+        "Patrick Mapel",
+        "Andrew Garfield",
+        "Toby Meuli",
+        "Alecia Svensen",
+        "Jami Owen",
+        "James Dastoli",
+        "Robert Dastoli",
+        "Scotty Crowe",
+        "Jayk Gallagher",
+        "Marcella Lentz-Pope"
+    ],
+    "Director": "David Fincher",
+    "Genres": [
+        "Biography",
+        "Drama"
+    ],
+    "GrossRevenue": 224920315,
+    "Budget": 40000000,
+    "NetRevenue": 184920315
+}

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Friday the 13th",
+    "Cast": [
+        "Betsy Palmer",
+        "Adrienne King",
+        "Jeannine Taylor",
+        "Robbi Morgan",
+        "Kevin Bacon",
+        "Harry Crosby",
+        "Laurie Bartram",
+        "Mark Nelson",
+        "Peter Brouwer",
+        "Rex Everhart",
+        "Ronn Carroll",
+        "Ron Millkie",
+        "Walt Gorney",
+        "Willie Adams",
+        "Debra S. Hayes"
+    ],
+    "Director": "Sean S. Cunningham",
+    "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 59754601,
+    "Budget": 550000,
+    "NetRevenue": 59204601
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "Harry Potter and the Prisoner of Azkaban",
+    "Cast": [
+        "Daniel Radcliffe",
+        "Richard Griffiths",
+        "Pam Ferris",
+        "Fiona Shaw",
+        "Harry Melling",
+        "Adrian Rawlins",
+        "Geraldine Somerville",
+        "Lee Ingleby",
+        "Lenny Henry",
+        "Jimmy Gardner",
+        "Gary Oldman",
+        "Jim Tavar\u00e9",
+        "Robert Hardy",
+        "Abby Ford",
+        "Rupert Grint"
+    ],
+    "Director": "Alfonso Cuar\u00f3n",
+    "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Mystery"
+    ],
+    "GrossRevenue": 796688549,
+    "Budget": 130000000,
+    "NetRevenue": 666688549
+}

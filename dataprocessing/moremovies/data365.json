@@ -1,0 +1,30 @@
+{
+    "MovieName": "Pride and Prejudice and Zombies",
+    "Cast": [
+        "Lily James",
+        "Sam Riley",
+        "Bella Heathcote",
+        "Ellie Bamber",
+        "Millie Brady",
+        "Suki Waterhouse",
+        "Douglas Booth",
+        "Sally Phillips",
+        "Charles Dance",
+        "Jack Huston",
+        "Lena Headey",
+        "Matt Smith",
+        "Emma Greenwell",
+        "Eva Bell",
+        "Aisling Loftus"
+    ],
+    "Director": "Burr Steers",
+    "Genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Romance"
+    ],
+    "GrossRevenue": 10907291,
+    "Budget": 28000000,
+    "NetRevenue": -17092709
+}

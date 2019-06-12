@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Mummy",
+    "Cast": [
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah",
+        "Arnold Vosloo",
+        "Kevin J. O'Connor",
+        "Jonathan Hyde",
+        "Oded Fehr",
+        "Erick Avari",
+        "Stephen Dunham",
+        "Corey Johnson",
+        "Tuc Watkins",
+        "Omid Djalili",
+        "Aharon Ipal\u00e9",
+        "Bernard Fox",
+        "Patricia Velasquez"
+    ],
+    "Director": "Stephen Sommers",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 415933406,
+    "Budget": 80000000,
+    "NetRevenue": 335933406
+}

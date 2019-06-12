@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Rocky Horror Picture Show",
+    "Cast": [
+        "Tim Curry",
+        "Susan Sarandon",
+        "Barry Bostwick",
+        "Richard O'Brien",
+        "Patricia Quinn",
+        "Nell Campbell",
+        "Jonathan Adams",
+        "Peter Hinwood",
+        "Meat Loaf",
+        "Charles Gray",
+        "Jeremy Newson",
+        "Hilary Farr",
+        "Perry Bedden",
+        "Christopher Biggins",
+        "Gaye Brown"
+    ],
+    "Director": "Jim Sharman",
+    "Genres": [
+        "Comedy",
+        "Musical"
+    ],
+    "GrossRevenue": 139876417,
+    "Budget": 1200000,
+    "NetRevenue": 138676417
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Lost City of Z",
+    "Cast": [
+        "Charlie Hunnam",
+        "Robert Pattinson",
+        "Sienna Miller",
+        "Tom Holland",
+        "Edward Ashley",
+        "Angus Macfadyen",
+        "Ian McDiarmid",
+        "Clive Francis",
+        "Pedro Coello",
+        "Matthew Sunderland",
+        "Johann Myers",
+        "Aleksandar Jovanovic",
+        "Elena Solovey",
+        "Bobby Smalldridge",
+        "Tom Mulheron"
+    ],
+    "Director": "James Gray",
+    "Genres": [
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "GrossRevenue": 17509437,
+    "Budget": 30000000,
+    "NetRevenue": -12490563
+}

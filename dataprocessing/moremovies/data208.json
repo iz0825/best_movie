@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Hobbit: The Battle of the Five Armies",
+    "Cast": [
+        "Ian McKellen",
+        "Martin Freeman",
+        "Richard Armitage",
+        "Ken Stott",
+        "Graham McTavish",
+        "William Kircher",
+        "James Nesbitt",
+        "Stephen Hunter",
+        "Dean O'Gorman",
+        "Aidan Turner",
+        "John Callen",
+        "Peter Hambleton",
+        "Jed Brophy",
+        "Mark Hadlow",
+        "Adam Brown"
+    ],
+    "Director": "Peter Jackson",
+    "Genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 956019788,
+    "Budget": 250000000,
+    "NetRevenue": 706019788
+}

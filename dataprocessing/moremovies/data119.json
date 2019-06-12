@@ -1,0 +1,31 @@
+{
+    "MovieName": "Ralph Breaks the Internet",
+    "Cast": [
+        "John C. Reilly",
+        "Sarah Silverman",
+        "Gal Gadot",
+        "Taraji P. Henson",
+        "Jack McBrayer",
+        "Jane Lynch",
+        "Alan Tudyk",
+        "Alfred Molina",
+        "Ed O'Neill",
+        "Sean Giambrone",
+        "Flula Borg",
+        "Timothy Simons",
+        "Ali Wong",
+        "Hamish Blake",
+        "GloZell Green"
+    ],
+    "Director": "Rich Moore",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 528507853,
+    "Budget": 175000000,
+    "NetRevenue": 353507853
+}

@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Prodigy",
+    "Cast": [
+        "Taylor Schilling",
+        "Jackson Robert Scott",
+        "Peter Mooney",
+        "Colm Feore",
+        "Paul Fauteux",
+        "Brittany Allen",
+        "Paula Boudreau",
+        "Elisa Moolecherry",
+        "Olunike Adeliyi",
+        "Janet Land",
+        "Martin Roach",
+        "Byron Abalos",
+        "Ashley Black",
+        "Tristan Vasquez",
+        "Nicholas McCarthy"
+    ],
+    "Director": "Nicholas McCarthy",
+    "Genres": [
+        "Horror",
+        "Thriller"
+    ],
+    "GrossRevenue": 14856291,
+    "Budget": 6000000,
+    "NetRevenue": 8856291
+}
