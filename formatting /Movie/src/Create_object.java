@@ -38,7 +38,7 @@ public static void main(String [] arg){
 
     Create_object object = new Create_object();
     try {
-        String jsonAsString = object.readFile("src/test_file.txt");
+        String jsonAsString = object.readFile("src/test_file.json");
        System.out.println(object.createListOfMovies(jsonAsString));
 
 

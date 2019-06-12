@@ -1,26 +1,27 @@
 public class Movie {
-    private String Movie_name;
-    private String Actors;
-    private String Director;
-    private String Genre;
-    private String Cost;
-    private String Revenue;
+    public String MovieName;
+    public String[] Cast;
+    public String Director;
+    public String[] Genres;
+    public Number Budget;
+    public Number GrossRevenue;
+    public Number NetRevenue;
 
 
-    public void setMovie_name(String movie_name) {
-        Movie_name = movie_name;
+    public String getMovieName() {
+        return MovieName;
     }
 
-    public String getMovie_name() {
-        return Movie_name;
+    public void setMovieName(String movieName) {
+        MovieName = movieName;
     }
 
-    public String getActors() {
-        return Actors;
+    public String[] getCast() {
+        return Cast;
     }
 
-    public void setActors(String actors) {
-        Actors = actors;
+    public void setCast(String[] cast) {
+        Cast = cast;
     }
 
     public String getDirector() {
@@ -31,28 +32,36 @@ public class Movie {
         Director = director;
     }
 
-    public String getGenre() {
-        return Genre;
+    public String[] getGenres() {
+        return Genres;
     }
 
-    public void setGenre(String genre) {
-        Genre = genre;
+    public void setGenres(String[] genres) {
+        Genres = genres;
     }
 
-    public String getCost() {
-        return Cost;
+    public Number getBudget() {
+        return Budget;
     }
 
-    public void setCost(String cost) {
-        Cost = cost;
+    public void setBudget(Number budget) {
+        Budget = budget;
     }
 
-    public String getRevenue() {
-        return Revenue;
+    public Number getGrossRevenue() {
+        return GrossRevenue;
     }
 
-    public void setRevenue(String revenue) {
-        Revenue = revenue;
+    public void setGrossRevenue(Number grossRevenue) {
+        GrossRevenue = grossRevenue;
+    }
+
+    public Number getNetRevenue() {
+        return NetRevenue;
+    }
+
+    public void setNetRevenue(Number netRevenue) {
+        NetRevenue = netRevenue;
     }
 
     Movie(){
