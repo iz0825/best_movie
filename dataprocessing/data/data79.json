@@ -1,0 +1,29 @@
+{
+    "MovieName": "A Clockwork Orange",
+    "Cast": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates",
+        "Warren Clarke",
+        "John Clive",
+        "Adrienne Corri",
+        "Carl Duering",
+        "Paul Farrell",
+        "Clive Francis",
+        "Michael Gover",
+        "Miriam Karlin",
+        "James Marcus",
+        "Aubrey Morris",
+        "Godfrey Quigley",
+        "Sheila Raynor"
+    ],
+    "Director": "Stanley Kubrick",
+    "Genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 26589355,
+    "Budget": 2200000,
+    "NetRevenue": 24389355
+}

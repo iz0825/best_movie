@@ -1,0 +1,29 @@
+{
+    "MovieName": "Interstellar",
+    "Cast": [
+        "Ellen Burstyn",
+        "Matthew McConaughey",
+        "Mackenzie Foy",
+        "John Lithgow",
+        "Timoth\u00e9e Chalamet",
+        "David Oyelowo",
+        "Collette Wolfe",
+        "Francis X. McCarthy",
+        "Bill Irwin",
+        "Anne Hathaway",
+        "Andrew Borba",
+        "Wes Bentley",
+        "William Devane",
+        "Michael Caine",
+        "David Gyasi"
+    ],
+    "Director": "Christopher Nolan",
+    "Genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 675020017,
+    "Budget": 165000000,
+    "NetRevenue": 510020017
+}

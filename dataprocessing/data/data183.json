@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Terminator",
+    "Cast": [
+        "Arnold Schwarzenegger",
+        "Michael Biehn",
+        "Linda Hamilton",
+        "Paul Winfield",
+        "Lance Henriksen",
+        "Rick Rossovich",
+        "Bess Motta",
+        "Earl Boen",
+        "Dick Miller",
+        "Shawn Schepps",
+        "Bruce M. Kerner",
+        "Franco Columbu",
+        "Bill Paxton",
+        "Brad Rearden",
+        "Brian Thompson"
+    ],
+    "Director": "James Cameron",
+    "Genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 40000000,
+    "Budget": 6400000,
+    "NetRevenue": 33600000
+}
