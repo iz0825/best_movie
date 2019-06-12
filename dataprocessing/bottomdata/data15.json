@@ -1,0 +1,30 @@
+{
+    "MovieName": "Baby Geniuses",
+    "Cast": [
+        "Kathleen Turner",
+        "Christopher Lloyd",
+        "Kim Cattrall",
+        "Peter MacNicol",
+        "Dom DeLuise",
+        "Ruby Dee",
+        "Kyle Howard",
+        "Kaye Ballard",
+        "Leo Fitzgerald",
+        "Myles Fitzgerald",
+        "Gerry Fitzgerald",
+        "Connor Leggett",
+        "Griffin Leggett",
+        "Megan Robbins",
+        "Gabrielle Robbins"
+    ],
+    "Director": "Bob Clark",
+    "Genres": [
+        "Comedy",
+        "Crime",
+        "Family",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 36341959,
+    "Budget": 12000000,
+    "NetRevenue": 24341959
+}

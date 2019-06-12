@@ -1,0 +1,29 @@
+{
+    "MovieName": "Jaws 3-D",
+    "Cast": [
+        "Dennis Quaid",
+        "Bess Armstrong",
+        "Simon MacCorkindale",
+        "Louis Gossett Jr.",
+        "John Putch",
+        "Lea Thompson",
+        "P.H. Moriarty",
+        "Dan Blasko",
+        "Liz Morris",
+        "Lisa Maurer",
+        "Harry Grant",
+        "Andy Hansen",
+        "P.T. Horn",
+        "John Edson",
+        "Kaye Stevens"
+    ],
+    "Director": "Joe Alves",
+    "Genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+    ],
+    "GrossRevenue": 87987055,
+    "Budget": 20500000,
+    "NetRevenue": 67487055
+}

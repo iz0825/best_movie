@@ -1,0 +1,29 @@
+{
+    "MovieName": "Bumblebee",
+    "Cast": [
+        "Hailee Steinfeld",
+        "Jorge Lendeborg Jr.",
+        "John Cena",
+        "Jason Drucker",
+        "Pamela Adlon",
+        "Stephen Schneider",
+        "Ricardo Hoyos",
+        "John Ortiz",
+        "Glynn Turman",
+        "Len Cariou",
+        "Kollin Holtz",
+        "Gracie Dzienny",
+        "Fred Dryer",
+        "Isabelle Ellingson",
+        "Mika Kubo"
+    ],
+    "Director": "Travis Knight",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 467705125,
+    "Budget": 135000000,
+    "NetRevenue": 332705125
+}

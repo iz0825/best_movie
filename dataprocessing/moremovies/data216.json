@@ -1,0 +1,29 @@
+{
+    "MovieName": "Pirates of the Caribbean: At World's End",
+    "Cast": [
+        "Johnny Depp",
+        "Geoffrey Rush",
+        "Orlando Bloom",
+        "Keira Knightley",
+        "Jack Davenport",
+        "Bill Nighy",
+        "Jonathan Pryce",
+        "Lee Arenberg",
+        "Mackenzie Crook",
+        "Kevin McNally",
+        "David Bailie",
+        "Stellan Skarsg\u00e5rd",
+        "Tom Hollander",
+        "Naomie Harris",
+        "Martin Klebba"
+    ],
+    "Director": "Gore Verbinski",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 963420425,
+    "Budget": 300000000,
+    "NetRevenue": 663420425
+}

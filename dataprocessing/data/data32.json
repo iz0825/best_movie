@@ -1,0 +1,29 @@
+{
+    "MovieName": "City Lights",
+    "Cast": [
+        "Virginia Cherrill",
+        "Florence Lee",
+        "Harry Myers",
+        "Garcia Al Ernest",
+        "Hank Mann",
+        "Charles Chaplin",
+        "Jack Alexander",
+        "T.S. Alexander",
+        "Victor Alexander",
+        "Albert Austin",
+        "Harry Ayers",
+        "Eddie Baker",
+        "Henry Bergman",
+        "Betty Blair",
+        "Buster Brodie"
+    ],
+    "Director": "Charles Chaplin",
+    "Genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "GrossRevenue": 19181,
+    "Budget": 1500000,
+    "NetRevenue": -1480819
+}

@@ -1,0 +1,33 @@
+{
+    "MovieName": "The Secret of NIMH",
+    "Cast": [
+        "Derek Jacobi",
+        "Elizabeth Hartman",
+        "Arthur Malet",
+        "Dom DeLuise",
+        "Hermione Baddeley",
+        "Shannen Doherty",
+        "Wil Wheaton",
+        "Jodi Hicks",
+        "Ian Fried",
+        "John Carradine",
+        "Peter Strauss",
+        "Paul Shenar",
+        "Tom Hatten",
+        "Lucille Bliss",
+        "Aldo Ray"
+    ],
+    "Director": "Don Bluth",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 14665733,
+    "Budget": 7000000,
+    "NetRevenue": 7665733
+}

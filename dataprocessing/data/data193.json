@@ -1,0 +1,30 @@
+{
+    "MovieName": "Drishyam",
+    "Cast": [
+        "Ajay Devgn",
+        "Shriya Saran",
+        "Tabu",
+        "Rajat Kapoor",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Prasanna Ketkar",
+        "Yogesh Sonam",
+        "Prathamesh Parab",
+        "Rishab Chadha",
+        "Ashish Warang",
+        "Anil Nagarkar",
+        "Tarun Shukla",
+        "Smita Inamdar",
+        "Sanjay Bhatia"
+    ],
+    "Director": "Nishikant Kamat",
+    "Genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 739478,
+    "Budget": 9400000,
+    "NetRevenue": -8660522
+}

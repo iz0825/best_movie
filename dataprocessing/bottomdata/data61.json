@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Love Guru",
+    "Cast": [
+        "Jessica Simpson",
+        "Kanye West",
+        "Mike Myers",
+        "Deepak Chopra",
+        "Rob Blake",
+        "Jessica Alba",
+        "Justin Timberlake",
+        "Romany Malco",
+        "Verne Troyer",
+        "Meagan Good",
+        "Manu Narayan",
+        "John Oliver",
+        "Stephen Colbert",
+        "Jim Gaffigan",
+        "Ben Kingsley"
+    ],
+    "Director": "Marco Schnabel",
+    "Genres": [
+        "Comedy",
+        "Romance",
+        "Sport"
+    ],
+    "GrossRevenue": 40863344,
+    "Budget": 62000000,
+    "NetRevenue": -21136656
+}

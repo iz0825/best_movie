@@ -1,0 +1,29 @@
+{
+    "MovieName": "Ready Player One",
+    "Cast": [
+        "Tye Sheridan",
+        "Olivia Cooke",
+        "Ben Mendelsohn",
+        "Lena Waithe",
+        "T.J. Miller",
+        "Simon Pegg",
+        "Mark Rylance",
+        "Philip Zhao",
+        "Win Morisaki",
+        "Hannah John-Kamen",
+        "Ralph Ineson",
+        "Susan Lynch",
+        "Clare Higgins",
+        "Laurence Spellman",
+        "Perdita Weeks"
+    ],
+    "Director": "Steven Spielberg",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 582890172,
+    "Budget": 175000000,
+    "NetRevenue": 407890172
+}

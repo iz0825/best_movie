@@ -1,0 +1,28 @@
+{
+    "MovieName": "Once Upon a Time in America",
+    "Cast": [
+        "Robert De Niro",
+        "James Woods",
+        "Elizabeth McGovern",
+        "Treat Williams",
+        "Tuesday Weld",
+        "Burt Young",
+        "Joe Pesci",
+        "Danny Aiello",
+        "William Forsythe",
+        "James Hayden",
+        "Darlanne Fluegel",
+        "Larry Rapp",
+        "Dutch Miller",
+        "Robert Harper",
+        "Richard Bright"
+    ],
+    "Director": "Sergio Leone",
+    "Genres": [
+        "Crime",
+        "Drama"
+    ],
+    "GrossRevenue": 5321508,
+    "Budget": 30000000,
+    "NetRevenue": -24678492
+}

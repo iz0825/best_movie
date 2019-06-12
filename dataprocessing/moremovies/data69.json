@@ -1,0 +1,30 @@
+{
+    "MovieName": "Zombieland",
+    "Cast": [
+        "Jesse Eisenberg",
+        "Woody Harrelson",
+        "Emma Stone",
+        "Abigail Breslin",
+        "Amber Heard",
+        "Bill Murray",
+        "Derek Graf",
+        "Aquavian Abel",
+        "Cesar Aguirre",
+        "Jacob G. Akins",
+        "Hunter Aldridge",
+        "Elle Alexander",
+        "Cameron Jacob Alpert",
+        "Michael August",
+        "Melanie Booth"
+    ],
+    "Director": "Ruben Fleischer",
+    "Genres": [
+        "Adventure",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 102391540,
+    "Budget": 23600000,
+    "NetRevenue": 78791540
+}

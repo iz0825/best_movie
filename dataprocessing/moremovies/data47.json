@@ -1,0 +1,30 @@
+{
+    "MovieName": "Despicable Me",
+    "Cast": [
+        "Steve Carell",
+        "Jason Segel",
+        "Russell Brand",
+        "Julie Andrews",
+        "Will Arnett",
+        "Kristen Wiig",
+        "Miranda Cosgrove",
+        "Dana Gaier",
+        "Elsie Fisher",
+        "Pierre Coffin",
+        "Chris Renaud",
+        "Jemaine Clement",
+        "Jack McBrayer",
+        "Danny McBride",
+        "Mindy Kaling"
+    ],
+    "Director": "Chris Renaud",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 543113985,
+    "Budget": 69000000,
+    "NetRevenue": 474113985
+}

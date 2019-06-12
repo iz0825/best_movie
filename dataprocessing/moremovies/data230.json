@@ -1,0 +1,30 @@
+{
+    "MovieName": "Cloverfield",
+    "Cast": [
+        "Lizzy Caplan",
+        "Jessica Lucas",
+        "T.J. Miller",
+        "Michael Stahl-David",
+        "Mike Vogel",
+        "Odette Annable",
+        "Anjul Nigam",
+        "Margot Farley",
+        "Theo Rossi",
+        "Brian Klugman",
+        "Kelvin Yu",
+        "Liza Lapira",
+        "Lili Mirojnick",
+        "Ben Feldman",
+        "Elena Caruso"
+    ],
+    "Director": "Matt Reeves",
+    "Genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 170764026,
+    "Budget": 25000000,
+    "NetRevenue": 145764026
+}

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Gigli",
+    "Cast": [
+        "Ben Affleck",
+        "Terry Camilleri",
+        "David Backus",
+        "Lenny Venito",
+        "Robert Silver",
+        "Luis Alberto Mart\u00ednez",
+        "Justin Bartha",
+        "Jennifer Lopez",
+        "Christopher Walken",
+        "Todd Giebenhain",
+        "Brian Sites",
+        "Brian Casey",
+        "Les Bradford",
+        "David Bonfadini",
+        "Dwight Ketchum"
+    ],
+    "Director": "Martin Brest",
+    "Genres": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "GrossRevenue": 6068735,
+    "Budget": 54000000,
+    "NetRevenue": -47931265
+}

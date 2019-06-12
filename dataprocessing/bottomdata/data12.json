@@ -1,0 +1,31 @@
+{
+    "MovieName": "Dragonball Evolution",
+    "Cast": [
+        "Justin Chatwin",
+        "Yun-Fat Chow",
+        "Emmy Rossum",
+        "Jamie Chung",
+        "James Marsters",
+        "Joon Park",
+        "Eriko Tamura",
+        "Randall Duk Kim",
+        "Ernie Hudson",
+        "Texas Battle",
+        "Megumi Seki",
+        "Ian Whyte",
+        "Richard Blake",
+        "Jon Valera",
+        "Rafael Valdez"
+    ],
+    "Director": "James Wong",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 57497699,
+    "Budget": 30000000,
+    "NetRevenue": 27497699
+}

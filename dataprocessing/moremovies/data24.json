@@ -1,0 +1,30 @@
+{
+    "MovieName": "Beauty and the Beast",
+    "Cast": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Josh Gad",
+        "Kevin Kline",
+        "Hattie Morahan",
+        "Haydn Gwynne",
+        "Gerard Horan",
+        "Ray Fearon",
+        "Ewan McGregor",
+        "Ian McKellen",
+        "Emma Thompson",
+        "Nathan Mack",
+        "Audra McDonald",
+        "Stanley Tucci"
+    ],
+    "Director": "Bill Condon",
+    "Genres": [
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+    ],
+    "GrossRevenue": 1263521126,
+    "Budget": 160000000,
+    "NetRevenue": 1103521126
+}

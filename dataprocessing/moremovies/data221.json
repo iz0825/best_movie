@@ -1,0 +1,29 @@
+{
+    "MovieName": "Mother!",
+    "Cast": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson",
+        "Jovan Adepo",
+        "Amanda Chiu",
+        "Patricia Summersett",
+        "Eric Davis",
+        "Raphael Grosz-Harvey",
+        "Emily Hampshire",
+        "Abraham Aronofsky",
+        "Luis Oliva",
+        "Stephanie Ng Wan"
+    ],
+    "Director": "Darren Aronofsky",
+    "Genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "GrossRevenue": 17800004,
+    "Budget": 33000000,
+    "NetRevenue": -15199996
+}

@@ -1,0 +1,30 @@
+{
+    "MovieName": "Mac and Me",
+    "Cast": [
+        "Christine Ebersole",
+        "Jonathan Ward",
+        "Tina Caspary",
+        "Lauren Stanley",
+        "Jade Calegory",
+        "Vinnie Torrente",
+        "Martin West",
+        "Ivan J. Rado",
+        "Danny Cooksey",
+        "Laura Waterbury",
+        "Jack Eiseman",
+        "Barbara Allyne Bennet",
+        "Richard Bravo",
+        "Gary Brockette",
+        "Sherri Stone Butler"
+    ],
+    "Director": "Stewart Raffill",
+    "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 6424112,
+    "Budget": 13000000,
+    "NetRevenue": -6575888
+}

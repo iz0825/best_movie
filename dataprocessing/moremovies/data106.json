@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Matrix",
+    "Cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster",
+        "Joe Pantoliano",
+        "Marcus Chong",
+        "Julian Arahanga",
+        "Matt Doran",
+        "Belinda McClory",
+        "Anthony Ray Parker",
+        "Paul Goddard",
+        "Robert Taylor",
+        "David Aston",
+        "Marc Aden Gray"
+    ],
+    "Director": "Lilly Wachowski",
+    "Genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 463517383,
+    "Budget": 63000000,
+    "NetRevenue": 400517383
+}

@@ -1,0 +1,27 @@
+{
+    "MovieName": "Big Jake",
+    "Cast": [
+        "John Wayne",
+        "Richard Boone",
+        "Maureen O'Hara",
+        "Patrick Wayne",
+        "Christopher Mitchum",
+        "Bobby Vinton",
+        "Bruce Cabot",
+        "Glenn Corbett",
+        "Harry Carey Jr.",
+        "John Doucette",
+        "Jim Davis",
+        "John Agar",
+        "Gregg Palmer",
+        "Jim Burk",
+        "Robert Warner"
+    ],
+    "Director": "John Wayne",
+    "Genres": [
+        "Western"
+    ],
+    "GrossRevenue": 25350000,
+    "Budget": 4800000,
+    "NetRevenue": 20550000
+}

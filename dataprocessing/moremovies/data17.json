@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Avengers",
+    "Cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Tom Hiddleston",
+        "Clark Gregg",
+        "Cobie Smulders",
+        "Stellan Skarsg\u00e5rd",
+        "Samuel L. Jackson",
+        "Gwyneth Paltrow",
+        "Paul Bettany",
+        "Alexis Denisof",
+        "Tina Benko"
+    ],
+    "Director": "Joss Whedon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 1519557910,
+    "Budget": 220000000,
+    "NetRevenue": 1299557910
+}

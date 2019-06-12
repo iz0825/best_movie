@@ -1,0 +1,29 @@
+{
+    "MovieName": "Get Out",
+    "Cast": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones",
+        "Marcus Henderson",
+        "Betty Gabriel",
+        "LaKeith Stanfield",
+        "Stephen Root",
+        "Lil Rel Howery",
+        "Ashley LeConte Campbell",
+        "John Wilmot",
+        "Caren L. Larkey",
+        "Julie Ann Doan",
+        "Rutherford Cravens"
+    ],
+    "Director": "Jordan Peele",
+    "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 255457364,
+    "Budget": 5000000,
+    "NetRevenue": 250457364
+}

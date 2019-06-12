@@ -1,0 +1,30 @@
+{
+    "MovieName": "I, Tonya",
+    "Cast": [
+        "Margot Robbie",
+        "Sebastian Stan",
+        "Allison Janney",
+        "Julianne Nicholson",
+        "Paul Walter Hauser",
+        "Bobby Cannavale",
+        "Bojana Novakovic",
+        "Caitlin Carver",
+        "Maizie Smith",
+        "Mckenna Grace",
+        "Suehyla El-Attar",
+        "Jason Davis",
+        "Mea Allen",
+        "Cory Chapman",
+        "Amy Fox"
+    ],
+    "Director": "Craig Gillespie",
+    "Genres": [
+        "Biography",
+        "Comedy",
+        "Drama",
+        "Sport"
+    ],
+    "GrossRevenue": 30014539,
+    "Budget": 11000000,
+    "NetRevenue": 19014539
+}

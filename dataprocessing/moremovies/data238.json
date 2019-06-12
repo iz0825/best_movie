@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Village",
+    "Cast": [
+        "Bryce Dallas Howard",
+        "Joaquin Phoenix",
+        "Adrien Brody",
+        "William Hurt",
+        "Sigourney Weaver",
+        "Brendan Gleeson",
+        "Cherry Jones",
+        "Celia Weston",
+        "John Christopher Jones",
+        "Frank Collison",
+        "Jayne Atkinson",
+        "Judy Greer",
+        "Fran Kranz",
+        "Michael Pitt",
+        "Jesse Eisenberg"
+    ],
+    "Director": "M. Night Shyamalan",
+    "Genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 256697520,
+    "Budget": 60000000,
+    "NetRevenue": 196697520
+}

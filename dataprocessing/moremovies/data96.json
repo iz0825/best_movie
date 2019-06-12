@@ -1,0 +1,30 @@
+{
+    "MovieName": "Sing",
+    "Cast": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Seth MacFarlane",
+        "Scarlett Johansson",
+        "John C. Reilly",
+        "Taron Egerton",
+        "Tori Kelly",
+        "Jennifer Saunders",
+        "Jennifer Hudson",
+        "Garth Jennings",
+        "Peter Serafinowicz",
+        "Nick Kroll",
+        "Beck Bennett",
+        "Jay Pharoah",
+        "Nick Offerman"
+    ],
+    "Director": "Christophe Lourdelet",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Musical"
+    ],
+    "GrossRevenue": 634151679,
+    "Budget": 75000000,
+    "NetRevenue": 559151679
+}

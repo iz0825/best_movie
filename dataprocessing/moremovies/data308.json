@@ -1,0 +1,31 @@
+{
+    "MovieName": "Monsters, Inc.",
+    "Cast": [
+        "John Goodman",
+        "Billy Crystal",
+        "Mary Gibbs",
+        "Steve Buscemi",
+        "James Coburn",
+        "Jennifer Tilly",
+        "Bob Peterson",
+        "John Ratzenberger",
+        "Frank Oz",
+        "Daniel Gerson",
+        "Steve Susskind",
+        "Bonnie Hunt",
+        "Jeff Pidgeon",
+        "Samuel Lord Black",
+        "Jack Angel"
+    ],
+    "Director": "Lee Unkrich",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 562816256,
+    "Budget": 115000000,
+    "NetRevenue": 447816256
+}

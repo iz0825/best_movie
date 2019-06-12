@@ -1,0 +1,27 @@
+{
+    "MovieName": "Jack and Jill",
+    "Cast": [
+        "Adam Sandler",
+        "Al Pacino",
+        "Katie Holmes",
+        "Elodie Tougne",
+        "Rohan Chand",
+        "Eugenio Derbez",
+        "David Spade",
+        "Nick Swardson",
+        "Tim Meadows",
+        "Allen Covert",
+        "Norm MacDonald",
+        "Geoff Pierson",
+        "Valerie Mahaffey",
+        "Gary Valentine",
+        "Dana Carvey"
+    ],
+    "Director": "Dennis Dugan",
+    "Genres": [
+        "Comedy"
+    ],
+    "GrossRevenue": 150519217,
+    "Budget": 79000000,
+    "NetRevenue": 71519217
+}

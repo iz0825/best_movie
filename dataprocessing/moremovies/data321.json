@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Longest Day",
+    "Cast": [
+        "Eddie Albert",
+        "Paul Anka",
+        "Arletty",
+        "Jean-Louis Barrault",
+        "Richard Beymer",
+        "Hans Christian Blech",
+        "Bourvil",
+        "Richard Burton",
+        "Wolfgang B\u00fcttner",
+        "Red Buttons",
+        "Pauline Carton",
+        "Sean Connery",
+        "Ray Danton",
+        "Irina Demick",
+        "Fred Dur"
+    ],
+    "Director": "Bernhard Wicki",
+    "Genres": [
+        "Action",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "GrossRevenue": 50100000,
+    "Budget": 10000000,
+    "NetRevenue": 40100000
+}

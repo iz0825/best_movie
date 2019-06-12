@@ -1,0 +1,32 @@
+{
+    "MovieName": "Zootopia",
+    "Cast": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba",
+        "Jenny Slate",
+        "Nate Torrence",
+        "Bonnie Hunt",
+        "Don Lake",
+        "Tommy Chong",
+        "J.K. Simmons",
+        "Octavia Spencer",
+        "Alan Tudyk",
+        "Shakira",
+        "Raymond S. Persi",
+        "Della Saba",
+        "Maurice LaMarche"
+    ],
+    "Director": "Jared Bush",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+    ],
+    "GrossRevenue": 1023784195,
+    "Budget": 150000000,
+    "NetRevenue": 873784195
+}

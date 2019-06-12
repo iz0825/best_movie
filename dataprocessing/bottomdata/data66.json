@@ -1,0 +1,29 @@
+{
+    "MovieName": "Dance Flick",
+    "Cast": [
+        "Shoshana Bush",
+        "Damon Wayans Jr.",
+        "Essence Atkins",
+        "Affion Crockett",
+        "Chris Elliott",
+        "Christina Murphy",
+        "David Alan Grier",
+        "Amy Sedaris",
+        "Kim Wayans",
+        "Lauren Bowles",
+        "Brennan Hillard",
+        "George Gore II",
+        "Chelsea Makela",
+        "Ross Thomas",
+        "Shawn Wayans"
+    ],
+    "Director": "Damien Dante Wayans",
+    "Genres": [
+        "Action",
+        "Comedy",
+        "Music"
+    ],
+    "GrossRevenue": 25615792,
+    "Budget": 25000000,
+    "NetRevenue": 615792
+}

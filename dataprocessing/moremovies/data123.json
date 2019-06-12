@@ -1,0 +1,29 @@
+{
+    "MovieName": "Catch-22",
+    "Cast": [
+        "Alan Arkin",
+        "Martin Balsam",
+        "Richard Benjamin",
+        "Art Garfunkel",
+        "Jack Gilford",
+        "Buck Henry",
+        "Bob Newhart",
+        "Anthony Perkins",
+        "Paula Prentiss",
+        "Martin Sheen",
+        "Jon Voight",
+        "Orson Welles",
+        "Bob Balaban",
+        "Susanne Benton",
+        "Norman Fell"
+    ],
+    "Director": "Mike Nichols",
+    "Genres": [
+        "Comedy",
+        "Drama",
+        "War"
+    ],
+    "GrossRevenue": 24911670,
+    "Budget": 18000000,
+    "NetRevenue": 6911670
+}

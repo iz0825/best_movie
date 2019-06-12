@@ -1,0 +1,29 @@
+{
+    "MovieName": "Spectre",
+    "Cast": [
+        "Daniel Craig",
+        "Christoph Waltz",
+        "L\u00e9a Seydoux",
+        "Ralph Fiennes",
+        "Monica Bellucci",
+        "Ben Whishaw",
+        "Naomie Harris",
+        "Dave Bautista",
+        "Andrew Scott",
+        "Rory Kinnear",
+        "Jesper Christensen",
+        "Alessandro Cremona",
+        "Stephanie Sigman",
+        "Tenoch Huerta",
+        "Adriana Paz"
+    ],
+    "Director": "Sam Mendes",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "GrossRevenue": 880674175,
+    "Budget": 245000000,
+    "NetRevenue": 635674175
+}

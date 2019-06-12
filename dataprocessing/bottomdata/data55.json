@@ -1,0 +1,29 @@
+{
+    "MovieName": "Dungeons & Dragons",
+    "Cast": [
+        "Jeremy Irons",
+        "Bruce Payne",
+        "Justin Whalin",
+        "Marlon Wayans",
+        "Robert Miano",
+        "Tomas Havrlik",
+        "Thora Birch",
+        "Edward Jewesbury",
+        "Zoe McLellan",
+        "Lee Arenberg",
+        "Kristen Wilson",
+        "Martin Astles",
+        "Matthew O'Toole",
+        "David O'Kelly",
+        "Richard O'Brien"
+    ],
+    "Director": "Courtney Solomon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "GrossRevenue": 33807409,
+    "Budget": 45000000,
+    "NetRevenue": -11192591
+}

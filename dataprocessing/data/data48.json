@@ -1,0 +1,23 @@
+{
+    "MovieName": "Alien",
+    "Cast": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm",
+        "Yaphet Kotto",
+        "Bolaji Badejo",
+        "Helen Horton",
+        "Eddie Powell"
+    ],
+    "Director": "Ridley Scott",
+    "Genres": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 203630630,
+    "Budget": 11000000,
+    "NetRevenue": 192630630
+}

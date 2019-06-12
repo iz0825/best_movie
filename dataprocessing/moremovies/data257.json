@@ -1,0 +1,29 @@
+{
+    "MovieName": "Dark Shadows",
+    "Cast": [
+        "Johnny Depp",
+        "Michelle Pfeiffer",
+        "Helena Bonham Carter",
+        "Eva Green",
+        "Jackie Earle Haley",
+        "Jonny Lee Miller",
+        "Bella Heathcote",
+        "Chlo\u00eb Grace Moretz",
+        "Gulliver McGrath",
+        "Ray Shirley",
+        "Christopher Lee",
+        "Alice Cooper",
+        "Ivan Kaye",
+        "Susanna Cappellaro",
+        "Josephine Butler"
+    ],
+    "Director": "Tim Burton",
+    "Genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+    ],
+    "GrossRevenue": 245527149,
+    "Budget": 150000000,
+    "NetRevenue": 95527149
+}

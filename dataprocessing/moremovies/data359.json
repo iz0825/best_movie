@@ -1,0 +1,31 @@
+{
+    "MovieName": "World War Z",
+    "Cast": [
+        "Brad Pitt",
+        "Mireille Enos",
+        "Daniella Kertesz",
+        "James Badge Dale",
+        "Ludi Boeken",
+        "Matthew Fox",
+        "Fana Mokoena",
+        "David Morse",
+        "Elyes Gabel",
+        "Peter Capaldi",
+        "Pierfrancesco Favino",
+        "Ruth Negga",
+        "Moritz Bleibtreu",
+        "Sterling Jerins",
+        "Abigail Hargrove"
+    ],
+    "Director": "Marc Forster",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 540007876,
+    "Budget": 190000000,
+    "NetRevenue": 350007876
+}

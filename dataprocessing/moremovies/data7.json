@@ -1,0 +1,31 @@
+{
+    "MovieName": "Thor: Ragnarok",
+    "Cast": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Idris Elba",
+        "Jeff Goldblum",
+        "Tessa Thompson",
+        "Karl Urban",
+        "Mark Ruffalo",
+        "Anthony Hopkins",
+        "Benedict Cumberbatch",
+        "Taika Waititi",
+        "Rachel House",
+        "Clancy Brown",
+        "Tadanobu Asano",
+        "Ray Stevenson"
+    ],
+    "Director": "Taika Waititi",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 853977126,
+    "Budget": 180000000,
+    "NetRevenue": 673977126
+}

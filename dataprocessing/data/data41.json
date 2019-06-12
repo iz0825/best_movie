@@ -1,0 +1,31 @@
+{
+    "MovieName": "The Lion King",
+    "Cast": [
+        "Rowan Atkinson",
+        "Matthew Broderick",
+        "Niketa Calame-Harris",
+        "Jim Cummings",
+        "Whoopi Goldberg",
+        "Robert Guillaume",
+        "Jeremy Irons",
+        "James Earl Jones",
+        "Moira Kelly",
+        "Nathan Lane",
+        "Zoe Leader",
+        "Cheech Marin",
+        "Ernie Sabella",
+        "Madge Sinclair",
+        "Jonathan Taylor Thomas"
+    ],
+    "Director": "Rob Minkoff",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Musical"
+    ],
+    "GrossRevenue": 987483777,
+    "Budget": 45000000,
+    "NetRevenue": 942483777
+}

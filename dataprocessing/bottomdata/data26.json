@@ -1,0 +1,31 @@
+{
+    "MovieName": "The Emoji Movie",
+    "Cast": [
+        "T.J. Miller",
+        "James Corden",
+        "Anna Faris",
+        "Maya Rudolph",
+        "Steven Wright",
+        "Jennifer Coolidge",
+        "Patrick Stewart",
+        "Christina Aguilera",
+        "Sof\u00eda Vergara",
+        "Rachael Ray",
+        "Sean Hayes",
+        "Jake T. Austin",
+        "Tati Gabrielle",
+        "Jude Kouyate",
+        "Jeffrey Ross"
+    ],
+    "Director": "Tony Leondis",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 217776646,
+    "Budget": 50000000,
+    "NetRevenue": 167776646
+}

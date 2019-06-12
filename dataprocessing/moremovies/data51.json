@@ -1,0 +1,29 @@
+{
+    "MovieName": "A Star Is Born",
+    "Cast": [
+        "Lady Gaga",
+        "Bradley Cooper",
+        "Sam Elliott",
+        "Andrew Dice Clay",
+        "Rafi Gavron",
+        "Anthony Ramos",
+        "Dave Chappelle",
+        "Alec Baldwin",
+        "Marlon Williams",
+        "Brandi Carlile",
+        "Ron Rifkin",
+        "Barry Shabaka Henley",
+        "Michael D. Roberts",
+        "Michael Harney",
+        "Rebecca Field"
+    ],
+    "Director": "Bradley Cooper",
+    "Genres": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "GrossRevenue": 433888866,
+    "Budget": 36000000,
+    "NetRevenue": 397888866
+}

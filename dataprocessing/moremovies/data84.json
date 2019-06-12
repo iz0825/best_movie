@@ -1,0 +1,29 @@
+{
+    "MovieName": "John Wick",
+    "Cast": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen",
+        "Willem Dafoe",
+        "Dean Winters",
+        "Adrianne Palicki",
+        "Omer Barnea",
+        "Toby Leonard Moore",
+        "Daniel Bernhardt",
+        "Bridget Moynahan",
+        "John Leguizamo",
+        "Ian McShane",
+        "Bridget Regan",
+        "Lance Reddick",
+        "Keith Jardine"
+    ],
+    "Director": "David Leitch",
+    "Genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "GrossRevenue": 130888901,
+    "Budget": 20000000,
+    "NetRevenue": 110888901
+}

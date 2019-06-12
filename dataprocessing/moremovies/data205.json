@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Last Airbender",
+    "Cast": [
+        "Noah Ringer",
+        "Dev Patel",
+        "Nicola Peltz",
+        "Jackson Rathbone",
+        "Shaun Toub",
+        "Aasif Mandvi",
+        "Cliff Curtis",
+        "Seychelle Gabriel",
+        "Katharine Houghton",
+        "Francis Guinan",
+        "Damon Gupton",
+        "Summer Bishil",
+        "Randall Duk Kim",
+        "John D'Alonzo",
+        "Keong Sim"
+    ],
+    "Director": "M. Night Shyamalan",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 319731881,
+    "Budget": 150000000,
+    "NetRevenue": 169731881
+}

@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Lord of the Rings: The Two Towers",
+    "Cast": [
+        "Bruce Allpress",
+        "Sean Astin",
+        "John Bach",
+        "Sala Baker",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Jed Brophy",
+        "Sam Comery",
+        "Brad Dourif",
+        "Calum Gittins",
+        "Bernard Hill",
+        "Bruce Hopkins",
+        "Paris Howe Strewe",
+        "Christopher Lee"
+    ],
+    "Director": "Peter Jackson",
+    "Genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "GrossRevenue": 926047111,
+    "Budget": 94000000,
+    "NetRevenue": 832047111
+}
