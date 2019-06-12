@@ -61,11 +61,11 @@ public class GenreSelection extends JFrame {
 
   public GenreSelection() {
 
-    setSize(600, 400);
+    setSize(800, 550);
 
     add(backgroundPanel);
 
-    titleLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
+    titleLabel.setBorder(new EmptyBorder(20, 30, 0, 20));
 
     nextButton.addActionListener(
         e -> {

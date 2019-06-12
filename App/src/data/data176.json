@@ -1,0 +1,30 @@
+{
+    "MovieName": "Barry Lyndon",
+    "Cast": [
+        "Ryan O'Neal",
+        "Marisa Berenson",
+        "Patrick Magee",
+        "Hardy Kr\u00fcger",
+        "Steven Berkoff",
+        "Gay Hamilton",
+        "Marie Kean",
+        "Diana K\u00f6rner",
+        "Murray Melvin",
+        "Frank Middlemass",
+        "Andr\u00e9 Morell",
+        "Arthur O'Sullivan",
+        "Godfrey Quigley",
+        "Leonard Rossiter",
+        "Philip Stone"
+    ],
+    "Director": "Stanley Kubrick",
+    "Genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "GrossRevenue": 31500000,
+    "Budget": 11000000,
+    "NetRevenue": 20500000
+}

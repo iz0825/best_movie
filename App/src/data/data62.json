@@ -1,0 +1,30 @@
+{
+    "MovieName": "Aliens",
+    "Cast": [
+        "Sigourney Weaver",
+        "Carrie Henn",
+        "Michael Biehn",
+        "Paul Reiser",
+        "Lance Henriksen",
+        "Bill Paxton",
+        "William Hope",
+        "Jenette Goldstein",
+        "Al Matthews",
+        "Mark Rolston",
+        "Ricco Ross",
+        "Colette Hiller",
+        "Daniel Kash",
+        "Cynthia Dale Scott",
+        "Tip Tipping"
+    ],
+    "Director": "James Cameron",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 131060248,
+    "Budget": 18500000,
+    "NetRevenue": 112560248
+}

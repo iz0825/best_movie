@@ -1,8 +1,12 @@
+import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 
 public class App extends JFrame {
   private JPanel backgroundPanel;
@@ -12,14 +16,15 @@ public class App extends JFrame {
   private JPanel contentPanel;
   private JLabel titleLabel;
   private JLabel msgLabel;
+  private JPanel test;
 
   public App() {
-    setSize(new Dimension(600, 350));
+    setSize(800, 550);
 
     setContentPane(backgroundPanel);
 
-    titleLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
-    msgLabel.setBorder(new EmptyBorder(0, 30, 0, 20));
+    titleLabel.setBorder(new EmptyBorder(20, 40, 0, 20));
+    msgLabel.setBorder(new EmptyBorder(0, 50, 50, 20));
 
     startButton.addActionListener(e -> {
       GenreSelection genreWindow = new GenreSelection();
@@ -44,4 +49,15 @@ public class App extends JFrame {
     exitWindow.setVisible(true);
   }
 
+  private void createUIComponents() {
+    test = new JPanel();
+    BufferedImage myPicture = null;
+    try {
+      myPicture = ImageIO.read(new File("App/src/img.png"));
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+    JLabel picLabel = new JLabel(new ImageIcon(myPicture));
+    test.add(picLabel);
+  }
 }

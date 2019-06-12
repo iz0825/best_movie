@@ -1,0 +1,28 @@
+{
+    "MovieName": "Stand by Me",
+    "Cast": [
+        "Wil Wheaton",
+        "River Phoenix",
+        "Corey Feldman",
+        "Jerry O'Connell",
+        "Kiefer Sutherland",
+        "Casey Siemaszko",
+        "Gary Riley",
+        "Bradley Gregg",
+        "Jason Oliver",
+        "Marshall Bell",
+        "Frances Lee McCain",
+        "Bruce Kirby",
+        "William Bronder",
+        "Scott Beach",
+        "Richard Dreyfuss"
+    ],
+    "Director": "Rob Reiner",
+    "Genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "GrossRevenue": 52287414,
+    "Budget": 8000000,
+    "NetRevenue": 44287414
+}

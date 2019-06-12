@@ -6,7 +6,7 @@
       <xy x="20" y="20" width="504" height="400"/>
     </constraints>
     <properties>
-      <background color="-1"/>
+      <background color="-14471362"/>
     </properties>
     <border type="none"/>
     <children>
@@ -15,8 +15,9 @@
           <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-14471362"/>
           <font name="Avenir" size="22"/>
-          <foreground color="-12632257"/>
+          <foreground color="-789517"/>
           <text value="Are you sure you want to exit?"/>
         </properties>
       </component>
@@ -25,7 +26,8 @@
           <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-3618616"/>
+          <background color="-14471362"/>
+          <foreground color="-14471362"/>
           <text value="Yes"/>
         </properties>
       </component>
@@ -34,7 +36,8 @@
           <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <background color="-3618616"/>
+          <background color="-14471362"/>
+          <foreground color="-14471362"/>
           <text value="No"/>
         </properties>
       </component>

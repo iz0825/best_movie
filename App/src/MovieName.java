@@ -30,7 +30,7 @@ public class MovieName extends JFrame {
 
     setSize(600, 350);
 
-    titleLabel.setBorder(new EmptyBorder(20, 20, 0, 0));
+    titleLabel.setBorder(new EmptyBorder(20, 40, 0, 0));
 
     backButton.addActionListener(e -> {
       GenreSelection genreSelectionWindow = new GenreSelection();

@@ -2,29 +2,33 @@
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GenreSelection">
   <grid id="27dc6" binding="backgroundPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
     <constraints>
-      <xy x="20" y="20" width="601" height="415"/>
+      <xy x="20" y="20" width="656" height="415"/>
     </constraints>
     <properties>
-      <background color="-1"/>
+      <background color="-14471362"/>
     </properties>
     <border type="none"/>
     <children>
       <grid id="bdc7a" binding="buttonPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="2">
         <constraints border-constraint="South"/>
         <properties>
-          <background color="-1"/>
+          <background color="-14471362"/>
         </properties>
         <border type="none"/>
         <children>
           <component id="92ccd" class="javax.swing.JButton" binding="nextButton" default-binding="true">
             <constraints/>
             <properties>
-              <text value=" Next &gt;"/>
+              <background color="-14471362"/>
+              <foreground color="-14471362"/>
+              <text value=" &gt;"/>
             </properties>
           </component>
           <component id="c6b7c" class="javax.swing.JButton" binding="cancelButton" default-binding="true">
             <constraints/>
             <properties>
+              <background color="-14471362"/>
+              <foreground color="-14471362"/>
               <text value="Cancel"/>
             </properties>
           </component>
@@ -34,7 +38,7 @@
         <margin top="0" left="0" bottom="0" right="0"/>
         <constraints border-constraint="Center"/>
         <properties>
-          <background color="-1"/>
+          <background color="-14471362"/>
         </properties>
         <border type="none"/>
         <children>
@@ -45,8 +49,9 @@
               </grid>
             </constraints>
             <properties>
-              <font name="Avenir" size="24"/>
-              <foreground color="-12632257"/>
+              <background color="-14471362"/>
+              <font name="Avenir" size="28"/>
+              <foreground color="-16537882"/>
               <text value="Please select the genre of movie you want to make:"/>
             </properties>
           </component>
@@ -56,10 +61,10 @@
               <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <background color="-1"/>
+              <background color="-14471362"/>
             </properties>
             <border type="empty">
-              <size top="20" left="20" bottom="0" right="0"/>
+              <size top="30" left="60" bottom="50" right="0"/>
             </border>
             <children>
               <component id="b3b82" class="javax.swing.JCheckBox" binding="actionCheckBox" default-binding="true">
@@ -67,9 +72,9 @@
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Action"/>
                 </properties>
               </component>
@@ -78,9 +83,9 @@
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Romance"/>
                 </properties>
               </component>
@@ -89,9 +94,9 @@
                   <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Adventure"/>
                 </properties>
               </component>
@@ -100,9 +105,9 @@
                   <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Sci-Fi"/>
                 </properties>
               </component>
@@ -111,9 +116,9 @@
                   <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Animation"/>
                 </properties>
               </component>
@@ -122,9 +127,9 @@
                   <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Comedy"/>
                 </properties>
               </component>
@@ -133,9 +138,9 @@
                   <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Crime"/>
                 </properties>
               </component>
@@ -144,9 +149,9 @@
                   <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Thriller"/>
                 </properties>
               </component>
@@ -155,9 +160,9 @@
                   <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="idk"/>
                 </properties>
               </component>
@@ -166,9 +171,9 @@
                   <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="something"/>
                 </properties>
               </component>
@@ -177,9 +182,9 @@
                   <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Drama"/>
                 </properties>
               </component>
@@ -188,9 +193,9 @@
                   <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="Mystery"/>
                 </properties>
               </component>
@@ -199,9 +204,9 @@
                   <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <background color="-1"/>
-                  <font name="Avenir" size="16"/>
-                  <foreground color="-12632257"/>
+                  <background color="-14471362"/>
+                  <font name="Avenir" size="20"/>
+                  <foreground color="-789517"/>
                   <text value="something else"/>
                 </properties>
               </component>

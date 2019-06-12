@@ -17,6 +17,7 @@ public class ResultPage extends JFrame {
   private JLabel nameLabel;
   private JPanel buttonPanel;
   private JTextPane contentTextPane;
+  private JLabel msgLabel;
 
   public ResultPage() throws BadLocationException {
 
@@ -28,22 +29,20 @@ public class ResultPage extends JFrame {
 
     nameLabel.setBorder(new EmptyBorder(20, 20, 20, 20));
 
-    contentTextPane.setBorder(new EmptyBorder(20, 20, 0, 0));
+//    contentTextPane.setBorder(new EmptyBorder(20, 20, 0, 0));
 
-//    ArrayList<String> list = Main.filterByGenres(GenreSelection.getGenreList());
+    ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
 
-    ArrayList<String> list = new ArrayList<>();
+/*    ArrayList<String> list = new ArrayList<>();
     list.add("Actor 1");
     list.add("Actor 2");
-    list.add("Actor 3");
+    list.add("Actor 3");*/
 
-    for (String name : list) {
-      StringBuilder str = new StringBuilder(name);
-      str.append("\n");
+    for (int i = 0; i < 15; i++) {
       StyledDocument document = (StyledDocument)contentTextPane.getDocument();
       SimpleAttributeSet attributes = new SimpleAttributeSet();
       StyleConstants.setAlignment(attributes, StyleConstants.ALIGN_CENTER);
-      document.insertString(document.getLength(), str.toString(), attributes);
+      document.insertString(document.getLength(), list.get(i) + "\n", attributes);
     }
 
     backButton.addActionListener(e -> {
