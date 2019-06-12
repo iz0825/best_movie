@@ -16,7 +16,7 @@ public class App extends JFrame {
   public App() {
     setSize(new Dimension(600, 350));
 
-    add(backgroundPanel);
+    setContentPane(backgroundPanel);
 
     titleLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
     msgLabel.setBorder(new EmptyBorder(0, 30, 0, 20));
@@ -43,4 +43,5 @@ public class App extends JFrame {
     exitWindow.setLocationRelativeTo(null);
     exitWindow.setVisible(true);
   }
+
 }
