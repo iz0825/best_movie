@@ -1,0 +1,29 @@
+{
+    "MovieName": "Vertigo",
+    "Cast": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore",
+        "Henry Jones",
+        "Raymond Bailey",
+        "Ellen Corby",
+        "Konstantin Shayne",
+        "Lee Patrick",
+        "David Ahdar",
+        "Isabel Analla",
+        "Jack Ano",
+        "Margaret Bacon",
+        "John Benson",
+        "Danny Borzage"
+    ],
+    "Director": "Alfred Hitchcock",
+    "Genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+    ],
+    "GrossRevenue": 25000000,
+    "Budget": 2479000,
+    "NetRevenue": 22521000
+}

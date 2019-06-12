@@ -1,0 +1,29 @@
+{
+    "MovieName": "Schindler's List",
+    "Cast": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes",
+        "Caroline Goodall",
+        "Jonathan Sagall",
+        "Embeth Davidtz",
+        "Malgorzata Gebel",
+        "Shmuel Levy",
+        "Mark Ivanir",
+        "B\u00e9atrice Macola",
+        "Andrzej Seweryn",
+        "Friedrich von Thun",
+        "Krzysztof Luft",
+        "Harry Nehring",
+        "Norbert Weisser"
+    ],
+    "Director": "Steven Spielberg",
+    "Genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "GrossRevenue": 221000000,
+    "Budget": 22000000,
+    "NetRevenue": 199000000
+}

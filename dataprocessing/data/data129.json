@@ -1,0 +1,28 @@
+{
+    "MovieName": "Blade Runner",
+    "Cast": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah",
+        "William Sanderson",
+        "Brion James",
+        "Joe Turkel",
+        "Joanna Cassidy",
+        "James Hong",
+        "Morgan Paull",
+        "Kevin Thompson",
+        "John Edward Allen",
+        "Hy Pyke"
+    ],
+    "Director": "Ridley Scott",
+    "Genres": [
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 27000000,
+    "Budget": 28000000,
+    "NetRevenue": -1000000
+}

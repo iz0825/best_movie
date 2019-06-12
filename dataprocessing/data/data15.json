@@ -1,0 +1,27 @@
+{
+    "MovieName": "One Flew Over the Cuckoo's Nest",
+    "Cast": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Will Sampson",
+        "Michael Berryman",
+        "Alonzo Brown",
+        "Peter Brocco",
+        "Scatman Crothers",
+        "Dean R. Brooks",
+        "Mwako Cumbuka",
+        "Danny DeVito",
+        "William Duell",
+        "Josip Elic",
+        "Lan Fendors",
+        "Nathan George",
+        "Ken Kenny"
+    ],
+    "Director": "Milos Forman",
+    "Genres": [
+        "Drama"
+    ],
+    "GrossRevenue": 112000000,
+    "Budget": 4400000,
+    "NetRevenue": 107600000
+}
