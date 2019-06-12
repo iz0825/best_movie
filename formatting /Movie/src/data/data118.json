@@ -1,0 +1,28 @@
+{
+    "MovieName": "A Beautiful Mind",
+    "Cast": [
+        "Russell Crowe",
+        "Ed Harris",
+        "Jennifer Connelly",
+        "Christopher Plummer",
+        "Paul Bettany",
+        "Adam Goldberg",
+        "Josh Lucas",
+        "Anthony Rapp",
+        "Jason Gray-Stanford",
+        "Judd Hirsch",
+        "Austin Pendleton",
+        "Vivien Cardone",
+        "Jillie Simon",
+        "Victor Steinbach",
+        "Tanya Clarke"
+    ],
+    "Director": "Ron Howard",
+    "Genres": [
+        "Biography",
+        "Drama"
+    ],
+    "GrossRevenue": 313542341,
+    "Budget": 58000000,
+    "NetRevenue": 255542341
+}

@@ -1,0 +1,27 @@
+{
+    "MovieName": "Fight Club",
+    "Cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Meat Loaf",
+        "Zach Grenier",
+        "Richmond Arquette",
+        "David Andrews",
+        "George Maguire",
+        "Eugenie Bondurant",
+        "Helena Bonham Carter",
+        "Christina Cabot",
+        "Sydney 'Big Dawg' Colston",
+        "Rachel Singer",
+        "Christie Cronenweth",
+        "Tim DeZarn",
+        "Ezra Buzzington"
+    ],
+    "Director": "David Fincher",
+    "Genres": [
+        "Drama"
+    ],
+    "GrossRevenue": 71000000,
+    "Budget": 63000000,
+    "NetRevenue": 8000000
+}

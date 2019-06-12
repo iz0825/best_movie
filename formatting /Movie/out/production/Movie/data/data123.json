@@ -1,0 +1,28 @@
+{
+    "MovieName": "The Elephant Man",
+    "Cast": [
+        "Anthony Hopkins",
+        "John Hurt",
+        "Anne Bancroft",
+        "John Gielgud",
+        "Wendy Hiller",
+        "Freddie Jones",
+        "Michael Elphick",
+        "Hannah Gordon",
+        "Helen Ryan",
+        "John Standing",
+        "Dexter Fletcher",
+        "Lesley Dunlop",
+        "Phoebe Nicholls",
+        "Pat Gorman",
+        "Claire Davenport"
+    ],
+    "Director": "David Lynch",
+    "Genres": [
+        "Biography",
+        "Drama"
+    ],
+    "GrossRevenue": 26010864,
+    "Budget": 5000000,
+    "NetRevenue": 21010864
+}

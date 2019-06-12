@@ -1,9 +1,0 @@
-{
-  "MovieName": "Example",
-  "Cast": ["Actor6", "Actor7", "Actor8"],
-  "Director": "Director2",
-  "Genres": ["Genre6", "Genre7",  "Genre8"],
-  "Budget": 2,
-  "GrossRevenue": 2,
-  "NetRevenue": 2
-}

@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Truman Show",
+    "Cast": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone",
+        "Holland Taylor",
+        "Brian Delate",
+        "Blair Slater",
+        "Peter Krause",
+        "Heidi Schanz",
+        "Ron Taylor",
+        "Don Taylor",
+        "Ted Raymond",
+        "Judy Clayton",
+        "Fritz Dominique",
+        "Angel Schmiedt"
+    ],
+    "Director": "Peter Weir",
+    "Genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 264118201,
+    "Budget": 60000000,
+    "NetRevenue": 204118201
+}

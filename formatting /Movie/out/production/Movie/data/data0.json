@@ -1,0 +1,27 @@
+{
+    "MovieName": "The Shawshank Redemption",
+    "Cast": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler",
+        "Clancy Brown",
+        "Gil Bellows",
+        "Mark Rolston",
+        "James Whitmore",
+        "Jeffrey DeMunn",
+        "Larry Brandenburg",
+        "Neil Giuntoli",
+        "Brian Libby",
+        "David Proval",
+        "Joseph Ragno",
+        "Jude Ciccolella"
+    ],
+    "Director": "Frank Darabont",
+    "Genres": [
+        "Drama"
+    ],
+    "GrossRevenue": 58500000,
+    "Budget": 25000000,
+    "NetRevenue": 33500000
+}

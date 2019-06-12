@@ -1,0 +1,27 @@
+{
+    "MovieName": "Memento",
+    "Cast": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano",
+        "Mark Boone Junior",
+        "Russ Fega",
+        "Jorja Fox",
+        "Stephen Tobolowsky",
+        "Harriet Sansom Harris",
+        "Thomas Lennon",
+        "Callum Keith Rennie",
+        "Kimberly Campbell",
+        "Marianne Muellerleile",
+        "Larry Holden",
+        "Buzz Visconti"
+    ],
+    "Director": "Christopher Nolan",
+    "Genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 39723096,
+    "Budget": 9000000,
+    "NetRevenue": 30723096
+}

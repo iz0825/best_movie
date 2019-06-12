@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Kid",
+    "Cast": [
+        "Carl Miller",
+        "Edna Purviance",
+        "Jackie Coogan",
+        "Charles Chaplin",
+        "Albert Austin",
+        "Beulah Bains",
+        "Nellie Bly Baker",
+        "Henry Bergman",
+        "Edward Biby",
+        "F. Blinn",
+        "Kitty Bradbury",
+        "Frank Campeau",
+        "Bliss Chevalier",
+        "Frances Cochran",
+        "Elsie Codd"
+    ],
+    "Director": "Charles Chaplin",
+    "Genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "GrossRevenue": 5450000,
+    "Budget": 250000,
+    "NetRevenue": 5200000
+}

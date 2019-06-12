@@ -3,9 +3,9 @@ public class Movie {
     public String[] Cast;
     public String Director;
     public String[] Genres;
-    public Number Budget;
-    public Number GrossRevenue;
-    public Number NetRevenue;
+    public long Budget;
+    public long GrossRevenue;
+    public long NetRevenue;
 
 
     public String getMovieName() {
@@ -40,27 +40,27 @@ public class Movie {
         Genres = genres;
     }
 
-    public Number getBudget() {
+    public long getBudget() {
         return Budget;
     }
 
-    public void setBudget(Number budget) {
+    public void setBudget(long budget) {
         Budget = budget;
     }
 
-    public Number getGrossRevenue() {
+    public long getGrossRevenue() {
         return GrossRevenue;
     }
 
-    public void setGrossRevenue(Number grossRevenue) {
+    public void setGrossRevenue(long grossRevenue) {
         GrossRevenue = grossRevenue;
     }
 
-    public Number getNetRevenue() {
+    public long getNetRevenue() {
         return NetRevenue;
     }
 
-    public void setNetRevenue(Number netRevenue) {
+    public void setNetRevenue(long netRevenue) {
         NetRevenue = netRevenue;
     }
 
