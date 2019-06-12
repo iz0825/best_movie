@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Avengers",
+    "Cast": [
+        "Ralph Fiennes",
+        "Uma Thurman",
+        "Sean Connery",
+        "Patrick Macnee",
+        "Jim Broadbent",
+        "Fiona Shaw",
+        "Eddie Izzard",
+        "Eileen Atkins",
+        "John Wood",
+        "Carmen Ejogo",
+        "Keeley Hawes",
+        "Shaun Ryder",
+        "Nicholas Woodeson",
+        "Michael Godley",
+        "Richard Lumsden"
+    ],
+    "Director": "Jeremiah S. Chechik",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 48500000,
+    "Budget": 60000000,
+    "NetRevenue": -11500000
+}

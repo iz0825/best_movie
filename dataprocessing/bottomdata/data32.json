@@ -1,0 +1,29 @@
+{
+    "MovieName": "Spice World",
+    "Cast": [
+        "Mel B",
+        "Emma Bunton",
+        "Melanie C",
+        "Geri Horner",
+        "Victoria Beckham",
+        "Kevin Allen",
+        "Devon Anderson",
+        "Michael Barrymore",
+        "Richard Briers",
+        "Simon Chandler",
+        "Elvis Costello",
+        "Alan Cumming",
+        "Boys The Dream",
+        "David Fahm",
+        "Jason Flemyng"
+    ],
+    "Director": "Bob Spiers",
+    "Genres": [
+        "Comedy",
+        "Family",
+        "Music"
+    ],
+    "GrossRevenue": 56042592,
+    "Budget": 25000000,
+    "NetRevenue": 31042592
+}

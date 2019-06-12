@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Wicker Man",
+    "Cast": [
+        "Nicolas Cage",
+        "Ellen Burstyn",
+        "Kate Beahan",
+        "Frances Conroy",
+        "Molly Parker",
+        "Leelee Sobieski",
+        "Diane Delano",
+        "Michael Wiseman",
+        "Erika-Shaye Gair",
+        "Christa Campbell",
+        "Emily Holmes",
+        "Zemphira Gosling",
+        "Matthew Walker",
+        "Mary Black",
+        "Christine Willes"
+    ],
+    "Director": "Neil LaBute",
+    "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 23643531,
+    "Budget": 40000000,
+    "NetRevenue": -16356469
+}

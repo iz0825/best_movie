@@ -1,0 +1,29 @@
+{
+    "MovieName": "Catwoman",
+    "Cast": [
+        "Halle Berry",
+        "Benjamin Bratt",
+        "Sharon Stone",
+        "Lambert Wilson",
+        "Frances Conroy",
+        "Alex Borstein",
+        "Michael Massee",
+        "Byron Mann",
+        "Kim Smith",
+        "Christopher Heyerdahl",
+        "Peter Wingfield",
+        "Berend McKenzie",
+        "Chase Nelson-Murray",
+        "Manny Petruzzelli",
+        "Harley Reiner"
+    ],
+    "Director": "Pitof",
+    "Genres": [
+        "Action",
+        "Crime",
+        "Fantasy"
+    ],
+    "GrossRevenue": 82102379,
+    "Budget": 100000000,
+    "NetRevenue": -17897621
+}

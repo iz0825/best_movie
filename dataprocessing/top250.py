@@ -57,7 +57,7 @@ class MovieData:
 
 
 counter = 0
-top250 = ia.get_top250_movies()
+top250 = ia.get_bottom100_movies()
 for entry in top250:
     list_of_actors = []
     name_of_director= ""
@@ -77,7 +77,7 @@ for entry in top250:
     for person in director:
         name_of_director = person.get('name')
     movie_for_saving = MovieData(movie_title, list_of_actors[:15],name_of_director, genre, gross_revenue, budget)
-    with open('data/data{}.json'.format(counter), 'w') as outfile:
+    with open('bottomdata/data{}.json'.format(counter), 'w') as outfile:
         file_text = json.dumps(movie_for_saving.__dict__, indent=4)
         outfile.write(file_text)
     counter += 1

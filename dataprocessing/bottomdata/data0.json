@@ -1,0 +1,27 @@
+{
+    "MovieName": "Disaster Movie",
+    "Cast": [
+        "Matt Lanter",
+        "Vanessa Lachey",
+        "Gary 'G. Thang' Johnson",
+        "Nicole Parker",
+        "Crista Flanagan",
+        "Kim Kardashian West",
+        "Ike Barinholtz",
+        "Carmen Electra",
+        "Tony Cox",
+        "Tad Hilgenbrink",
+        "Nick Steele",
+        "John Di Domenico",
+        "Jason Boegh",
+        "Valerie Wildman",
+        "Abe Spigner"
+    ],
+    "Director": "Aaron Seltzer",
+    "Genres": [
+        "Comedy"
+    ],
+    "GrossRevenue": 34816824,
+    "Budget": 20000000,
+    "NetRevenue": 14816824
+}

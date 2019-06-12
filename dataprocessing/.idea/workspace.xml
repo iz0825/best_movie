@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68e5588e-c806-468c-b431-faef8881cc23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bottom100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/top250.py" beforeDir="false" afterPath="$PROJECT_DIR$/top250.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,55 +24,41 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="20" />
-          <entry key="py" value="5" />
+          <entry key="json" value="21" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="20" />
-          <entry key="Python" value="5" />
+          <entry key="JSON" value="21" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3281" />
+          <entry key="py" value="3298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3281" />
+          <entry key="Python" value="3298" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/top250.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-945">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1560343699791" expanded="true" signature="82:681" ph="..." />
-                <marker date="1560343699791" expanded="true" signature="1487:1948" ph="..." />
+                <marker date="1560345607576" expanded="true" signature="82:681" ph="..." />
+                <marker date="1560345607576" expanded="true" signature="1487:1948" ph="..." />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/data191.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/data194.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251" />
           </provider>
         </entry>
       </file>
@@ -89,6 +77,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/bottom100.py" />
         <option value="$PROJECT_DIR$/top250.py" />
       </list>
     </option>
@@ -111,11 +100,6 @@
             <path>
               <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,12 +168,12 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.334114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.334114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960968" visible="true" weight="0.32991454" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960968" visible="true" weight="0.32991454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45811966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,16 +234,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top250.py">
+    <entry file="file://$PROJECT_DIR$/data/data187.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1560343699791" expanded="true" signature="82:681" ph="..." />
-            <marker date="1560343699791" expanded="true" signature="1487:1948" ph="..." />
-          </folding>
-        </state>
+        <state relative-caret-position="-251" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data194.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/data191.json">
@@ -267,9 +249,19 @@
         <state relative-caret-position="-234" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/data194.json">
+    <entry file="file://$PROJECT_DIR$/bottom100.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top250.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251" />
+        <state relative-caret-position="221">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1560345607576" expanded="true" signature="82:681" ph="..." />
+            <marker date="1560345607576" expanded="true" signature="1487:1948" ph="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

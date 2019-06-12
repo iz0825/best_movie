@@ -1,0 +1,31 @@
+{
+    "MovieName": "Beverly Hills Chihuahua",
+    "Cast": [
+        "Piper Perabo",
+        "Manolo Cardona",
+        "Jamie Lee Curtis",
+        "Jos\u00e9 Mar\u00eda Yazpik",
+        "Maury Sterling",
+        "Jes\u00fas Ochoa",
+        "Eugenio Derbez",
+        "Omar Leyva",
+        "Naomy Romo",
+        "Ali Hillis",
+        "Marguerite Moreau",
+        "Nick Zano",
+        "Carmen Vera",
+        "Gina Gallego",
+        "Hiram Vilchez"
+    ],
+    "Director": "Raja Gosnell",
+    "Genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "GrossRevenue": 149281606,
+    "Budget": 20000000,
+    "NetRevenue": 129281606
+}
