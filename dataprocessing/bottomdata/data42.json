@@ -1,0 +1,32 @@
+{
+    "MovieName": "The Adventures of Sharkboy and Lavagirl 3-D",
+    "Cast": [
+        "Taylor Lautner",
+        "Taylor Dooley",
+        "Cayden Boyd",
+        "George Lopez",
+        "David Arquette",
+        "Kristin Davis",
+        "Jacob Davich",
+        "Sasha Pieterse",
+        "Rico Torres",
+        "Marc Musso",
+        "Shane Graham",
+        "Tiger Darrow",
+        "Rocket Rodriguez",
+        "Racer Rodriguez",
+        "Rebel Rodriguez"
+    ],
+    "Director": "Robert Rodriguez",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 71992655,
+    "Budget": 50000000,
+    "NetRevenue": 21992655
+}

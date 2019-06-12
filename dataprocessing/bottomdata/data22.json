@@ -1,0 +1,31 @@
+{
+    "MovieName": "Steel",
+    "Cast": [
+        "Shaquille O'Neal",
+        "Annabeth Gish",
+        "Judd Nelson",
+        "Richard Roundtree",
+        "Irma P. Hall",
+        "Ray J",
+        "Harvey Silver",
+        "Charles Napier",
+        "Kerrie Keane",
+        "Eric Pierpoint",
+        "Tembi Locke",
+        "Thom Barry",
+        "Gary Graham",
+        "Eric Saiet",
+        "Hill Harper"
+    ],
+    "Director": "Kenneth Johnson",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 1710972,
+    "Budget": 16000000,
+    "NetRevenue": -14289028
+}

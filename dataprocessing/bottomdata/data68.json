@@ -1,0 +1,30 @@
+{
+    "MovieName": "The Cat in the Hat",
+    "Cast": [
+        "Mike Myers",
+        "Alec Baldwin",
+        "Kelly Preston",
+        "Dakota Fanning",
+        "Spencer Breslin",
+        "Amy Hill",
+        "Sean Hayes",
+        "Danielle C. Ryan",
+        "Taylor Rice",
+        "Brittany Oaks",
+        "Talia-Lynn Prairie",
+        "Dan Castellaneta",
+        "Victor Brandt",
+        "Daran Norris",
+        "Bugsy"
+    ],
+    "Director": "Bo Welch",
+    "Genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 133960541,
+    "Budget": 109000000,
+    "NetRevenue": 24960541
+}

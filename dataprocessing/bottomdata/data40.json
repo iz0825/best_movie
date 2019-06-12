@@ -1,0 +1,27 @@
+{
+    "MovieName": "The Room",
+    "Cast": [
+        "Tommy Wiseau",
+        "Juliette Danielle",
+        "Greg Sestero",
+        "Philip Haldiman",
+        "Carolyn Minnott",
+        "Robyn Paris",
+        "Mike Holmes",
+        "Dan Janjigian",
+        "Kyle Vogt",
+        "Greg Ellery",
+        "Piper Gore",
+        "Kari McDermott",
+        "Jennifer Vanderbliek",
+        "Bennett Dunn",
+        "Padma Moyer"
+    ],
+    "Director": "Tommy Wiseau",
+    "Genres": [
+        "Drama"
+    ],
+    "GrossRevenue": 7840034,
+    "Budget": 6000000,
+    "NetRevenue": 1840034
+}
