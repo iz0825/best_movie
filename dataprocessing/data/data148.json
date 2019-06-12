@@ -1,0 +1,29 @@
+{
+    "MovieName": "Jurassic Park",
+    "Cast": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough",
+        "Bob Peck",
+        "Martin Ferrero",
+        "BD Wong",
+        "Joseph Mazzello",
+        "Ariana Richards",
+        "Samuel L. Jackson",
+        "Wayne Knight",
+        "Gerald R. Molen",
+        "Miguel Sandoval",
+        "Cameron Thor",
+        "Christopher John Fields"
+    ],
+    "Director": "Steven Spielberg",
+    "Genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 1029153882,
+    "Budget": 63000000,
+    "NetRevenue": 966153882
+}

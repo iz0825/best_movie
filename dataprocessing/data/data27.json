@@ -1,0 +1,29 @@
+{
+    "MovieName": "The Usual Suspects",
+    "Cast": [
+        "Stephen Baldwin",
+        "Gabriel Byrne",
+        "Benicio Del Toro",
+        "Kevin Pollak",
+        "Kevin Spacey",
+        "Chazz Palminteri",
+        "Pete Postlethwaite",
+        "Suzy Amis",
+        "Giancarlo Esposito",
+        "Dan Hedaya",
+        "Paul Bartel",
+        "Carl Bressler",
+        "Phillipe Simon",
+        "Jack Shearer",
+        "Christine Estabrook"
+    ],
+    "Director": "Bryan Singer",
+    "Genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 34449356,
+    "Budget": 6000000,
+    "NetRevenue": 28449356
+}

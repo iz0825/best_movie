@@ -1,0 +1,29 @@
+{
+    "MovieName": "Psycho",
+    "Cast": [
+        "Anthony Perkins",
+        "Vera Miles",
+        "John Gavin",
+        "Janet Leigh",
+        "Martin Balsam",
+        "John McIntire",
+        "Simon Oakland",
+        "Frank Albertson",
+        "Patricia Hitchcock",
+        "Vaughn Taylor",
+        "Lurene Tuttle",
+        "John Anderson",
+        "Mort Mills",
+        "Fletcher Allen",
+        "Walter Bacon"
+    ],
+    "Director": "Alfred Hitchcock",
+    "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "GrossRevenue": 50000000,
+    "Budget": 806947,
+    "NetRevenue": 49193053
+}
