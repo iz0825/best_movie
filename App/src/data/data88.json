@@ -1,29 +1,30 @@
 {
-    "MovieName": "The Kid",
+    "MovieName": "Green Book",
     "Cast": [
-        "Carl Miller",
-        "Edna Purviance",
-        "Jackie Coogan",
-        "Charles Chaplin",
-        "Albert Austin",
-        "Beulah Bains",
-        "Nellie Bly Baker",
-        "Henry Bergman",
-        "Edward Biby",
-        "F. Blinn",
-        "Kitty Bradbury",
-        "Frank Campeau",
-        "Bliss Chevalier",
-        "Frances Cochran",
-        "Elsie Codd"
+        "Viggo Mortensen",
+        "Mahershala Ali",
+        "Linda Cardellini",
+        "Sebastian Maniscalco",
+        "Dimiter D. Marinov",
+        "Mike Hatton",
+        "P.J. Byrne",
+        "Joe Cortese",
+        "Maggie Nixon",
+        "Von Lewis",
+        "Jon Sortland",
+        "Don Stark",
+        "Anthony Mangano",
+        "Paul Sloan",
+        "Quinn Duffy"
     ],
-    "Director": "Charles Chaplin",
+    "Director": "Peter Farrelly",
     "Genres": [
+        "Biography",
         "Comedy",
         "Drama",
-        "Family"
+        "Music"
     ],
-    "GrossRevenue": 5450000,
-    "Budget": 250000,
-    "NetRevenue": 5200000
+    "GrossRevenue": 319737361,
+    "Budget": 23000000,
+    "NetRevenue": 296737361
 }

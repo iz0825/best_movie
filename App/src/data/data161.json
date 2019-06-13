@@ -1,29 +1,29 @@
 {
-    "MovieName": "Ben-Hur",
+    "MovieName": "Alien: Covenant",
     "Cast": [
-        "Charlton Heston",
-        "Jack Hawkins",
-        "Haya Harareet",
-        "Stephen Boyd",
-        "Hugh Griffith",
-        "Martha Scott",
-        "Cathy O'Donnell",
-        "Sam Jaffe",
-        "Finlay Currie",
-        "Frank Thring",
-        "Terence Longdon",
-        "George Relph",
-        "Andr\u00e9 Morell",
-        "Fortunato Arena",
-        "Bruno Ari\u00e8"
+        "Michael Fassbender",
+        "Katherine Waterston",
+        "Billy Crudup",
+        "Danny McBride",
+        "Demi\u00e1n Bichir",
+        "Carmen Ejogo",
+        "Jussie Smollett",
+        "Callie Hernandez",
+        "Amy Seimetz",
+        "Nathaniel Dean",
+        "Alexander England",
+        "Benjamin Rigby",
+        "Uli Latukefu",
+        "Tess Haubrich",
+        "Lorelei King"
     ],
-    "Director": "William Wyler",
+    "Director": "Ridley Scott",
     "Genres": [
-        "Adventure",
-        "Drama",
-        "History"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 196200000,
-    "Budget": 15900000,
-    "NetRevenue": 180300000
+    "GrossRevenue": 240891763,
+    "Budget": 97000000,
+    "NetRevenue": 143891763
 }

@@ -1,0 +1,28 @@
+{
+    "MovieName": "This Is the End",
+    "Cast": [
+        "James Franco",
+        "Jonah Hill",
+        "Seth Rogen",
+        "Jay Baruchel",
+        "Danny McBride",
+        "Craig Robinson",
+        "Michael Cera",
+        "Emma Watson",
+        "Mindy Kaling",
+        "David Krumholtz",
+        "Christopher Mintz-Plasse",
+        "Rihanna",
+        "Martin Starr",
+        "Paul Rudd",
+        "Channing Tatum"
+    ],
+    "Director": "Seth Rogen",
+    "Genres": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "GrossRevenue": 126041322,
+    "Budget": 32000000,
+    "NetRevenue": 94041322
+}

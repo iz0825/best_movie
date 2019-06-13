@@ -1,29 +1,28 @@
 {
-    "MovieName": "The Thing",
+    "MovieName": "The Witch",
     "Cast": [
-        "Kurt Russell",
-        "Wilford Brimley",
-        "T.K. Carter",
-        "David Clennon",
-        "Keith David",
-        "Richard Dysart",
-        "Charles Hallahan",
-        "Peter Maloney",
-        "Richard Masur",
-        "Donald Moffat",
-        "Joel Polis",
-        "Thomas G. Waites",
-        "Norbert Weisser",
-        "Larry Franco",
-        "Nate Irwin"
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson",
+        "Julian Richings",
+        "Bathsheba Garnett",
+        "Sarah Stephens",
+        "Daniel Malik",
+        "Axtun Henry Dube",
+        "Athan Conrad Dube",
+        "Viv Moore",
+        "Karen Kaeja",
+        "Brandy Leary"
     ],
-    "Director": "John Carpenter",
+    "Director": "Robert Eggers",
     "Genres": [
         "Horror",
-        "Mystery",
-        "Sci-Fi"
+        "Mystery"
     ],
-    "GrossRevenue": 13782838,
-    "Budget": 15000000,
-    "NetRevenue": -1217162
+    "GrossRevenue": 25138292,
+    "Budget": 3500000,
+    "NetRevenue": 21638292
 }

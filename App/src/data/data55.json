@@ -1,29 +1,29 @@
 {
-    "MovieName": "Avengers: Infinity War",
+    "MovieName": "Ready Player One",
     "Cast": [
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo",
-        "Chris Evans",
-        "Scarlett Johansson",
-        "Don Cheadle",
-        "Benedict Cumberbatch",
-        "Tom Holland",
-        "Chadwick Boseman",
-        "Zoe Saldana",
-        "Karen Gillan",
-        "Tom Hiddleston",
-        "Paul Bettany",
-        "Elizabeth Olsen",
-        "Anthony Mackie"
+        "Tye Sheridan",
+        "Olivia Cooke",
+        "Ben Mendelsohn",
+        "Lena Waithe",
+        "T.J. Miller",
+        "Simon Pegg",
+        "Mark Rylance",
+        "Philip Zhao",
+        "Win Morisaki",
+        "Hannah John-Kamen",
+        "Ralph Ineson",
+        "Susan Lynch",
+        "Clare Higgins",
+        "Laurence Spellman",
+        "Perdita Weeks"
     ],
-    "Director": "Joe Russo",
+    "Director": "Steven Spielberg",
     "Genres": [
         "Action",
         "Adventure",
         "Sci-Fi"
     ],
-    "GrossRevenue": 2048709917,
-    "Budget": 321000000,
-    "NetRevenue": 1727709917
+    "GrossRevenue": 582890172,
+    "Budget": 175000000,
+    "NetRevenue": 407890172
 }

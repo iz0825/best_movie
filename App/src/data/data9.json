@@ -1,27 +1,30 @@
 {
-    "MovieName": "Fight Club",
+    "MovieName": "Solo: A Star Wars Story",
     "Cast": [
-        "Edward Norton",
-        "Brad Pitt",
-        "Meat Loaf",
-        "Zach Grenier",
-        "Richmond Arquette",
-        "David Andrews",
-        "George Maguire",
-        "Eugenie Bondurant",
-        "Helena Bonham Carter",
-        "Christina Cabot",
-        "Sydney 'Big Dawg' Colston",
-        "Rachel Singer",
-        "Christie Cronenweth",
-        "Tim DeZarn",
-        "Ezra Buzzington"
+        "Alden Ehrenreich",
+        "Joonas Suotamo",
+        "Woody Harrelson",
+        "Emilia Clarke",
+        "Donald Glover",
+        "Thandie Newton",
+        "Phoebe Waller-Bridge",
+        "Paul Bettany",
+        "Jon Favreau",
+        "Erin Kellyman",
+        "Linda Hunt",
+        "Ian Kenny",
+        "John Tui",
+        "Anna Francolini",
+        "Andrew Woodall"
     ],
-    "Director": "David Fincher",
+    "Director": "Ron Howard",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 71000000,
-    "Budget": 63000000,
-    "NetRevenue": 8000000
+    "GrossRevenue": 392074197,
+    "Budget": 300000000,
+    "NetRevenue": 92074197
 }

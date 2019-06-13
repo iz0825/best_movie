@@ -1,28 +1,30 @@
 {
-    "MovieName": "Once Upon a Time in America",
+    "MovieName": "The Prestige",
     "Cast": [
-        "Robert De Niro",
-        "James Woods",
-        "Elizabeth McGovern",
-        "Treat Williams",
-        "Tuesday Weld",
-        "Burt Young",
-        "Joe Pesci",
-        "Danny Aiello",
-        "William Forsythe",
-        "James Hayden",
-        "Darlanne Fluegel",
-        "Larry Rapp",
-        "Dutch Miller",
-        "Robert Harper",
-        "Richard Bright"
+        "Hugh Jackman",
+        "Christian Bale",
+        "Michael Caine",
+        "Piper Perabo",
+        "Rebecca Hall",
+        "Scarlett Johansson",
+        "Samantha Mahurin",
+        "David Bowie",
+        "Andy Serkis",
+        "Daniel Davis",
+        "Jim Piddock",
+        "Christopher Neame",
+        "Mark Ryan",
+        "Roger Rees",
+        "Jamie Harris"
     ],
-    "Director": "Sergio Leone",
+    "Director": "Christopher Nolan",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 5321508,
-    "Budget": 30000000,
-    "NetRevenue": -24678492
+    "GrossRevenue": 109676311,
+    "Budget": 40000000,
+    "NetRevenue": 69676311
 }

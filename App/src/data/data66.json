@@ -1,30 +1,30 @@
 {
-    "MovieName": "Das Boot",
+    "MovieName": "Braveheart",
     "Cast": [
-        "J\u00fcrgen Prochnow",
-        "Herbert Gr\u00f6nemeyer",
-        "Klaus Wennemann",
-        "Hubertus Bengsch",
-        "Martin Semmelrogge",
-        "Bernd Tauber",
-        "Erwin Leder",
-        "Martin May",
-        "Heinz Hoenig",
-        "Uwe Ochsenknecht",
-        "Claude-Oliver Rudolph",
-        "Jan Fedder",
-        "Ralf Richter",
-        "Joachim Bernhard",
-        "Oliver Stritzel"
+        "James Robinson",
+        "Sean Lawlor",
+        "Sandy Nelson",
+        "James Cosmo",
+        "Sean McGinley",
+        "Alan Tall",
+        "Andrew Weir",
+        "Gerda Stevenson",
+        "Ralph Riach",
+        "Mhairi Calvey",
+        "Brian Cox",
+        "Patrick McGoohan",
+        "Peter Hanly",
+        "Sophie Marceau",
+        "Stephen Billington"
     ],
-    "Director": "Wolfgang Petersen",
+    "Director": "Mel Gibson",
     "Genres": [
-        "Adventure",
+        "Biography",
         "Drama",
-        "Thriller",
+        "History",
         "War"
     ],
-    "GrossRevenue": 73482661,
-    "Budget": 14000000,
-    "NetRevenue": 59482661
+    "GrossRevenue": 210409945,
+    "Budget": 72000000,
+    "NetRevenue": 138409945
 }

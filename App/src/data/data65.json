@@ -1,33 +1,30 @@
 {
-    "MovieName": "Coco",
+    "MovieName": "Cinderella",
     "Cast": [
-        "Anthony Gonzalez",
-        "Gael Garc\u00eda Bernal",
-        "Benjamin Bratt",
-        "Alanna Ubach",
-        "Renee Victor",
-        "Jaime Camil",
-        "Alfonso Arau",
-        "Herbert Siguenza",
-        "Gabriel Iglesias",
-        "Lombardo Boyar",
-        "Ana Ofelia Murgu\u00eda",
-        "Natalia Cordova-Buckley",
-        "Selene Luna",
-        "Edward James Olmos",
-        "Sof\u00eda Espinosa"
+        "Cate Blanchett",
+        "Lily James",
+        "Richard Madden",
+        "Helena Bonham Carter",
+        "Nonso Anozie",
+        "Stellan Skarsg\u00e5rd",
+        "Sophie McShera",
+        "Holliday Grainger",
+        "Derek Jacobi",
+        "Ben Chaplin",
+        "Hayley Atwell",
+        "Rob Brydon",
+        "Jana P\u00e9rez",
+        "Alex Macqueen",
+        "Tom Edden"
     ],
-    "Director": "Adrian Molina",
+    "Director": "Kenneth Branagh",
     "Genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
+        "Drama",
         "Family",
         "Fantasy",
-        "Music",
-        "Mystery"
+        "Romance"
     ],
-    "GrossRevenue": 807082196,
-    "Budget": 175000000,
-    "NetRevenue": 632082196
+    "GrossRevenue": 543514353,
+    "Budget": 95000000,
+    "NetRevenue": 448514353
 }

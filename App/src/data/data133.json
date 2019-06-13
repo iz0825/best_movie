@@ -1,29 +1,29 @@
 {
-    "MovieName": "The Sixth Sense",
+    "MovieName": "Snowpiercer",
     "Cast": [
-        "Bruce Willis",
-        "Haley Joel Osment",
-        "Toni Collette",
-        "Olivia Williams",
-        "Trevor Morgan",
-        "Donnie Wahlberg",
-        "Peter Anthony Tambakis",
-        "Jeffrey Zubernis",
-        "Bruce Norris",
-        "Glenn Fitzgerald",
-        "Greg Wood",
-        "Mischa Barton",
-        "Angelica Page",
-        "Lisa Summerour",
-        "Firdous Bamji"
+        "Chris Evans",
+        "Kang-ho Song",
+        "Ed Harris",
+        "John Hurt",
+        "Tilda Swinton",
+        "Jamie Bell",
+        "Octavia Spencer",
+        "Ewen Bremner",
+        "Ko Asung",
+        "Alison Pill",
+        "Luke Pasqualino",
+        "Vlad Ivanov",
+        "Adnan Haskovic",
+        "Emma Levie",
+        "Steve Park"
     ],
-    "Director": "M. Night Shyamalan",
+    "Director": "Joon-ho Bong",
     "Genres": [
+        "Action",
         "Drama",
-        "Mystery",
-        "Thriller"
+        "Sci-Fi"
     ],
-    "GrossRevenue": 672806292,
-    "Budget": 40000000,
-    "NetRevenue": 632806292
+    "GrossRevenue": 86758912,
+    "Budget": 39200000,
+    "NetRevenue": 47558912
 }

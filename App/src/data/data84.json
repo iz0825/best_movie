@@ -1,28 +1,29 @@
 {
-    "MovieName": "Full Metal Jacket",
+    "MovieName": "John Wick",
     "Cast": [
-        "Matthew Modine",
-        "Adam Baldwin",
-        "Vincent D'Onofrio",
-        "R. Lee Ermey",
-        "Dorian Harewood",
-        "Kevyn Major Howard",
-        "Arliss Howard",
-        "Ed O'Ross",
-        "John Terry",
-        "Kieron Jecchinis",
-        "Kirk Taylor",
-        "Tim Colceri",
-        "Jon Stafford",
-        "Bruce Boa",
-        "Ian Tyler"
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen",
+        "Willem Dafoe",
+        "Dean Winters",
+        "Adrianne Palicki",
+        "Omer Barnea",
+        "Toby Leonard Moore",
+        "Daniel Bernhardt",
+        "Bridget Moynahan",
+        "John Leguizamo",
+        "Ian McShane",
+        "Bridget Regan",
+        "Lance Reddick",
+        "Keith Jardine"
     ],
-    "Director": "Stanley Kubrick",
+    "Director": "David Leitch",
     "Genres": [
-        "Drama",
-        "War"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
-    "GrossRevenue": 46357676,
-    "Budget": 30000000,
-    "NetRevenue": 16357676
+    "GrossRevenue": 130888901,
+    "Budget": 20000000,
+    "NetRevenue": 110888901
 }

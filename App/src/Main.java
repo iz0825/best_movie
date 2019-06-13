@@ -64,7 +64,7 @@ public class Main {
     String finalFileName;
 
 
-    for(int i = 0; i < 194;i++) {
+    for(int i = 0; i < 380;i++) {
       StringBuilder stringBuilder = new StringBuilder(fileNamePrefix);
       stringBuilder.append(i);
       stringBuilder.append(fileNameSuffix);
@@ -97,6 +97,7 @@ public class Main {
       }
 
       if (flag) {
+        int counter = 0;
         for (String Cast : movie.getCast()) {
           if (actorMap.containsKey(Cast)) {
             actorMap.get(Cast).incrementNumberOfMovies();
@@ -106,8 +107,11 @@ public class Main {
           } else {
             Attributes attribute = new Attributes(Cast, 1, movie.getGrossRevenue(), movie.getGrossRevenue());
             actorMap.put(Cast, attribute);
-
           }
+          if (counter == 5) {
+            break;
+          }
+          counter++;
         }
       }
 

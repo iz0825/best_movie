@@ -1,31 +1,32 @@
 {
-    "MovieName": "Beauty and the Beast",
+    "MovieName": "Smallfoot",
     "Cast": [
-        "Robby Benson",
-        "Jesse Corti",
-        "Rex Everhart",
-        "Angela Lansbury",
-        "Paige O'Hara",
-        "Jerry Orbach",
-        "Bradley Pierce",
-        "David Ogden Stiers",
-        "Richard White",
-        "Jo Anne Worley",
-        "Mary Kay Bergman",
-        "Brian Cummings",
-        "Alvin Epstein",
-        "Tony Jay",
-        "Alec Murphy"
+        "Channing Tatum",
+        "James Corden",
+        "Zendaya",
+        "Common",
+        "LeBron James",
+        "Danny DeVito",
+        "Gina Rodriguez",
+        "Yara Shahidi",
+        "Ely Henry",
+        "Jimmy Tatro",
+        "Patricia Heaton",
+        "Justin Roiland",
+        "Jack Quaid",
+        "Sarah Baker",
+        "Kelly Holden Bashar"
     ],
-    "Director": "Kirk Wise",
+    "Director": "Jason Reisig",
     "Genres": [
         "Animation",
+        "Adventure",
+        "Comedy",
         "Family",
         "Fantasy",
-        "Musical",
-        "Romance"
+        "Musical"
     ],
-    "GrossRevenue": 424967620,
-    "Budget": 25000000,
-    "NetRevenue": 399967620
+    "GrossRevenue": 214140103,
+    "Budget": 80000000,
+    "NetRevenue": 134140103
 }

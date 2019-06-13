@@ -1,29 +1,32 @@
 {
-    "MovieName": "Psycho",
+    "MovieName": "Annihilation",
     "Cast": [
-        "Anthony Perkins",
-        "Vera Miles",
-        "John Gavin",
-        "Janet Leigh",
-        "Martin Balsam",
-        "John McIntire",
-        "Simon Oakland",
-        "Frank Albertson",
-        "Patricia Hitchcock",
-        "Vaughn Taylor",
-        "Lurene Tuttle",
-        "John Anderson",
-        "Mort Mills",
-        "Fletcher Allen",
-        "Walter Bacon"
+        "Natalie Portman",
+        "Benedict Wong",
+        "Sonoya Mizuno",
+        "David Gyasi",
+        "Oscar Isaac",
+        "John Schwab",
+        "Jennifer Jason Leigh",
+        "Gina Rodriguez",
+        "Tuva Novotny",
+        "Tessa Thompson",
+        "Sammy Hayman",
+        "Josh Danford",
+        "Kristen McGarrity",
+        "Kola Bokinni",
+        "Annarie Boor"
     ],
-    "Director": "Alfred Hitchcock",
+    "Director": "Alex Garland",
     "Genres": [
+        "Adventure",
+        "Drama",
         "Horror",
         "Mystery",
+        "Sci-Fi",
         "Thriller"
     ],
-    "GrossRevenue": 50000000,
-    "Budget": 806947,
-    "NetRevenue": 49193053
+    "GrossRevenue": 32732301,
+    "Budget": 40000000,
+    "NetRevenue": -7267699
 }

@@ -1,28 +1,30 @@
 {
-    "MovieName": "Seven Samurai",
+    "MovieName": "Suicide Squad",
     "Cast": [
-        "Toshir\u00f4 Mifune",
-        "Takashi Shimura",
-        "Keiko Tsushima",
-        "Yukiko Shimazaki",
-        "Kamatari Fujiwara",
-        "Daisuke Kat\u00f4",
-        "Isao Kimura",
-        "Minoru Chiaki",
-        "Seiji Miyaguchi",
-        "Yoshio Kosugi",
-        "Bokuzen Hidari",
-        "Yoshio Inaba",
-        "Yoshio Tsuchiya",
-        "Kokuten K\u00f4d\u00f4",
-        "Eijir\u00f4 T\u00f4no"
+        "Will Smith",
+        "Jaime FitzSimons",
+        "Ike Barinholtz",
+        "Margot Robbie",
+        "Christopher Dyson",
+        "Bambadjan Bamba",
+        "Viola Davis",
+        "Ted Whittall",
+        "David Harbour",
+        "Robin Atkin Downes",
+        "Robert B. Kennedy",
+        "Billy Otis",
+        "Shailyn Pierre-Dixon",
+        "Jared Leto",
+        "James McGowan"
     ],
-    "Director": "Akira Kurosawa",
+    "Director": "David Ayer",
     "Genres": [
+        "Action",
         "Adventure",
-        "Drama"
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 269061,
-    "Budget": 2000000,
-    "NetRevenue": -1730939
+    "GrossRevenue": 746846894,
+    "Budget": 175000000,
+    "NetRevenue": 571846894
 }

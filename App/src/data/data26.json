@@ -1,28 +1,28 @@
 {
-    "MovieName": "Saving Private Ryan",
+    "MovieName": "Split",
     "Cast": [
-        "Tom Hanks",
-        "Tom Sizemore",
-        "Edward Burns",
-        "Barry Pepper",
-        "Adam Goldberg",
-        "Vin Diesel",
-        "Giovanni Ribisi",
-        "Jeremy Davies",
-        "Matt Damon",
-        "Ted Danson",
-        "Paul Giamatti",
-        "Dennis Farina",
-        "Joerg Stadler",
-        "Max Martini",
-        "Dylan Bruno"
+        "James McAvoy",
+        "Anya Taylor-Joy",
+        "Betty Buckley",
+        "Haley Lu Richardson",
+        "Jessica Sula",
+        "Izzie Coffey",
+        "Brad William Henke",
+        "Sebastian Arcelus",
+        "Neal Huff",
+        "Ukee Washington",
+        "Ann Wood",
+        "Robert Michael Kelly",
+        "M. Night Shyamalan",
+        "Rosemary Howard",
+        "Jerome Gallman"
     ],
-    "Director": "Steven Spielberg",
+    "Director": "M. Night Shyamalan",
     "Genres": [
-        "Drama",
-        "War"
+        "Horror",
+        "Thriller"
     ],
-    "GrossRevenue": 481840909,
-    "Budget": 70000000,
-    "NetRevenue": 411840909
+    "GrossRevenue": 278454358,
+    "Budget": 9000000,
+    "NetRevenue": 269454358
 }

@@ -1,30 +1,29 @@
 {
-    "MovieName": "Aliens",
+    "MovieName": "Twilight",
     "Cast": [
-        "Sigourney Weaver",
-        "Carrie Henn",
-        "Michael Biehn",
-        "Paul Reiser",
-        "Lance Henriksen",
-        "Bill Paxton",
-        "William Hope",
-        "Jenette Goldstein",
-        "Al Matthews",
-        "Mark Rolston",
-        "Ricco Ross",
-        "Colette Hiller",
-        "Daniel Kash",
-        "Cynthia Dale Scott",
-        "Tip Tipping"
+        "Kristen Stewart",
+        "Sarah Clarke",
+        "Matt Bushell",
+        "Billy Burke",
+        "Gil Birmingham",
+        "Taylor Lautner",
+        "Gregory Tyree Boyce",
+        "Justin Chon",
+        "Michael Welch",
+        "Anna Kendrick",
+        "Christian Serratos",
+        "Nikki Reed",
+        "Kellan Lutz",
+        "Ashley Greene",
+        "Jackson Rathbone"
     ],
-    "Director": "James Cameron",
+    "Director": "Catherine Hardwicke",
     "Genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Thriller"
+        "Drama",
+        "Fantasy",
+        "Romance"
     ],
-    "GrossRevenue": 131060248,
-    "Budget": 18500000,
-    "NetRevenue": 112560248
+    "GrossRevenue": 392616625,
+    "Budget": 37000000,
+    "NetRevenue": 355616625
 }

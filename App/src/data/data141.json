@@ -1,28 +1,28 @@
 {
-    "MovieName": "The Deer Hunter",
+    "MovieName": "Wonder",
     "Cast": [
-        "Robert De Niro",
-        "John Cazale",
-        "John Savage",
-        "Christopher Walken",
-        "Meryl Streep",
-        "George Dzundza",
-        "Chuck Aspegren",
-        "Shirley Stoler",
-        "Rutanya Alda",
-        "Pierre Segui",
-        "Mady Kaplan",
-        "Amy Wright",
-        "Mary Ann Haenel",
-        "Richard Kuss",
-        "Joe Grifasi"
+        "Jacob Tremblay",
+        "Owen Wilson",
+        "Izabela Vidovic",
+        "Julia Roberts",
+        "Mark Dozlaw",
+        "Rukiya Bernard",
+        "Jennifer March",
+        "Mandy Patinkin",
+        "Noah Jupe",
+        "Bryce Gheisar",
+        "Elle McKinnon",
+        "Daveed Diggs",
+        "Ty Consiglio",
+        "Kyle Breitkopf",
+        "James A Hughes"
     ],
-    "Director": "Michael Cimino",
+    "Director": "Stephen Chbosky",
     "Genres": [
         "Drama",
-        "War"
+        "Family"
     ],
-    "GrossRevenue": 48979328,
-    "Budget": 15000000,
-    "NetRevenue": 33979328
+    "GrossRevenue": 305593765,
+    "Budget": 20000000,
+    "NetRevenue": 285593765
 }

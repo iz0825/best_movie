@@ -1,29 +1,30 @@
 {
-    "MovieName": "The Apartment",
+    "MovieName": "Logan",
     "Cast": [
-        "Jack Lemmon",
-        "Shirley MacLaine",
-        "Fred MacMurray",
-        "Ray Walston",
-        "Jack Kruschen",
-        "David Lewis",
-        "Hope Holiday",
-        "Joan Shawlee",
-        "Naomi Stevens",
-        "Johnny Seven",
-        "Joyce Jameson",
-        "Willard Waterman",
-        "David White",
-        "Edie Adams",
-        "Dorothy Abbott"
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen",
+        "Boyd Holbrook",
+        "Stephen Merchant",
+        "Elizabeth Rodriguez",
+        "Richard E. Grant",
+        "Eriq La Salle",
+        "Elise Neal",
+        "Quincy Fouse",
+        "Al Coronel",
+        "Frank Gallegos",
+        "Anthony Escobar",
+        "Reynaldo Gallegos",
+        "Krzysztof Soszynski"
     ],
-    "Director": "Billy Wilder",
+    "Director": "James Mangold",
     "Genres": [
-        "Comedy",
+        "Action",
         "Drama",
-        "Romance"
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 25000000,
-    "Budget": 3000000,
-    "NetRevenue": 22000000
+    "GrossRevenue": 619021436,
+    "Budget": 97000000,
+    "NetRevenue": 522021436
 }

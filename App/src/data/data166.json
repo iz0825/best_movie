@@ -1,30 +1,28 @@
 {
-    "MovieName": "Prisoners",
+    "MovieName": "Edge of Tomorrow",
     "Cast": [
-        "Hugh Jackman",
-        "Jake Gyllenhaal",
-        "Viola Davis",
-        "Maria Bello",
-        "Terrence Howard",
-        "Melissa Leo",
-        "Paul Dano",
-        "Dylan Minnette",
-        "Zo\u00eb Soul",
-        "Erin Gerasimovich",
-        "Kyla-Drew",
-        "Wayne Duvall",
-        "Len Cariou",
-        "David Dastmalchian",
-        "Brad James"
+        "Tom Cruise",
+        "Emily Blunt",
+        "Brendan Gleeson",
+        "Bill Paxton",
+        "Jonas Armstrong",
+        "Tony Way",
+        "Kick Gurry",
+        "Franz Drameh",
+        "Dragomir Mrsic",
+        "Charlotte Riley",
+        "Masayoshi Haneda",
+        "Terence Maynard",
+        "Noah Taylor",
+        "Lara Pulver",
+        "Madeleine Mantock"
     ],
-    "Director": "Denis Villeneuve",
+    "Director": "Doug Liman",
     "Genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
+        "Action",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 122126687,
-    "Budget": 46000000,
-    "NetRevenue": 76126687
+    "GrossRevenue": 369206256,
+    "Budget": 178000000,
+    "NetRevenue": 191206256
 }

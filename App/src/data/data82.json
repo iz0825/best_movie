@@ -1,31 +1,30 @@
 {
-    "MovieName": "Double Indemnity",
+    "MovieName": "The Secret Life of Pets 2",
     "Cast": [
-        "Fred MacMurray",
-        "Barbara Stanwyck",
-        "Edward G. Robinson",
-        "Porter Hall",
-        "Jean Heather",
-        "Tom Powers",
-        "Byron Barr",
-        "Richard Gaines",
-        "Fortunio Bonanova",
-        "John Philliber",
-        "James Adamson",
-        "John Berry",
-        "Raymond Chandler",
-        "Edmund Cobb",
-        "Kernan Cripps"
+        "Patton Oswalt",
+        "Kevin Hart",
+        "Harrison Ford",
+        "Eric Stonestreet",
+        "Jenny Slate",
+        "Tiffany Haddish",
+        "Lake Bell",
+        "Dana Carvey",
+        "Bobby Moynihan",
+        "Hannibal Buress",
+        "Chris Renaud",
+        "Ellie Kemper",
+        "Pete Holmes",
+        "Henry Lynch",
+        "Nick Kroll"
     ],
-    "Director": "Billy Wilder",
+    "Director": "Jonathan del Val",
     "Genres": [
-        "Crime",
-        "Drama",
-        "Film-Noir",
-        "Mystery",
-        "Thriller"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
     ],
-    "GrossRevenue": 5720000,
-    "Budget": 927262,
-    "NetRevenue": 4792738
+    "GrossRevenue": 96577680,
+    "Budget": 80000000,
+    "NetRevenue": 16577680
 }

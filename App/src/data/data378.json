@@ -1,0 +1,29 @@
+{
+    "MovieName": "Avengers: Age of Ultron",
+    "Cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "James Spader",
+        "Samuel L. Jackson",
+        "Don Cheadle",
+        "Aaron Taylor-Johnson",
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Cobie Smulders",
+        "Anthony Mackie",
+        "Hayley Atwell"
+    ],
+    "Director": "Joss Whedon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 1405413868,
+    "Budget": 250000000,
+    "NetRevenue": 1155413868
+}

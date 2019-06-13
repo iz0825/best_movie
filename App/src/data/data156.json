@@ -1,28 +1,29 @@
 {
-    "MovieName": "It Happened One Night",
+    "MovieName": "Empire of the Sun",
     "Cast": [
-        "Clark Gable",
-        "Claudette Colbert",
-        "Walter Connolly",
-        "Roscoe Karns",
-        "Jameson Thomas",
-        "Alan Hale",
-        "Arthur Hoyt",
-        "Blanche Friderici",
-        "Charles C. Wilson",
-        "Ernie Adams",
-        "Jessie Arnold",
-        "Irving Bacon",
-        "William Bailey",
-        "Ward Bond",
-        "Harry C. Bradley"
+        "Christian Bale",
+        "John Malkovich",
+        "Miranda Richardson",
+        "Nigel Havers",
+        "Joe Pantoliano",
+        "Leslie Phillips",
+        "Masat\u00f4 Ibu",
+        "Emily Richard",
+        "Rupert Frazer",
+        "Peter Gale",
+        "Takatar\u00f4 Kataoka",
+        "Ben Stiller",
+        "David Neidorf",
+        "Ralph Seymour",
+        "Robert Stephens"
     ],
-    "Director": "Frank Capra",
+    "Director": "Steven Spielberg",
     "Genres": [
-        "Comedy",
-        "Romance"
+        "Drama",
+        "History",
+        "War"
     ],
-    "GrossRevenue": 4360000,
-    "Budget": 325000,
-    "NetRevenue": 4035000
+    "GrossRevenue": 66700000,
+    "Budget": 35000000,
+    "NetRevenue": 31700000
 }

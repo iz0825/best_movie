@@ -1,30 +1,30 @@
 {
-    "MovieName": "The Green Mile",
+    "MovieName": "Thor",
     "Cast": [
-        "Tom Hanks",
-        "David Morse",
-        "Bonnie Hunt",
-        "Michael Clarke Duncan",
-        "James Cromwell",
-        "Michael Jeter",
-        "Graham Greene",
-        "Doug Hutchison",
-        "Sam Rockwell",
-        "Barry Pepper",
-        "Jeffrey DeMunn",
-        "Patricia Clarkson",
-        "Harry Dean Stanton",
-        "Dabbs Greer",
-        "Eve Brent"
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Tom Hiddleston",
+        "Anthony Hopkins",
+        "Stellan Skarsg\u00e5rd",
+        "Kat Dennings",
+        "Clark Gregg",
+        "Colm Feore",
+        "Idris Elba",
+        "Ray Stevenson",
+        "Tadanobu Asano",
+        "Josh Dallas",
+        "Jaimie Alexander",
+        "Rene Russo",
+        "Adriana Barraza"
     ],
-    "Director": "Frank Darabont",
+    "Director": "Kenneth Branagh",
     "Genres": [
-        "Crime",
-        "Drama",
+        "Action",
+        "Adventure",
         "Fantasy",
-        "Mystery"
+        "Sci-Fi"
     ],
-    "GrossRevenue": 286801374,
-    "Budget": 60000000,
-    "NetRevenue": 226801374
+    "GrossRevenue": 449326618,
+    "Budget": 150000000,
+    "NetRevenue": 299326618
 }

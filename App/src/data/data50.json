@@ -1,29 +1,28 @@
 {
-    "MovieName": "The Great Dictator",
+    "MovieName": "Long Shot",
     "Cast": [
-        "Charles Chaplin",
-        "Jack Oakie",
-        "Reginald Gardiner",
-        "Henry Daniell",
-        "Billy Gilbert",
-        "Grace Hayle",
-        "Carter DeHaven",
-        "Paulette Goddard",
-        "Maurice Moscovitch",
-        "Emma Dunn",
-        "Bernard Gorcey",
-        "Paul Weigel",
-        "Chester Conklin",
-        "Esther Michelson",
-        "Hank Mann"
+        "Charlize Theron",
+        "Seth Rogen",
+        "June Diane Raphael",
+        "O'Shea Jackson Jr.",
+        "Ravi Patel",
+        "Bob Odenkirk",
+        "Andy Serkis",
+        "Randall Park",
+        "Tristan D. Lalla",
+        "Alexander Skarsg\u00e5rd",
+        "Aladeen Tawfeek",
+        "Nathan Morris",
+        "Wanya Morris",
+        "Shawn Stockman",
+        "Isla Dowling"
     ],
-    "Director": "Charles Chaplin",
+    "Director": "Jonathan Levine",
     "Genres": [
         "Comedy",
-        "Drama",
-        "War"
+        "Romance"
     ],
-    "GrossRevenue": 11000000,
-    "Budget": 2000000,
-    "NetRevenue": 9000000
+    "GrossRevenue": 35837291,
+    "Budget": 40000000,
+    "NetRevenue": -4162709
 }

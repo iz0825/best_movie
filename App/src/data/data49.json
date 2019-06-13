@@ -1,27 +1,27 @@
 {
-    "MovieName": "Cinema Paradiso",
+    "MovieName": "Big Jake",
     "Cast": [
-        "Antonella Attili",
-        "Enzo Cannavale",
-        "Isa Danieli",
-        "Leo Gullotta",
-        "Marco Leonardi",
-        "Pupella Maggio",
-        "Agnese Nano",
-        "Leopoldo Trieste",
-        "Salvatore Cascio",
-        "Tano Cimarosa",
-        "Nicola Di Pinto",
-        "Roberta Lena",
-        "Nino Terzo",
-        "Jacques Perrin",
-        "Philippe Noiret"
+        "John Wayne",
+        "Richard Boone",
+        "Maureen O'Hara",
+        "Patrick Wayne",
+        "Christopher Mitchum",
+        "Bobby Vinton",
+        "Bruce Cabot",
+        "Glenn Corbett",
+        "Harry Carey Jr.",
+        "John Doucette",
+        "Jim Davis",
+        "John Agar",
+        "Gregg Palmer",
+        "Jim Burk",
+        "Robert Warner"
     ],
-    "Director": "Giuseppe Tornatore",
+    "Director": "John Wayne",
     "Genres": [
-        "Drama"
+        "Western"
     ],
-    "GrossRevenue": 11990401,
-    "Budget": 5000000,
-    "NetRevenue": 6990401
+    "GrossRevenue": 25350000,
+    "Budget": 4800000,
+    "NetRevenue": 20550000
 }

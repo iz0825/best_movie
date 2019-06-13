@@ -1,31 +1,29 @@
 {
-    "MovieName": "Spider-Man: Into the Spider-Verse",
+    "MovieName": "A Star Is Born",
     "Cast": [
-        "Shameik Moore",
-        "Jake Johnson",
-        "Hailee Steinfeld",
-        "Mahershala Ali",
-        "Brian Tyree Henry",
-        "Lily Tomlin",
-        "Luna Lauren Velez",
-        "Zo\u00eb Kravitz",
-        "John Mulaney",
-        "Kimiko Glenn",
-        "Nicolas Cage",
-        "Kathryn Hahn",
-        "Liev Schreiber",
-        "Chris Pine",
-        "Natalie Morales"
+        "Lady Gaga",
+        "Bradley Cooper",
+        "Sam Elliott",
+        "Andrew Dice Clay",
+        "Rafi Gavron",
+        "Anthony Ramos",
+        "Dave Chappelle",
+        "Alec Baldwin",
+        "Marlon Williams",
+        "Brandi Carlile",
+        "Ron Rifkin",
+        "Barry Shabaka Henley",
+        "Michael D. Roberts",
+        "Michael Harney",
+        "Rebecca Field"
     ],
-    "Director": "Rodney Rothman",
+    "Director": "Bradley Cooper",
     "Genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Family",
-        "Sci-Fi"
+        "Drama",
+        "Music",
+        "Romance"
     ],
-    "GrossRevenue": 375494587,
-    "Budget": 90000000,
-    "NetRevenue": 285494587
+    "GrossRevenue": 433888866,
+    "Budget": 36000000,
+    "NetRevenue": 397888866
 }

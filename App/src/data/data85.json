@@ -1,27 +1,29 @@
 {
-    "MovieName": "Bicycle Thieves",
+    "MovieName": "John Wick: Chapter 2",
     "Cast": [
-        "Lamberto Maggiorani",
-        "Enzo Staiola",
-        "Lianella Carell",
-        "Elena Altieri",
-        "Gino Saltamerenda",
-        "Giulio Chiari",
-        "Vittorio Antonucci",
-        "Michele Sakara",
-        "Fausto Guerzoni",
-        "Emma Druetti",
-        "Carlo Jachino",
-        "Giulio Battiferri",
-        "Ida Bracci Dorati",
-        "Nando Bruno",
-        "Eolo Capritti"
+        "Keanu Reeves",
+        "Riccardo Scamarcio",
+        "Ian McShane",
+        "Ruby Rose",
+        "Common",
+        "Claudia Gerini",
+        "Lance Reddick",
+        "Laurence Fishburne",
+        "Tobias Segal",
+        "John Leguizamo",
+        "Bridget Moynahan",
+        "Thomas Sadoski",
+        "Erik Frandsen",
+        "David Patrick Kelly",
+        "Perry Yung"
     ],
-    "Director": "Vittorio De Sica",
+    "Director": "Chad Stahelski",
     "Genres": [
-        "Drama"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
-    "GrossRevenue": 36818,
-    "Budget": 133000,
-    "NetRevenue": -96182
+    "GrossRevenue": 158216655,
+    "Budget": 40000000,
+    "NetRevenue": 118216655
 }

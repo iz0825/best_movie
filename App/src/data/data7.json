@@ -1,28 +1,31 @@
 {
-    "MovieName": "Pulp Fiction",
+    "MovieName": "Thor: Ragnarok",
     "Cast": [
-        "Tim Roth",
-        "Amanda Plummer",
-        "Laura Lovelace",
-        "John Travolta",
-        "Samuel L. Jackson",
-        "Phil LaMarr",
-        "Frank Whaley",
-        "Burr Steers",
-        "Bruce Willis",
-        "Ving Rhames",
-        "Paul Calderon",
-        "Bronagh Gallagher",
-        "Rosanna Arquette",
-        "Eric Stoltz",
-        "Uma Thurman"
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Idris Elba",
+        "Jeff Goldblum",
+        "Tessa Thompson",
+        "Karl Urban",
+        "Mark Ruffalo",
+        "Anthony Hopkins",
+        "Benedict Cumberbatch",
+        "Taika Waititi",
+        "Rachel House",
+        "Clancy Brown",
+        "Tadanobu Asano",
+        "Ray Stevenson"
     ],
-    "Director": "Quentin Tarantino",
+    "Director": "Taika Waititi",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 213928762,
-    "Budget": 8000000,
-    "NetRevenue": 205928762
+    "GrossRevenue": 853977126,
+    "Budget": 180000000,
+    "NetRevenue": 673977126
 }

@@ -1,30 +1,30 @@
 {
-    "MovieName": "Butch Cassidy and the Sundance Kid",
+    "MovieName": "Elizabeth: The Golden Age",
     "Cast": [
-        "Paul Newman",
-        "Robert Redford",
-        "Katharine Ross",
-        "Strother Martin",
-        "Henry Jones",
-        "Jeff Corey",
-        "George Furth",
-        "Cloris Leachman",
-        "Ted Cassidy",
-        "Kenneth Mars",
-        "Donnelly Rhodes",
-        "Jody Gilbert",
-        "Timothy Scott",
-        "Don Keefer",
-        "Charles Dierkop"
+        "Jordi Moll\u00e0",
+        "Aimee King",
+        "Cate Blanchett",
+        "Laurence Fox",
+        "John Shrapnel",
+        "Geoffrey Rush",
+        "Susan Lynch",
+        "Elise McCave",
+        "Samantha Morton",
+        "Abbie Cornish",
+        "Penelope McGhie",
+        "Rhys Ifans",
+        "Eddie Redmayne",
+        "Stuart McLoughlin",
+        "Clive Owen"
     ],
-    "Director": "George Roy Hill",
+    "Director": "Shekhar Kapur",
     "Genres": [
         "Biography",
-        "Crime",
         "Drama",
-        "Western"
+        "History",
+        "War"
     ],
-    "GrossRevenue": 102308889,
-    "Budget": 6000000,
-    "NetRevenue": 96308889
+    "GrossRevenue": 74870866,
+    "Budget": 55000000,
+    "NetRevenue": 19870866
 }

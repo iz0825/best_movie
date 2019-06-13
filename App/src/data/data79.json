@@ -1,29 +1,29 @@
 {
-    "MovieName": "A Clockwork Orange",
+    "MovieName": "Dark Phoenix",
     "Cast": [
-        "Malcolm McDowell",
-        "Patrick Magee",
-        "Michael Bates",
-        "Warren Clarke",
-        "John Clive",
-        "Adrienne Corri",
-        "Carl Duering",
-        "Paul Farrell",
-        "Clive Francis",
-        "Michael Gover",
-        "Miriam Karlin",
-        "James Marcus",
-        "Aubrey Morris",
-        "Godfrey Quigley",
-        "Sheila Raynor"
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence",
+        "Nicholas Hoult",
+        "Sophie Turner",
+        "Tye Sheridan",
+        "Alexandra Shipp",
+        "Evan Peters",
+        "Kodi Smit-McPhee",
+        "Jessica Chastain",
+        "Scott Shepherd",
+        "Ato Essandoh",
+        "Brian d'Arcy James",
+        "Halston Sage",
+        "Lamar Johnson"
     ],
-    "Director": "Stanley Kubrick",
+    "Director": "Simon Kinberg",
     "Genres": [
-        "Crime",
-        "Drama",
+        "Action",
+        "Adventure",
         "Sci-Fi"
     ],
-    "GrossRevenue": 26589355,
-    "Budget": 2200000,
-    "NetRevenue": 24389355
+    "GrossRevenue": 136571969,
+    "Budget": 200000000,
+    "NetRevenue": -63428031
 }

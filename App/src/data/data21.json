@@ -1,28 +1,29 @@
 {
-    "MovieName": "City of God",
+    "MovieName": "Jurassic Park",
     "Cast": [
-        "Alexandre Rodrigues",
-        "Leandro Firmino",
-        "Phellipe Haagensen",
-        "Douglas Silva",
-        "Jonathan Haagensen",
-        "Matheus Nachtergaele",
-        "Seu Jorge",
-        "Jefechander Suplino",
-        "Alice Braga",
-        "Emerson Gomes",
-        "Edson Oliveira",
-        "Michel Gomes",
-        "Roberta Rodrigues",
-        "Luis Ot\u00e1vio",
-        "Kiko Marques"
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough",
+        "Bob Peck",
+        "Martin Ferrero",
+        "BD Wong",
+        "Joseph Mazzello",
+        "Ariana Richards",
+        "Samuel L. Jackson",
+        "Wayne Knight",
+        "Gerald R. Molen",
+        "Miguel Sandoval",
+        "Cameron Thor",
+        "Christopher John Fields"
     ],
-    "Director": "K\u00e1tia Lund",
+    "Director": "Steven Spielberg",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 32059295,
-    "Budget": 3300000,
-    "NetRevenue": 28759295
+    "GrossRevenue": 1029153882,
+    "Budget": 63000000,
+    "NetRevenue": 966153882
 }

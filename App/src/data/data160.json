@@ -1,27 +1,27 @@
 {
-    "MovieName": "Monty Python's Life of Brian",
+    "MovieName": "Dazed and Confused",
     "Cast": [
-        "Graham Chapman",
-        "John Cleese",
-        "Terry Gilliam",
-        "Eric Idle",
-        "Terry Jones",
-        "Michael Palin",
-        "Terence Bayler",
-        "Carol Cleveland",
-        "Kenneth Colley",
-        "Neil Innes",
-        "Charles McKeown",
-        "John Young",
-        "Gwen Taylor",
-        "Sue Jones-Davies",
-        "Peter Brett"
+        "Jason London",
+        "Joey Lauren Adams",
+        "Milla Jovovich",
+        "Shawn Andrews",
+        "Rory Cochrane",
+        "Adam Goldberg",
+        "Anthony Rapp",
+        "Sasha Jenson",
+        "Marissa Ribisi",
+        "Deena Martin",
+        "Michelle Burke",
+        "Cole Hauser",
+        "Christine Harnos",
+        "Wiley Wiggins",
+        "Mark Vandermeulen"
     ],
-    "Director": "Terry Jones",
+    "Director": "Richard Linklater",
     "Genres": [
         "Comedy"
     ],
-    "GrossRevenue": 36045115,
-    "Budget": 4000000,
-    "NetRevenue": 32045115
+    "GrossRevenue": 7993039,
+    "Budget": 6900000,
+    "NetRevenue": 1093039
 }

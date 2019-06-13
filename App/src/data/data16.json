@@ -1,29 +1,29 @@
 {
-    "MovieName": "Goodfellas",
+    "MovieName": "Fantastic Beasts: The Crimes of Grindelwald",
     "Cast": [
-        "Robert De Niro",
-        "Ray Liotta",
-        "Joe Pesci",
-        "Lorraine Bracco",
-        "Paul Sorvino",
-        "Frank Sivero",
-        "Tony Darrow",
-        "Mike Starr",
-        "Frank Vincent",
-        "Chuck Low",
-        "Frank DiLeo",
-        "Henny Youngman",
-        "Gina Mastrogiacomo",
-        "Catherine Scorsese",
-        "Charles Scorsese"
+        "Johnny Depp",
+        "Kevin Guthrie",
+        "Carmen Ejogo",
+        "Wolf Roth",
+        "Eddie Redmayne",
+        "Zo\u00eb Kravitz",
+        "Callum Turner",
+        "Derek Riddell",
+        "Cornell John",
+        "Ezra Miller",
+        "Ingvar Sigurdsson",
+        "Poppy Corby-Tuech",
+        "Andrew Turner",
+        "Maja Bloom",
+        "Simon Meacock"
     ],
-    "Director": "Martin Scorsese",
+    "Director": "David Yates",
     "Genres": [
-        "Biography",
-        "Crime",
-        "Drama"
+        "Adventure",
+        "Family",
+        "Fantasy"
     ],
-    "GrossRevenue": 46836394,
-    "Budget": 25000000,
-    "NetRevenue": 21836394
+    "GrossRevenue": 653655901,
+    "Budget": 200000000,
+    "NetRevenue": 453655901
 }

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Glass",
+    "Cast": [
+        "James McAvoy",
+        "Bruce Willis",
+        "Samuel L. Jackson",
+        "Anya Taylor-Joy",
+        "Sarah Paulson",
+        "Spencer Treat Clark",
+        "Charlayne Woodard",
+        "Luke Kirby",
+        "Adam David Thompson",
+        "M. Night Shyamalan",
+        "Shannon Destiny Ryan",
+        "Diana Silvers",
+        "Nina Wisner",
+        "Kyli Zion",
+        "Serge Didenko"
+    ],
+    "Director": "M. Night Shyamalan",
+    "Genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "GrossRevenue": 246908596,
+    "Budget": 20000000,
+    "NetRevenue": 226908596
+}

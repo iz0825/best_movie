@@ -1,28 +1,29 @@
 {
-    "MovieName": "Spotlight",
+    "MovieName": "Highlander",
     "Cast": [
-        "Mark Ruffalo",
-        "Michael Keaton",
-        "Rachel McAdams",
-        "Liev Schreiber",
-        "John Slattery",
-        "Brian d'Arcy James",
-        "Stanley Tucci",
-        "Elena Wohl",
-        "Gene Amoroso",
-        "Doug Murray",
-        "Sharon McFarlane",
-        "Jamey Sheridan",
-        "Neal Huff",
-        "Billy Crudup",
-        "Robert B. Kennedy"
+        "Christopher Lambert",
+        "Roxanne Hart",
+        "Clancy Brown",
+        "Sean Connery",
+        "Beatie Edney",
+        "Alan North",
+        "Sheila Gish",
+        "Jon Polito",
+        "Hugh Quarshie",
+        "Christopher Malcolm",
+        "Peter Diamond",
+        "Billy Hartman",
+        "James Cosmo",
+        "Celia Imrie",
+        "Alistair Findlay"
     ],
-    "Director": "Tom McCarthy",
+    "Director": "Russell Mulcahy",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
-    "GrossRevenue": 98275238,
-    "Budget": 20000000,
-    "NetRevenue": 78275238
+    "GrossRevenue": 12885193,
+    "Budget": 16000000,
+    "NetRevenue": -3114807
 }

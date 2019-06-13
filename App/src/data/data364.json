@@ -1,0 +1,31 @@
+{
+    "MovieName": "Wreck-It Ralph",
+    "Cast": [
+        "John C. Reilly",
+        "Sarah Silverman",
+        "Jack McBrayer",
+        "Jane Lynch",
+        "Alan Tudyk",
+        "Mindy Kaling",
+        "Joe Lo Truglio",
+        "Ed O'Neill",
+        "Dennis Haysbert",
+        "Edie McClurg",
+        "Raymond S. Persi",
+        "Jess Harnell",
+        "Rachael Harris",
+        "Skylar Astin",
+        "Adam Carolla"
+    ],
+    "Director": "Rich Moore",
+    "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 471222889,
+    "Budget": 165000000,
+    "NetRevenue": 306222889
+}

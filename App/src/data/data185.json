@@ -1,29 +1,29 @@
 {
-    "MovieName": "Groundhog Day",
+    "MovieName": "X-Men",
     "Cast": [
-        "Bill Murray",
-        "Andie MacDowell",
-        "Chris Elliott",
-        "Stephen Tobolowsky",
-        "Brian Doyle-Murray",
-        "Marita Geraghty",
-        "Angela Paton",
-        "Rick Ducommun",
-        "Rick Overton",
-        "Robin Duke",
-        "Carol Bivins",
-        "Willie Garson",
-        "Ken Hudson Campbell",
-        "Les Podewell",
-        "Rod Sell"
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "Famke Janssen",
+        "James Marsden",
+        "Halle Berry",
+        "Anna Paquin",
+        "Tyler Mane",
+        "Ray Park",
+        "Rebecca Romijn",
+        "Bruce Davison",
+        "Matthew Sharp",
+        "Brett Morris",
+        "Rhona Shekter",
+        "Kenneth McGregor"
     ],
-    "Director": "Harold Ramis",
+    "Director": "Bryan Singer",
     "Genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 70906973,
-    "Budget": 14600000,
-    "NetRevenue": 56306973
+    "GrossRevenue": 296339527,
+    "Budget": 75000000,
+    "NetRevenue": 221339527
 }

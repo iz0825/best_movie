@@ -1,30 +1,28 @@
 {
-    "MovieName": "Barry Lyndon",
+    "MovieName": "Battle Los Angeles",
     "Cast": [
-        "Ryan O'Neal",
-        "Marisa Berenson",
-        "Patrick Magee",
-        "Hardy Kr\u00fcger",
-        "Steven Berkoff",
-        "Gay Hamilton",
-        "Marie Kean",
-        "Diana K\u00f6rner",
-        "Murray Melvin",
-        "Frank Middlemass",
-        "Andr\u00e9 Morell",
-        "Arthur O'Sullivan",
-        "Godfrey Quigley",
-        "Leonard Rossiter",
-        "Philip Stone"
+        "Aaron Eckhart",
+        "Ramon Rodriguez",
+        "Will Rothhaar",
+        "Cory Hardrict",
+        "Jim Parrack",
+        "Gino Anthony Pesi",
+        "Ne-Yo",
+        "James Hiroyuki Liao",
+        "Bridget Moynahan",
+        "Noel Fisher",
+        "Adetokumboh M'Cormack",
+        "Bryce Cass",
+        "Michael Pe\u00f1a",
+        "Michelle Rodriguez",
+        "Neil Brown Jr."
     ],
-    "Director": "Stanley Kubrick",
+    "Director": "Jonathan Liebesman",
     "Genres": [
-        "Adventure",
-        "Drama",
-        "History",
-        "War"
+        "Action",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 31500000,
-    "Budget": 11000000,
-    "NetRevenue": 20500000
+    "GrossRevenue": 211819354,
+    "Budget": 75000000,
+    "NetRevenue": 136819354
 }

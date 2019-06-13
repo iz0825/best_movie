@@ -1,31 +1,27 @@
 {
-    "MovieName": "Monsters, Inc.",
+    "MovieName": "Angela's Ashes",
     "Cast": [
-        "John Goodman",
-        "Billy Crystal",
-        "Mary Gibbs",
-        "Steve Buscemi",
-        "James Coburn",
-        "Jennifer Tilly",
-        "Bob Peterson",
-        "John Ratzenberger",
-        "Frank Oz",
-        "Daniel Gerson",
-        "Steve Susskind",
-        "Bonnie Hunt",
-        "Jeff Pidgeon",
-        "Samuel Lord Black",
-        "Jack Angel"
+        "Emily Watson",
+        "Robert Carlyle",
+        "Joe Breen",
+        "Ciaran Owens",
+        "Michael Legge",
+        "Ronnie Masterson",
+        "Pauline McLynn",
+        "Liam Carney",
+        "Eanna MacLiam",
+        "Andrew Bennett",
+        "Shane Murray-Corcoran",
+        "Devon Murray",
+        "Peter Halpin",
+        "Aaron Geraghty",
+        "Sean Carney Daly"
     ],
-    "Director": "Lee Unkrich",
+    "Director": "Alan Parker",
     "Genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
+        "Drama"
     ],
-    "GrossRevenue": 562816256,
-    "Budget": 115000000,
-    "NetRevenue": 447816256
+    "GrossRevenue": 13038660,
+    "Budget": 50000000,
+    "NetRevenue": -36961340
 }

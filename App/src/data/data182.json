@@ -1,28 +1,27 @@
 {
-    "MovieName": "The Maltese Falcon",
+    "MovieName": "Two Evil Eyes",
     "Cast": [
-        "Humphrey Bogart",
-        "Mary Astor",
-        "Gladys George",
-        "Peter Lorre",
-        "Barton MacLane",
-        "Lee Patrick",
-        "Sydney Greenstreet",
-        "Ward Bond",
-        "Jerome Cowan",
-        "Elisha Cook Jr.",
-        "James Burke",
-        "Murray Alper",
-        "John Hamilton",
-        "Jacob Dance",
-        "Charles Drake"
+        "Adrienne Barbeau",
+        "Ramy Zada",
+        "Bingo O'Malley",
+        "Jeff Howell",
+        "E.G. Marshall",
+        "Harvey Keitel",
+        "Madeleine Potter",
+        "John Amos",
+        "Sally Kirkland",
+        "Kim Hunter",
+        "Holter Graham",
+        "Martin Balsam",
+        "Chuck Aber",
+        "Jonathan Adams",
+        "Tom Atkins"
     ],
-    "Director": "John Huston",
+    "Director": "George A. Romero",
     "Genres": [
-        "Film-Noir",
-        "Mystery"
+        "Horror"
     ],
-    "GrossRevenue": 3862960,
-    "Budget": 375000,
-    "NetRevenue": 3487960
+    "GrossRevenue": 349618,
+    "Budget": 9000000,
+    "NetRevenue": -8650382
 }

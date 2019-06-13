@@ -1,30 +1,30 @@
 {
-    "MovieName": "Up",
+    "MovieName": "Hereditary",
     "Cast": [
-        "Edward Asner",
-        "Christopher Plummer",
-        "Jordan Nagai",
-        "Bob Peterson",
-        "Delroy Lindo",
-        "Jerome Ranft",
-        "John Ratzenberger",
-        "David Kaye",
-        "Elie Docter",
-        "Jeremy Leary",
-        "Mickie McGowan",
-        "Danny Mann",
-        "Donald Fullilove",
-        "Jess Harnell",
-        "Josh Cooley"
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Toni Collette",
+        "Milly Shapiro",
+        "Christy Summerhays",
+        "Morgan Lund",
+        "Mallory Bechtel",
+        "Jake Brown",
+        "Harrison Nell",
+        "BriAnn Rachele",
+        "Heidi M\u00e9ndez",
+        "Moises L. Tovar",
+        "Jarrod Phillips",
+        "Ann Dowd",
+        "Brock McKinney"
     ],
-    "Director": "Bob Peterson",
+    "Director": "Ari Aster",
     "Genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family"
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
-    "GrossRevenue": 731342744,
-    "Budget": 175000000,
-    "NetRevenue": 556342744
+    "GrossRevenue": 79275328,
+    "Budget": 10000000,
+    "NetRevenue": 69275328
 }

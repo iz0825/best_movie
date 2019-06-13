@@ -1,27 +1,28 @@
 {
-    "MovieName": "The Good, the Bad and the Ugly",
+    "MovieName": "It",
     "Cast": [
-        "Eli Wallach",
-        "Clint Eastwood",
-        "Lee Van Cleef",
-        "Aldo Giuffr\u00e8",
-        "Luigi Pistilli",
-        "Rada Rassimov",
-        "Enzo Petito",
-        "Claudio Scarchilli",
-        "John Bartha",
-        "Livio Lorenzon",
-        "Antonio Casale",
-        "Sandro Scarchilli",
-        "Benito Stefanelli",
-        "Angelo Novi",
-        "Antonio Casas"
+        "Jaeden Martell",
+        "Jeremy Ray Taylor",
+        "Sophia Lillis",
+        "Finn Wolfhard",
+        "Chosen Jacobs",
+        "Jack Dylan Grazer",
+        "Wyatt Oleff",
+        "Bill Skarsg\u00e5rd",
+        "Nicholas Hamilton",
+        "Jake Sim",
+        "Logan Thompson",
+        "Owen Teague",
+        "Jackson Robert Scott",
+        "Stephen Bogaert",
+        "Stuart Hughes"
     ],
-    "Director": "Sergio Leone",
+    "Director": "Andy Muschietti",
     "Genres": [
-        "Western"
+        "Horror",
+        "Thriller"
     ],
-    "GrossRevenue": 6100000,
-    "Budget": 1200000,
-    "NetRevenue": 4900000
+    "GrossRevenue": 700381748,
+    "Budget": 35000000,
+    "NetRevenue": 665381748
 }

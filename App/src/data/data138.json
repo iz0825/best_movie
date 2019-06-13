@@ -1,29 +1,28 @@
 {
-    "MovieName": "Fargo",
+    "MovieName": "The Notebook",
     "Cast": [
-        "William H. Macy",
-        "Steve Buscemi",
-        "Peter Stormare",
-        "Kristin Rudr\u00fcd",
-        "Harve Presnell",
-        "Tony Denman",
-        "Gary Houston",
-        "Sally Wingert",
-        "Kurt Schweickhardt",
-        "Larissa Kokernot",
-        "Melissa Peterman",
-        "Steve Reevis",
-        "Warren Keith",
-        "Steve Edelman",
-        "Sharon Anderson"
+        "Tim Ivey",
+        "Gena Rowlands",
+        "Starletta DuPois",
+        "James Garner",
+        "Anthony-Michael Q. Thomas",
+        "Ed Grady",
+        "Ren\u00e9e Amber",
+        "Jennifer Echols",
+        "Geoffrey Knight",
+        "Kevin Connolly",
+        "Ryan Gosling",
+        "Heather Wahlquist",
+        "Rachel McAdams",
+        "Andrew Schaff",
+        "Matt Shelly"
     ],
-    "Director": "Ethan Coen",
+    "Director": "Nick Cassavetes",
     "Genres": [
-        "Crime",
         "Drama",
-        "Thriller"
+        "Romance"
     ],
-    "GrossRevenue": 36000000,
-    "Budget": 7000000,
-    "NetRevenue": 29000000
+    "GrossRevenue": 116072707,
+    "Budget": 29000000,
+    "NetRevenue": 87072707
 }

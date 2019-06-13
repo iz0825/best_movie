@@ -1,27 +1,32 @@
 {
-    "MovieName": "Once Upon a Time in the West",
+    "MovieName": "Overlord",
     "Cast": [
-        "Claudia Cardinale",
-        "Henry Fonda",
-        "Jason Robards",
-        "Charles Bronson",
-        "Gabriele Ferzetti",
-        "Paolo Stoppa",
-        "Woody Strode",
-        "Jack Elam",
-        "Keenan Wynn",
-        "Frank Wolff",
-        "Lionel Stander",
-        "Livio Andronico",
-        "Salvatore Basile",
-        "Aldo Berti",
-        "Joseph Bradley"
+        "Jovan Adepo",
+        "Wyatt Russell",
+        "Mathilde Ollivier",
+        "Pilou Asb\u00e6k",
+        "John Magaro",
+        "Iain De Caestecker",
+        "Jacob Anderson",
+        "Dominic Applewhite",
+        "Gianny Taufer",
+        "Joseph Quinn",
+        "Bokeem Woodbine",
+        "Erich Redman",
+        "Mark McKenna",
+        "Hayley Carmichael",
+        "Marc Rissmann"
     ],
-    "Director": "Sergio Leone",
+    "Director": "Julius Avery",
     "Genres": [
-        "Western"
+        "Action",
+        "Adventure",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "War"
     ],
-    "GrossRevenue": 5321508,
-    "Budget": 5000000,
-    "NetRevenue": 321508
+    "GrossRevenue": 41657844,
+    "Budget": 38000000,
+    "NetRevenue": 3657844
 }

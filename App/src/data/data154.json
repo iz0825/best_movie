@@ -1,28 +1,30 @@
 {
-    "MovieName": "In the Name of the Father",
+    "MovieName": "Legend",
     "Cast": [
-        "Alison Crosbie",
-        "Daniel Day-Lewis",
-        "Philip King",
-        "Emma Thompson",
-        "Nye Heron",
-        "Anthony Brophy",
-        "Frankie McCafferty",
-        "Paul Warriner",
-        "Julian Walsh",
-        "Stuart Wolfenden",
-        "Jo Connor",
-        "Karen Carlisle",
-        "Seamus Moran",
-        "Billy Byrne",
-        "Maureen McBride"
+        "Paul Anderson",
+        "Tom Hardy",
+        "Christopher Eccleston",
+        "Joshua Hill",
+        "Emily Browning",
+        "Colin Morgan",
+        "Tara Fitzgerald",
+        "Nicholas Farrell",
+        "Adam Fogerty",
+        "Mel Raido",
+        "Major Johnson Finley",
+        "Millie Brady",
+        "Chris Mason",
+        "Stephen Thompson",
+        "Sam Spruell"
     ],
-    "Director": "Jim Sheridan",
+    "Director": "Brian Helgeland",
     "Genres": [
         "Biography",
-        "Drama"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
-    "GrossRevenue": 40700000,
-    "Budget": 13000000,
-    "NetRevenue": 27700000
+    "GrossRevenue": 42642077,
+    "Budget": 30000000,
+    "NetRevenue": 12642077
 }

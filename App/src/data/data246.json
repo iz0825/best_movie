@@ -1,0 +1,33 @@
+{
+    "MovieName": "The Lego Movie 2: The Second Part",
+    "Cast": [
+        "Chris Pratt",
+        "Elizabeth Banks",
+        "Will Arnett",
+        "Tiffany Haddish",
+        "Stephanie Beatriz",
+        "Alison Brie",
+        "Nick Offerman",
+        "Charlie Day",
+        "Maya Rudolph",
+        "Will Ferrell",
+        "Jadon Sand",
+        "Brooklynn Prince",
+        "Channing Tatum",
+        "Jonah Hill",
+        "Richard Ayoade"
+    ],
+    "Director": "Mike Mitchell",
+    "Genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+    ],
+    "GrossRevenue": 191106508,
+    "Budget": 100000000,
+    "NetRevenue": 91106508
+}

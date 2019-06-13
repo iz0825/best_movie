@@ -1,30 +1,28 @@
 {
-    "MovieName": "Rush",
+    "MovieName": "Coming to America",
     "Cast": [
-        "Chris Hemsworth",
-        "Daniel Br\u00fchl",
-        "Olivia Wilde",
-        "Alexandra Maria Lara",
-        "Pierfrancesco Favino",
-        "David Calder",
-        "Natalie Dormer",
-        "Stephen Mangan",
-        "Christian McKay",
-        "Alistair Petrie",
-        "Julian Rhind-Tutt",
-        "Colin Stinton",
-        "Jamie de Courcey",
-        "Augusto Dallara",
-        "Ilario Calvo"
+        "Paul Bates",
+        "Eddie Murphy",
+        "Garcelle Beauvais",
+        "Feather",
+        "Stephanie Simon",
+        "Victoria Dillard",
+        "Felicia Taylor",
+        "Midori",
+        "James Earl Jones",
+        "Madge Sinclair",
+        "Sheila Johnson",
+        "Arsenio Hall",
+        "Raymond D. Turner",
+        "Calvin Lockhart",
+        "Billi Gordon"
     ],
-    "Director": "Ron Howard",
+    "Director": "John Landis",
     "Genres": [
-        "Action",
-        "Biography",
-        "Drama",
-        "Sport"
+        "Comedy",
+        "Romance"
     ],
-    "GrossRevenue": 90247624,
-    "Budget": 38000000,
-    "NetRevenue": 52247624
+    "GrossRevenue": 160600000,
+    "Budget": 39000000,
+    "NetRevenue": 121600000
 }

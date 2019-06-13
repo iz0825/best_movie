@@ -1,28 +1,29 @@
 {
-    "MovieName": "Scarface",
+    "MovieName": "Get Out",
     "Cast": [
-        "Al Pacino",
-        "Steven Bauer",
-        "Michelle Pfeiffer",
-        "Mary Elizabeth Mastrantonio",
-        "Robert Loggia",
-        "Miriam Colon",
-        "F. Murray Abraham",
-        "Paul Shenar",
-        "Harris Yulin",
-        "\u00c1ngel Salazar",
-        "Arnaldo Santana",
-        "Pepe Serna",
-        "Michael P. Moran",
-        "Al Israel",
-        "Dennis Holahan"
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones",
+        "Marcus Henderson",
+        "Betty Gabriel",
+        "LaKeith Stanfield",
+        "Stephen Root",
+        "Lil Rel Howery",
+        "Ashley LeConte Campbell",
+        "John Wilmot",
+        "Caren L. Larkey",
+        "Julie Ann Doan",
+        "Rutherford Cravens"
     ],
-    "Director": "Brian De Palma",
+    "Director": "Jordan Peele",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
-    "GrossRevenue": 65884703,
-    "Budget": 25000000,
-    "NetRevenue": 40884703
+    "GrossRevenue": 255457364,
+    "Budget": 5000000,
+    "NetRevenue": 250457364
 }

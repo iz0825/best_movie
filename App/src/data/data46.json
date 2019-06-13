@@ -1,28 +1,30 @@
 {
-    "MovieName": "Apocalypse Now",
+    "MovieName": "Ghostbusters",
     "Cast": [
-        "Marlon Brando",
-        "Martin Sheen",
-        "Robert Duvall",
-        "Frederic Forrest",
-        "Sam Bottoms",
-        "Laurence Fishburne",
-        "Albert Hall",
-        "Harrison Ford",
-        "Dennis Hopper",
-        "G.D. Spradlin",
-        "Jerry Ziesmer",
-        "Scott Glenn",
-        "Bo Byers",
-        "James Keane",
-        "Kerry Rossall"
+        "Zach Woods",
+        "Kristen Wiig",
+        "Ed Begley Jr.",
+        "Charles Dance",
+        "John Milhiser",
+        "Ben Harris",
+        "Melissa McCarthy",
+        "Karan Soni",
+        "Kate McKinnon",
+        "Bess Rous",
+        "Steve Higgins",
+        "Leslie Jones",
+        "Neil Casey",
+        "Dave Allen",
+        "Katie Dippold"
     ],
-    "Director": "Francis Ford Coppola",
+    "Director": "Paul Feig",
     "Genres": [
-        "Drama",
-        "War"
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 83471511,
-    "Budget": 31500000,
-    "NetRevenue": 51971511
+    "GrossRevenue": 229147509,
+    "Budget": 144000000,
+    "NetRevenue": 85147509
 }

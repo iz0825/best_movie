@@ -1,27 +1,29 @@
 {
-    "MovieName": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "MovieName": "Interstellar",
     "Cast": [
-        "Peter Sellers",
-        "George C. Scott",
-        "Sterling Hayden",
-        "Keenan Wynn",
-        "Slim Pickens",
-        "Peter Bull",
-        "James Earl Jones",
-        "Tracy Reed",
-        "Jack Creley",
-        "Frank Berry",
-        "Robert O'Neil",
-        "Glenn Beck",
-        "Roy Stephens",
-        "Shane Rimmer",
-        "Hal Galili"
+        "Ellen Burstyn",
+        "Matthew McConaughey",
+        "Mackenzie Foy",
+        "John Lithgow",
+        "Timoth\u00e9e Chalamet",
+        "David Oyelowo",
+        "Collette Wolfe",
+        "Francis X. McCarthy",
+        "Bill Irwin",
+        "Anne Hathaway",
+        "Andrew Borba",
+        "Wes Bentley",
+        "William Devane",
+        "Michael Caine",
+        "David Gyasi"
     ],
-    "Director": "Stanley Kubrick",
+    "Director": "Christopher Nolan",
     "Genres": [
-        "Comedy"
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 9440272,
-    "Budget": 1800000,
-    "NetRevenue": 7640272
+    "GrossRevenue": 675020017,
+    "Budget": 165000000,
+    "NetRevenue": 510020017
 }

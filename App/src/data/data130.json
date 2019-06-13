@@ -1,28 +1,31 @@
 {
-    "MovieName": "Dial M for Murder",
+    "MovieName": "Baby Driver",
     "Cast": [
-        "Ray Milland",
-        "Grace Kelly",
-        "Robert Cummings",
-        "John Williams",
-        "Anthony Dawson",
-        "Leo Britt",
-        "Patrick Allen",
-        "George Leigh",
-        "George Alderson",
-        "Robin Hughes",
-        "Alex Ball",
-        "Richard Bender",
-        "Sanders Clark",
-        "Jack Cunningham",
-        "Robert Dobson"
+        "Ansel Elgort",
+        "Jon Bernthal",
+        "Jon Hamm",
+        "Eiza Gonz\u00e1lez",
+        "Micah Howard",
+        "Lily James",
+        "Morgan Brown",
+        "Kevin Spacey",
+        "Morse Diggs",
+        "CJ Jones",
+        "Sky Ferreira",
+        "Lance Palmer",
+        "Hudson Meek",
+        "Viviana Chavez",
+        "Hal Whiteside"
     ],
-    "Director": "Alfred Hitchcock",
+    "Director": "Edgar Wright",
     "Genres": [
+        "Action",
         "Crime",
+        "Drama",
+        "Music",
         "Thriller"
     ],
-    "GrossRevenue": 13080000,
-    "Budget": 1400000,
-    "NetRevenue": 11680000
+    "GrossRevenue": 228104185,
+    "Budget": 34000000,
+    "NetRevenue": 194104185
 }

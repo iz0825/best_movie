@@ -1,28 +1,29 @@
 {
-    "MovieName": "Andhadhun",
+    "MovieName": "Good Time",
     "Cast": [
-        "Ayushmann Khurrana",
-        "Tabu",
-        "Radhika Apte",
-        "Anil Dhawan",
-        "Manav Vij",
-        "Ashwini Kalsekar",
-        "Chhaya Kadam",
-        "Zakir Hussain",
-        "Rashmi Agdekar",
-        "Abhishek Shukla",
-        "Mohini Kewalramani",
-        "Nikitasha Kapoor",
-        "Saumin Patel",
-        "Hera Sajid",
-        "Pratik Nandkumar More"
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress",
+        "Taliah Webster",
+        "Jennifer Jason Leigh",
+        "Barkhad Abdi",
+        "Necro",
+        "Peter Verby",
+        "Saida Mansoor",
+        "Gladys Mathon",
+        "Rose Gregorio",
+        "Eric Paykert",
+        "Astrid Corrales",
+        "Rachel Black",
+        "Hirakish Ranasaki"
     ],
-    "Director": "Sriram Raghavan",
+    "Director": "Josh Safdie",
     "Genres": [
         "Crime",
+        "Drama",
         "Thriller"
     ],
-    "GrossRevenue": 40000000,
+    "GrossRevenue": 2026499,
     "Budget": 4500000,
-    "NetRevenue": 35500000
+    "NetRevenue": -2473501
 }

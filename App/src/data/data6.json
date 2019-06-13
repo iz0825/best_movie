@@ -1,29 +1,31 @@
 {
-    "MovieName": "The Lord of the Rings: The Return of the King",
+    "MovieName": "Spider-Man: Into the Spider-Verse",
     "Cast": [
-        "Noel Appleby",
-        "Ali Astin",
-        "Sean Astin",
-        "David Aston",
-        "John Bach",
-        "Sean Bean",
-        "Cate Blanchett",
-        "Orlando Bloom",
-        "Billy Boyd",
-        "Sadwyn Brophy",
-        "Alistair Browning",
-        "Marton Csokas",
-        "Richard Edge",
-        "Jason Fitch",
-        "Bernard Hill"
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali",
+        "Brian Tyree Henry",
+        "Lily Tomlin",
+        "Luna Lauren Velez",
+        "Zo\u00eb Kravitz",
+        "John Mulaney",
+        "Kimiko Glenn",
+        "Nicolas Cage",
+        "Kathryn Hahn",
+        "Liev Schreiber",
+        "Chris Pine",
+        "Natalie Morales"
     ],
-    "Director": "Peter Jackson",
+    "Director": "Rodney Rothman",
     "Genres": [
+        "Animation",
+        "Action",
         "Adventure",
-        "Drama",
-        "Fantasy"
+        "Family",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 1119929521,
-    "Budget": 94000000,
-    "NetRevenue": 1025929521
+    "GrossRevenue": 375494587,
+    "Budget": 90000000,
+    "NetRevenue": 285494587
 }

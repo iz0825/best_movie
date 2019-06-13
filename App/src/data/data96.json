@@ -1,28 +1,30 @@
 {
-    "MovieName": "A Separation",
+    "MovieName": "Sing",
     "Cast": [
-        "Payman Maadi",
-        "Leila Hatami",
-        "Sareh Bayat",
-        "Shahab Hosseini",
-        "Sarina Farhadi",
-        "Merila Zare'i",
-        "Ali-Asghar Shahbazi",
-        "Babak Karimi",
-        "Kimia Hosseini",
-        "Shirin Yazdanbakhsh",
-        "Sohibanoo Zolqadr",
-        "Mohammadhasan Asghari",
-        "Shirin Azimiyannezhad",
-        "Hamid Dadju",
-        "Mohammad Ebrahimian"
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Seth MacFarlane",
+        "Scarlett Johansson",
+        "John C. Reilly",
+        "Taron Egerton",
+        "Tori Kelly",
+        "Jennifer Saunders",
+        "Jennifer Hudson",
+        "Garth Jennings",
+        "Peter Serafinowicz",
+        "Nick Kroll",
+        "Beck Bennett",
+        "Jay Pharoah",
+        "Nick Offerman"
     ],
-    "Director": "Asghar Farhadi",
+    "Director": "Christophe Lourdelet",
     "Genres": [
-        "Drama",
-        "Thriller"
+        "Animation",
+        "Comedy",
+        "Family",
+        "Musical"
     ],
-    "GrossRevenue": 24426169,
-    "Budget": 500000,
-    "NetRevenue": 23926169
+    "GrossRevenue": 634151679,
+    "Budget": 75000000,
+    "NetRevenue": 559151679
 }

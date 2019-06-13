@@ -1,30 +1,29 @@
 {
-    "MovieName": "Star Wars: Episode VI - Return of the Jedi",
+    "MovieName": "Adrift",
     "Cast": [
-        "Mark Hamill",
-        "Harrison Ford",
-        "Carrie Fisher",
-        "Billy Dee Williams",
-        "Anthony Daniels",
-        "Peter Mayhew",
-        "Sebastian Shaw",
-        "Ian McDiarmid",
-        "Frank Oz",
-        "James Earl Jones",
-        "David Prowse",
-        "Alec Guinness",
-        "Kenny Baker",
-        "Michael Pennington",
-        "Kenneth Colley"
+        "Shailene Woodley",
+        "Sam Claflin",
+        "Jeffrey Thomas",
+        "Elizabeth Hawthorne",
+        "Grace Palmer",
+        "Tami Ashcraft",
+        "Siale Tunoka",
+        "Kael Damlamian",
+        "Lei-Ming Caine",
+        "Neil Andrea",
+        "Apakuki Nalawa",
+        "Tim Solomon"
     ],
-    "Director": "Richard Marquand",
+    "Director": "Baltasar Korm\u00e1kur",
     "Genres": [
         "Action",
         "Adventure",
-        "Fantasy",
-        "Sci-Fi"
+        "Biography",
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
-    "GrossRevenue": 572705079,
-    "Budget": 32500000,
-    "NetRevenue": 540205079
+    "GrossRevenue": 52045012,
+    "Budget": 35000000,
+    "NetRevenue": 17045012
 }

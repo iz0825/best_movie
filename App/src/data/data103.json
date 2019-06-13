@@ -1,28 +1,29 @@
 {
-    "MovieName": "Unforgiven",
+    "MovieName": "Chernobyl Diaries",
     "Cast": [
-        "Clint Eastwood",
-        "Gene Hackman",
-        "Morgan Freeman",
-        "Richard Harris",
-        "Jaimz Woolvett",
-        "Saul Rubinek",
-        "Frances Fisher",
-        "Anna Levine",
-        "David Mucci",
-        "Rob Campbell",
-        "Anthony James",
-        "Tara Frederick",
-        "Beverley Elliott",
-        "Liisa Repo-Martell",
-        "Josie Smith"
+        "Ingrid Bols\u00f8 Berdal",
+        "Dimitri Diatchenko",
+        "Olivia Taylor Dudley",
+        "Devin Kelley",
+        "Jesse McCartney",
+        "Nathan Phillips",
+        "Jonathan Sadowski",
+        "Milos Timotijevic",
+        "Milutin Milosevic",
+        "Ivan Djordjevic",
+        "Ivan Jovic",
+        "Zinaida Dedakin",
+        "Ivana Milutinovic",
+        "Alex Feldman",
+        "Kristof Konrad"
     ],
-    "Director": "Clint Eastwood",
+    "Director": "Bradley Parker",
     "Genres": [
-        "Drama",
-        "Western"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
-    "GrossRevenue": 159157447,
-    "Budget": 14400000,
-    "NetRevenue": 144757447
+    "GrossRevenue": 38390020,
+    "Budget": 1000000,
+    "NetRevenue": 37390020
 }

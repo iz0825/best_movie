@@ -1,29 +1,29 @@
 {
-    "MovieName": "The Silence of the Lambs",
+    "MovieName": "The Lord of the Rings: The Fellowship of the Ring",
     "Cast": [
-        "Jodie Foster",
-        "Lawrence A. Bonney",
-        "Kasi Lemmons",
-        "Lawrence T. Wrentz",
-        "Scott Glenn",
-        "Anthony Heald",
-        "Frankie Faison",
-        "Don Brockett",
-        "Frank Seals Jr.",
-        "Stuart Rudin",
-        "Anthony Hopkins",
-        "Maria Skorobogatov",
-        "Jeffrie Lane",
-        "Leib Lensky",
-        "George 'Red' Schwartz"
+        "Alan Howard",
+        "Noel Appleby",
+        "Sean Astin",
+        "Sala Baker",
+        "Sean Bean",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Marton Csokas",
+        "Megan Edwards",
+        "Michael Elsworth",
+        "Mark Ferguson",
+        "Ian Holm",
+        "Christopher Lee",
+        "Lawrence Makoare"
     ],
-    "Director": "Jonathan Demme",
+    "Director": "Peter Jackson",
     "Genres": [
-        "Crime",
+        "Adventure",
         "Drama",
-        "Thriller"
+        "Fantasy"
     ],
-    "GrossRevenue": 272742922,
-    "Budget": 19000000,
-    "NetRevenue": 253742922
+    "GrossRevenue": 871530324,
+    "Budget": 93000000,
+    "NetRevenue": 778530324
 }

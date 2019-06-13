@@ -1,30 +1,29 @@
 {
-    "MovieName": "The Princess Bride",
+    "MovieName": "Singin' in the Rain",
     "Cast": [
-        "Cary Elwes",
-        "Mandy Patinkin",
-        "Chris Sarandon",
-        "Christopher Guest",
-        "Wallace Shawn",
-        "Andr\u00e9 the Giant",
-        "Fred Savage",
-        "Robin Wright",
-        "Peter Falk",
-        "Peter Cook",
-        "Mel Smith",
-        "Carol Kane",
-        "Billy Crystal",
-        "Anne Dyson",
-        "Margery Mason"
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds",
+        "Jean Hagen",
+        "Millard Mitchell",
+        "Cyd Charisse",
+        "Douglas Fowley",
+        "Rita Moreno",
+        "Dawn Addams",
+        "John Albright",
+        "Betty Allen",
+        "Sue Allen",
+        "Marie Ardell",
+        "Bette Arlen",
+        "David Bair"
     ],
-    "Director": "Rob Reiner",
+    "Director": "Gene Kelly",
     "Genres": [
-        "Adventure",
-        "Family",
-        "Fantasy",
+        "Comedy",
+        "Musical",
         "Romance"
     ],
-    "GrossRevenue": 30857814,
-    "Budget": 16000000,
-    "NetRevenue": 14857814
+    "GrossRevenue": 13979088,
+    "Budget": 2540800,
+    "NetRevenue": 11438288
 }

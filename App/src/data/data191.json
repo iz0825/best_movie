@@ -1,29 +1,16 @@
 {
-    "MovieName": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "MovieName": "Arctic",
     "Cast": [
-        "Johnny Depp",
-        "Geoffrey Rush",
-        "Orlando Bloom",
-        "Keira Knightley",
-        "Jack Davenport",
-        "Jonathan Pryce",
-        "Lee Arenberg",
-        "Mackenzie Crook",
-        "Damian O'Hare",
-        "Giles New",
-        "Angus Barnett",
-        "David Bailie",
-        "Michael Berry Jr.",
-        "Isaac C. Singleton Jr.",
-        "Kevin McNally"
+        "Mads Mikkelsen",
+        "Maria Thelma Sm\u00e1rad\u00f3ttir",
+        "Tintrinai Thikhasuk"
     ],
-    "Director": "Gore Verbinski",
+    "Director": "Joe Penna",
     "Genres": [
-        "Action",
         "Adventure",
-        "Fantasy"
+        "Drama"
     ],
-    "GrossRevenue": 654264015,
-    "Budget": 140000000,
-    "NetRevenue": 514264015
+    "GrossRevenue": 2410795,
+    "Budget": 2000000,
+    "NetRevenue": 410795
 }

@@ -1,29 +1,28 @@
 {
-    "MovieName": "Wild Tales",
+    "MovieName": "Wedding Crashers",
     "Cast": [
-        "Dar\u00edo Grandinetti",
-        "Mar\u00eda Marull",
-        "M\u00f3nica Villa",
-        "Diego Starosta",
-        "Marcelo Frasca",
-        "Lucila Mangone",
-        "Mar\u00eda Laura Caccamo",
-        "Carlos Alberto Vavassori",
-        "Pablo Machado",
-        "Horacio Vay",
-        "Javier Pedersoli",
-        "H\u00e9ctor Drachtman",
-        "Mar\u00eda Rosa L\u00f3pez Ottonello",
-        "Rita Cortese",
-        "Julieta Zylberberg"
+        "Owen Wilson",
+        "Vince Vaughn",
+        "Christopher Walken",
+        "Rachel McAdams",
+        "Isla Fisher",
+        "Jane Seymour",
+        "Ellen Albertini Dow",
+        "Keir O'Donnell",
+        "Bradley Cooper",
+        "Ron Canada",
+        "Henry Gibson",
+        "Dwight Yoakam",
+        "Rebecca De Mornay",
+        "David Conrad",
+        "Jennifer Alden"
     ],
-    "Director": "Dami\u00e1n Szifron",
+    "Director": "David Dobkin",
     "Genres": [
         "Comedy",
-        "Drama",
-        "Thriller"
+        "Romance"
     ],
-    "GrossRevenue": 36353750,
-    "Budget": 3300000,
-    "NetRevenue": 33053750
+    "GrossRevenue": 285176741,
+    "Budget": 40000000,
+    "NetRevenue": 245176741
 }

@@ -1,28 +1,29 @@
 {
-    "MovieName": "Taxi Driver",
+    "MovieName": "X-Men: Apocalypse",
     "Cast": [
-        "Diahnne Abbott",
-        "Frank Adu",
-        "Victor Argo",
-        "Gino Ardito",
-        "Garth Avery",
-        "Peter Boyle",
-        "Albert Brooks",
-        "Harry Cohn",
-        "Copper Cunningham",
-        "Robert De Niro",
-        "Brenda Dickson",
-        "Harry Fischler",
-        "Jodie Foster",
-        "Nat Grant",
-        "Leonard Harris"
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence",
+        "Nicholas Hoult",
+        "Oscar Isaac",
+        "Rose Byrne",
+        "Evan Peters",
+        "Josh Helman",
+        "Sophie Turner",
+        "Tye Sheridan",
+        "Lucas Till",
+        "Kodi Smit-McPhee",
+        "Ben Hardy",
+        "Alexandra Shipp",
+        "Lana Condor"
     ],
-    "Director": "Martin Scorsese",
+    "Director": "Bryan Singer",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 28262574,
-    "Budget": 1300000,
-    "NetRevenue": 26962574
+    "GrossRevenue": 543934787,
+    "Budget": 178000000,
+    "NetRevenue": 365934787
 }

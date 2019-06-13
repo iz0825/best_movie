@@ -1,0 +1,28 @@
+{
+    "MovieName": "An American Werewolf in London",
+    "Cast": [
+        "Joe Belcher",
+        "David Naughton",
+        "Griffin Dunne",
+        "David Schofield",
+        "Brian Glover",
+        "Lila Kaye",
+        "Rik Mayall",
+        "Sean Baker",
+        "Paddy Ryan",
+        "Jenny Agutter",
+        "Anne-Marie Davies",
+        "John Woodvine",
+        "Frank Oz",
+        "Don McKillop",
+        "Paul Kember"
+    ],
+    "Director": "John Landis",
+    "Genres": [
+        "Comedy",
+        "Horror"
+    ],
+    "GrossRevenue": 60565292,
+    "Budget": 10000000,
+    "NetRevenue": 50565292
+}

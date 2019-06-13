@@ -1,27 +1,31 @@
 {
-    "MovieName": "American History X",
+    "MovieName": "The Grinch",
     "Cast": [
-        "Edward Norton",
-        "Edward Furlong",
-        "Beverly D'Angelo",
-        "Jennifer Lien",
-        "Ethan Suplee",
-        "Fairuza Balk",
-        "Avery Brooks",
-        "Elliott Gould",
-        "Stacy Keach",
-        "William Russ",
-        "Guy Torry",
-        "Joe Cortese",
-        "Jason Bose Smith",
-        "Antonio David Lyons",
-        "Alex Sol"
+        "Benedict Cumberbatch",
+        "Cameron Seely",
+        "Rashida Jones",
+        "Pharrell Williams",
+        "Tristan O'Hare",
+        "Kenan Thompson",
+        "Sam Lavagnino",
+        "Ramone Hamilton",
+        "Angela Lansbury",
+        "Scarlett Estevez",
+        "Michael Beattie",
+        "Lori Alan",
+        "Carlos Alazraqui",
+        "Doug Burch",
+        "Cathy Cavadini"
     ],
-    "Director": "Tony Kaye",
+    "Director": "Scott Mosier",
     "Genres": [
-        "Drama"
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
     ],
-    "GrossRevenue": 23875127,
-    "Budget": 7500000,
-    "NetRevenue": 16375127
+    "GrossRevenue": 511565348,
+    "Budget": 75000000,
+    "NetRevenue": 436565348
 }

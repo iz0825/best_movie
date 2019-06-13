@@ -1,29 +1,29 @@
 {
-    "MovieName": "Heat",
+    "MovieName": "Bohemian Rhapsody",
     "Cast": [
-        "Al Pacino",
-        "Robert De Niro",
-        "Val Kilmer",
-        "Jon Voight",
-        "Tom Sizemore",
-        "Diane Venora",
-        "Amy Brenneman",
-        "Ashley Judd",
-        "Mykelti Williamson",
-        "Wes Studi",
-        "Ted Levine",
-        "Dennis Haysbert",
-        "William Fichtner",
-        "Natalie Portman",
-        "Tom Noonan"
+        "Rami Malek",
+        "Lucy Boynton",
+        "Gwilym Lee",
+        "Ben Hardy",
+        "Joseph Mazzello",
+        "Aidan Gillen",
+        "Allen Leech",
+        "Tom Hollander",
+        "Mike Myers",
+        "Aaron McCusker",
+        "Meneka Das",
+        "Ace Bhatti",
+        "Priya Blackburn",
+        "Dermot Murphy",
+        "Dickie Beau"
     ],
-    "Director": "Michael Mann",
+    "Director": "Bryan Singer",
     "Genres": [
-        "Crime",
+        "Biography",
         "Drama",
-        "Thriller"
+        "Music"
     ],
-    "GrossRevenue": 107000000,
-    "Budget": 60000000,
-    "NetRevenue": 47000000
+    "GrossRevenue": 903175016,
+    "Budget": 52000000,
+    "NetRevenue": 851175016
 }

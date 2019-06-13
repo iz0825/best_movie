@@ -1,28 +1,28 @@
 {
-    "MovieName": "Citizen Kane",
+    "MovieName": "Grease",
     "Cast": [
-        "Joseph Cotten",
-        "Dorothy Comingore",
-        "Agnes Moorehead",
-        "Ruth Warrick",
-        "Ray Collins",
-        "Erskine Sanford",
-        "Everett Sloane",
-        "William Alland",
-        "Paul Stewart",
-        "George Coulouris",
-        "Fortunio Bonanova",
-        "Gus Schilling",
-        "Philip Van Zandt",
-        "Georgia Backus",
-        "Harry Shannon"
+        "John Travolta",
+        "Olivia Newton-John",
+        "Stockard Channing",
+        "Jeff Conaway",
+        "Barry Pearl",
+        "Michael Tucci",
+        "Kelly Ward",
+        "Didi Conn",
+        "Jamie Donnelly",
+        "Dinah Manoff",
+        "Eve Arden",
+        "Frankie Avalon",
+        "Joan Blondell",
+        "Edd Byrnes",
+        "Sid Caesar"
     ],
-    "Director": "Orson Welles",
+    "Director": "Randal Kleiser",
     "Genres": [
-        "Drama",
-        "Mystery"
+        "Musical",
+        "Romance"
     ],
-    "GrossRevenue": 1585634,
-    "Budget": 839727,
-    "NetRevenue": 745907
+    "GrossRevenue": 394955690,
+    "Budget": 6000000,
+    "NetRevenue": 388955690
 }

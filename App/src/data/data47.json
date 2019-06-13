@@ -1,27 +1,30 @@
 {
-    "MovieName": "Memento",
+    "MovieName": "Despicable Me",
     "Cast": [
-        "Guy Pearce",
-        "Carrie-Anne Moss",
-        "Joe Pantoliano",
-        "Mark Boone Junior",
-        "Russ Fega",
-        "Jorja Fox",
-        "Stephen Tobolowsky",
-        "Harriet Sansom Harris",
-        "Thomas Lennon",
-        "Callum Keith Rennie",
-        "Kimberly Campbell",
-        "Marianne Muellerleile",
-        "Larry Holden",
-        "Buzz Visconti"
+        "Steve Carell",
+        "Jason Segel",
+        "Russell Brand",
+        "Julie Andrews",
+        "Will Arnett",
+        "Kristen Wiig",
+        "Miranda Cosgrove",
+        "Dana Gaier",
+        "Elsie Fisher",
+        "Pierre Coffin",
+        "Chris Renaud",
+        "Jemaine Clement",
+        "Jack McBrayer",
+        "Danny McBride",
+        "Mindy Kaling"
     ],
-    "Director": "Christopher Nolan",
+    "Director": "Chris Renaud",
     "Genres": [
-        "Mystery",
-        "Thriller"
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
     ],
-    "GrossRevenue": 39723096,
-    "Budget": 9000000,
-    "NetRevenue": 30723096
+    "GrossRevenue": 543113985,
+    "Budget": 69000000,
+    "NetRevenue": 474113985
 }

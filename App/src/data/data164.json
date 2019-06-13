@@ -1,30 +1,30 @@
 {
-    "MovieName": "Hotel Rwanda",
+    "MovieName": "Star Wars: Episode IV - A New Hope",
     "Cast": [
-        "Don Cheadle",
-        "Xolani Mali",
-        "Desmond Dube",
-        "Hakeem Kae-Kazim",
-        "Tony Kgoroge",
-        "Rosie Motene",
-        "Neil McCarthy",
-        "Mabutho 'Kid' Sithole",
-        "Nick Nolte",
-        "Fana Mokoena",
-        "Jeremiah Ndlovu",
-        "Sophie Okonedo",
-        "Lebo Mashile",
-        "Antonio David Lyons",
-        "Leleti Khumalo"
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness",
+        "Anthony Daniels",
+        "Kenny Baker",
+        "Peter Mayhew",
+        "David Prowse",
+        "Phil Brown",
+        "Shelagh Fraser",
+        "Jack Purvis",
+        "Alex McCrindle",
+        "Eddie Byrne",
+        "Drewe Henley"
     ],
-    "Director": "Terry George",
+    "Director": "George Lucas",
     "Genres": [
-        "Biography",
-        "Drama",
-        "History",
-        "War"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 36532987,
-    "Budget": 17500000,
-    "NetRevenue": 19032987
+    "GrossRevenue": 775398007,
+    "Budget": 11000000,
+    "NetRevenue": 764398007
 }

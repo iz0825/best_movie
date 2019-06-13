@@ -1,27 +1,27 @@
 {
-    "MovieName": "Requiem for a Dream",
+    "MovieName": "Airplane!",
     "Cast": [
-        "Ellen Burstyn",
-        "Jared Leto",
-        "Jennifer Connelly",
-        "Marlon Wayans",
-        "Christopher McDonald",
-        "Louise Lasser",
-        "Marcia Jean Kurtz",
-        "Janet Sarno",
-        "Suzanne Shepherd",
-        "Joanne Gordon",
-        "Charlotte Aronofsky",
-        "Mark Margolis",
-        "Michael Kaycheck",
-        "Jack O'Connell",
-        "Chas Mastin"
+        "Kareem Abdul-Jabbar",
+        "Lloyd Bridges",
+        "Peter Graves",
+        "Julie Hagerty",
+        "Robert Hays",
+        "Leslie Nielsen",
+        "Lorna Patterson",
+        "Robert Stack",
+        "Stephen Stucker",
+        "Otto",
+        "Jim Abrahams",
+        "Frank Ashmore",
+        "Jonathan Banks",
+        "Craig Berenson",
+        "Barbara Billingsley"
     ],
-    "Director": "Darren Aronofsky",
+    "Director": "Jerry Zucker",
     "Genres": [
-        "Drama"
+        "Comedy"
     ],
-    "GrossRevenue": 7390108,
-    "Budget": 4500000,
-    "NetRevenue": 2890108
+    "GrossRevenue": 130000000,
+    "Budget": 3500000,
+    "NetRevenue": 126500000
 }

@@ -1,31 +1,30 @@
 {
-    "MovieName": "The Great Escape",
+    "MovieName": "Ocean's Eight",
     "Cast": [
-        "Steve McQueen",
-        "James Garner",
-        "Richard Attenborough",
-        "James Donald",
-        "Charles Bronson",
-        "Donald Pleasence",
-        "James Coburn",
-        "Hannes Messemer",
-        "David McCallum",
-        "Gordon Jackson",
-        "John Leyton",
-        "Angus Lennie",
-        "Nigel Stock",
-        "Robert Graf",
-        "Jud Taylor"
+        "Sandra Bullock",
+        "Griffin Dunne",
+        "Deidre Goodwin",
+        "Daniella Rabbani",
+        "Brian J. Carter",
+        "Gemma Forbes",
+        "Katherine Hozier-Adams",
+        "Freddy J. Davila",
+        "Francesca Calo",
+        "Cate Blanchett",
+        "Midori Francis",
+        "Elliott Gould",
+        "Richard Armitage",
+        "Charlotte Kirk",
+        "Anne Hathaway"
     ],
-    "Director": "John Sturges",
+    "Director": "Gary Ross",
     "Genres": [
-        "Adventure",
-        "Drama",
-        "History",
-        "Thriller",
-        "War"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
-    "GrossRevenue": 12100000,
-    "Budget": 4000000,
-    "NetRevenue": 8100000
+    "GrossRevenue": 297718711,
+    "Budget": 70000000,
+    "NetRevenue": 227718711
 }

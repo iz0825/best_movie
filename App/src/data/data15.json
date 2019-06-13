@@ -1,27 +1,29 @@
 {
-    "MovieName": "One Flew Over the Cuckoo's Nest",
+    "MovieName": "The Dark Crystal",
     "Cast": [
-        "Jack Nicholson",
-        "Louise Fletcher",
-        "Will Sampson",
-        "Michael Berryman",
-        "Alonzo Brown",
-        "Peter Brocco",
-        "Scatman Crothers",
-        "Dean R. Brooks",
-        "Mwako Cumbuka",
-        "Danny DeVito",
-        "William Duell",
-        "Josip Elic",
-        "Lan Fendors",
-        "Nathan George",
-        "Ken Kenny"
+        "Jim Henson",
+        "Kathryn Mullen",
+        "Frank Oz",
+        "Dave Goelz",
+        "Steve Whitmire",
+        "Louise Gold",
+        "Brian Muehl",
+        "Bob Payne",
+        "Mike Quinn",
+        "Tim Rose",
+        "Jean-Pierre Amiel",
+        "Hugh Spight",
+        "Robbie Barnett",
+        "Swee Lim",
+        "Simon J. Williamson"
     ],
-    "Director": "Milos Forman",
+    "Director": "Frank Oz",
     "Genres": [
-        "Drama"
+        "Adventure",
+        "Family",
+        "Fantasy"
     ],
-    "GrossRevenue": 112000000,
-    "Budget": 4400000,
-    "NetRevenue": 107600000
+    "GrossRevenue": 40577001,
+    "Budget": 15000000,
+    "NetRevenue": 25577001
 }

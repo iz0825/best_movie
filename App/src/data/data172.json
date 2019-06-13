@@ -1,28 +1,29 @@
 {
-    "MovieName": "Amores Perros",
+    "MovieName": "Dredd",
     "Cast": [
-        "Emilio Echevarr\u00eda",
-        "Gael Garc\u00eda Bernal",
-        "Goya Toledo",
-        "\u00c1lvaro Guerrero",
-        "Vanessa Bauche",
-        "Jorge Salinas",
-        "Marco P\u00e9rez",
-        "Rodrigo Murray",
-        "Humberto Busto",
-        "Gerardo Campbell",
-        "Rosa Mar\u00eda Bianchi",
-        "Dunia Sald\u00edvar",
-        "Adriana Barraza",
-        "Jos\u00e9 Sefami",
-        "Lourdes Echevarr\u00eda"
+        "Karl Urban",
+        "Rachel Wood",
+        "Andile Mngadi",
+        "Porteus Xandau",
+        "Jason Cope",
+        "Emma Breschi",
+        "Olivia Thirlby",
+        "Rakie Ayola",
+        "Lena Headey",
+        "Tamer Burjaq",
+        "Warrick Grier",
+        "Wood Harris",
+        "Shoki Mokgapa",
+        "Yohan Chun",
+        "Eden Knowles"
     ],
-    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Director": "Pete Travis",
     "Genres": [
-        "Drama",
-        "Thriller"
+        "Action",
+        "Crime",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 5383834,
-    "Budget": 2000000,
-    "NetRevenue": 3383834
+    "GrossRevenue": 41037742,
+    "Budget": 35000000,
+    "NetRevenue": 6037742
 }

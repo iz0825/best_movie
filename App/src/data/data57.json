@@ -1,28 +1,29 @@
 {
-    "MovieName": "The Shining",
+    "MovieName": "Inglourious Basterds",
     "Cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd",
-        "Scatman Crothers",
-        "Barry Nelson",
-        "Philip Stone",
-        "Joe Turkel",
-        "Anne Jackson",
-        "Tony Burton",
-        "Lia Beldam",
-        "Billie Gibson",
-        "Barry Dennen",
-        "David Baxt",
-        "Manning Redwood",
-        "Lisa Burns"
+        "Brad Pitt",
+        "M\u00e9lanie Laurent",
+        "Christoph Waltz",
+        "Eli Roth",
+        "Michael Fassbender",
+        "Diane Kruger",
+        "Daniel Br\u00fchl",
+        "Til Schweiger",
+        "Gedeon Burkhard",
+        "Jacky Ido",
+        "B.J. Novak",
+        "Omar Doom",
+        "August Diehl",
+        "Denis M\u00e9nochet",
+        "Sylvester Groth"
     ],
-    "Director": "Stanley Kubrick",
+    "Director": "Quentin Tarantino",
     "Genres": [
+        "Adventure",
         "Drama",
-        "Horror"
+        "War"
     ],
-    "GrossRevenue": 44017374,
-    "Budget": 19000000,
-    "NetRevenue": 25017374
+    "GrossRevenue": 313600000,
+    "Budget": 75000000,
+    "NetRevenue": 238600000
 }

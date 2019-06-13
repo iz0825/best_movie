@@ -1,30 +1,29 @@
 {
-    "MovieName": "Lagaan: Once Upon a Time in India",
+    "MovieName": "A.I. Artificial Intelligence",
     "Cast": [
-        "Aamir Khan",
-        "Gracy Singh",
-        "Rachel Shelley",
-        "Paul Blackthorne",
-        "Suhasini Mulay",
-        "Kulbhushan Kharbanda",
-        "Raghuvir Yadav",
-        "Rajendra Gupta",
-        "Rajesh Vivek",
-        "Shri Vallabh Vyas",
-        "Javed Khan",
-        "Raj Zutshi",
-        "Akhilendra Mishra",
-        "Daya Shankar Pandey",
-        "Yashpal Sharma"
+        "Haley Joel Osment",
+        "Frances O'Connor",
+        "Sam Robards",
+        "Jake Thomas",
+        "Jude Law",
+        "William Hurt",
+        "Ken Leung",
+        "Clark Gregg",
+        "Kevin Sussman",
+        "Tom Gallop",
+        "Eugene Osment",
+        "April Grace",
+        "Matt Winston",
+        "Sabrina Grdevich",
+        "Theo Greenly"
     ],
-    "Director": "Ashutosh Gowariker",
+    "Director": "Steven Spielberg",
     "Genres": [
         "Adventure",
         "Drama",
-        "Musical",
-        "Sport"
+        "Sci-Fi"
     ],
-    "GrossRevenue": 70147,
-    "Budget": 6000000,
-    "NetRevenue": -5929853
+    "GrossRevenue": 235927000,
+    "Budget": 100000000,
+    "NetRevenue": 135927000
 }

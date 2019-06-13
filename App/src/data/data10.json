@@ -1,29 +1,29 @@
 {
-    "MovieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "MovieName": "Venom",
     "Cast": [
-        "Alan Howard",
-        "Noel Appleby",
-        "Sean Astin",
-        "Sala Baker",
-        "Sean Bean",
-        "Cate Blanchett",
-        "Orlando Bloom",
-        "Billy Boyd",
-        "Marton Csokas",
-        "Megan Edwards",
-        "Michael Elsworth",
-        "Mark Ferguson",
-        "Ian Holm",
-        "Christopher Lee",
-        "Lawrence Makoare"
+        "Tom Hardy",
+        "Michelle Williams",
+        "Riz Ahmed",
+        "Scott Haze",
+        "Reid Scott",
+        "Jenny Slate",
+        "Melora Walters",
+        "Woody Harrelson",
+        "Peggy Lu",
+        "Malcolm C. Murray",
+        "Sope Aluko",
+        "Wayne P\u00e9re",
+        "Michelle Lee",
+        "Kurt Yue",
+        "Chris O'Hara"
     ],
-    "Director": "Peter Jackson",
+    "Director": "Ruben Fleischer",
     "Genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 871530324,
-    "Budget": 93000000,
-    "NetRevenue": 778530324
+    "GrossRevenue": 855013954,
+    "Budget": 100000000,
+    "NetRevenue": 755013954
 }

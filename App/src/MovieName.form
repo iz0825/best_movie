@@ -2,7 +2,7 @@
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MovieName">
   <grid id="27dc6" binding="backgroundPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
     <constraints>
-      <xy x="20" y="20" width="500" height="400"/>
+      <xy x="20" y="20" width="583" height="400"/>
     </constraints>
     <properties>
       <background color="-14471362"/>
@@ -55,7 +55,7 @@
             </constraints>
             <properties>
               <background color="-14471362"/>
-              <font name="Avenir" size="24"/>
+              <font name="Avenir" size="36"/>
               <foreground color="-16537882"/>
               <text value="Please enter a name for your movie:"/>
             </properties>
@@ -70,6 +70,7 @@
             </constraints>
             <properties>
               <background color="-789517"/>
+              <font name="Avenir" size="28"/>
             </properties>
           </component>
         </children>

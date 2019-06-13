@@ -1,28 +1,29 @@
 {
-    "MovieName": "Judgment at Nuremberg",
+    "MovieName": "The Wolverine",
     "Cast": [
-        "Spencer Tracy",
-        "Burt Lancaster",
-        "Richard Widmark",
-        "Marlene Dietrich",
-        "Maximilian Schell",
-        "Judy Garland",
-        "Montgomery Clift",
-        "William Shatner",
-        "Werner Klemperer",
-        "Kenneth MacKenna",
-        "Torben Meyer",
-        "Joseph Bernard",
-        "Alan Baxter",
-        "Edward Binns",
-        "Virginia Christine"
+        "Hugh Jackman",
+        "Tao Okamoto",
+        "Rila Fukushima",
+        "Hiroyuki Sanada",
+        "Svetlana Khodchenkova",
+        "Brian Tee",
+        "Hal Yamanouchi",
+        "Will Yun Lee",
+        "Ken Yamamura",
+        "Famke Janssen",
+        "Nobutaka Aoyagi",
+        "Seiji Funamoto",
+        "Shinji Ikefuji",
+        "Qyoko Kudo",
+        "Nobuaki Kakuda"
     ],
-    "Director": "Stanley Kramer",
+    "Director": "James Mangold",
     "Genres": [
-        "Drama",
-        "War"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 10000000,
-    "Budget": 3000000,
-    "NetRevenue": 7000000
+    "GrossRevenue": 414828246,
+    "Budget": 120000000,
+    "NetRevenue": 294828246
 }

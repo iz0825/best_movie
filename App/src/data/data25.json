@@ -1,31 +1,30 @@
 {
-    "MovieName": "Spirited Away",
+    "MovieName": "Justice League",
     "Cast": [
-        "Rumi Hiiragi",
-        "Miyu Irino",
-        "Mari Natsuki",
-        "Takashi Nait\u00f4",
-        "Yasuko Sawaguchi",
-        "Tatsuya Gash\u00fbin",
-        "Ry\u00fbnosuke Kamiki",
-        "Yumi Tamai",
-        "Y\u00f4 \u00d4izumi",
-        "Koba Hayashi",
-        "Tsunehiko Kamij\u00f4",
-        "Takehiko Ono",
-        "Bunta Sugawara",
-        "Shigeru Wakita",
-        "Shir\u00f4 Sait\u00f4"
+        "Ben Affleck",
+        "Henry Cavill",
+        "Amy Adams",
+        "Gal Gadot",
+        "Ezra Miller",
+        "Jason Momoa",
+        "Ray Fisher",
+        "Jeremy Irons",
+        "Diane Lane",
+        "Connie Nielsen",
+        "J.K. Simmons",
+        "Ciar\u00e1n Hinds",
+        "Amber Heard",
+        "Joe Morton",
+        "Lisa Loven Kongsli"
     ],
-    "Director": "Kirk Wise",
+    "Director": "Zack Snyder",
     "Genres": [
-        "Animation",
+        "Action",
         "Adventure",
-        "Family",
         "Fantasy",
-        "Mystery"
+        "Sci-Fi"
     ],
-    "GrossRevenue": 274925095,
-    "Budget": 19000000,
-    "NetRevenue": 255925095
+    "GrossRevenue": 614729668,
+    "Budget": 300000000,
+    "NetRevenue": 314729668
 }

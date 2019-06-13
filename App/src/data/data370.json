@@ -1,0 +1,29 @@
+{
+    "MovieName": "28 Weeks Later",
+    "Cast": [
+        "Robert Carlyle",
+        "Rose Byrne",
+        "Jeremy Renner",
+        "Harold Perrineau",
+        "Catherine McCormack",
+        "Idris Elba",
+        "Imogen Poots",
+        "Mackintosh Muggleton",
+        "Amanda Walker",
+        "Shahid Ahmed",
+        "Garfield Morgan",
+        "Emily Beecham",
+        "Beans El-Balawi",
+        "Meghan Popiel",
+        "Stewart Alexander"
+    ],
+    "Director": "Juan Carlos Fresnadillo",
+    "Genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 64238440,
+    "Budget": 15000000,
+    "NetRevenue": 49238440
+}

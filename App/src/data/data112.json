@@ -1,29 +1,29 @@
 {
-    "MovieName": "Chinatown",
+    "MovieName": "The Silence of the Lambs",
     "Cast": [
-        "Jack Nicholson",
-        "Faye Dunaway",
-        "John Huston",
-        "Perry Lopez",
-        "John Hillerman",
-        "Darrell Zwerling",
-        "Diane Ladd",
-        "Roy Jenson",
-        "Roman Polanski",
-        "Richard Bakalyan",
-        "Joe Mantell",
-        "Bruce Glover",
-        "Nandu Hinds",
-        "James O'Rear",
-        "James Hong"
+        "Jodie Foster",
+        "Lawrence A. Bonney",
+        "Kasi Lemmons",
+        "Lawrence T. Wrentz",
+        "Scott Glenn",
+        "Anthony Heald",
+        "Frankie Faison",
+        "Don Brockett",
+        "Frank Seals Jr.",
+        "Stuart Rudin",
+        "Anthony Hopkins",
+        "Maria Skorobogatov",
+        "Jeffrie Lane",
+        "Leib Lensky",
+        "George 'Red' Schwartz"
     ],
-    "Director": "Roman Polanski",
+    "Director": "Jonathan Demme",
     "Genres": [
+        "Crime",
         "Drama",
-        "Mystery",
         "Thriller"
     ],
-    "GrossRevenue": 30000000,
-    "Budget": 6000000,
-    "NetRevenue": 24000000
+    "GrossRevenue": 272742922,
+    "Budget": 19000000,
+    "NetRevenue": 253742922
 }

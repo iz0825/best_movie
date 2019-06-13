@@ -1,28 +1,30 @@
 {
-    "MovieName": "Million Dollar Baby",
+    "MovieName": "Arrival",
     "Cast": [
-        "Clint Eastwood",
-        "Hilary Swank",
-        "Morgan Freeman",
-        "Jay Baruchel",
-        "Mike Colter",
-        "Lucia Rijker",
-        "Br\u00edan F. O'Byrne",
-        "Anthony Mackie",
-        "Margo Martindale",
-        "Riki Lindhome",
-        "Michael Pe\u00f1a",
-        "Benito Martinez",
-        "Bruce MacVittie",
-        "David Powledge",
-        "Joe D'Angerio"
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan",
+        "Jadyn Malone",
+        "Frank Schorpion",
+        "Lucas Chartier-Dessert",
+        "Christian Jadah",
+        "Lucy Van Oldenbarneveld",
+        "Andrew Shaver",
+        "Pat Kiely"
     ],
-    "Director": "Clint Eastwood",
+    "Director": "Denis Villeneuve",
     "Genres": [
         "Drama",
-        "Sport"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 216763646,
-    "Budget": 30000000,
-    "NetRevenue": 186763646
+    "GrossRevenue": 203388186,
+    "Budget": 47000000,
+    "NetRevenue": 156388186
 }

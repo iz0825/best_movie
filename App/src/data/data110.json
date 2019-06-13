@@ -1,28 +1,29 @@
 {
-    "MovieName": "Children of Heaven",
+    "MovieName": "Straw Dogs",
     "Cast": [
-        "Mohammad Amir Naji",
-        "Amir Farrokh Hashemian",
-        "Bahare Seddiqi",
-        "Nafise Jafar-Mohammadi",
-        "Fereshte Sarabandi",
-        "Kamal Mirkarimi",
-        "Behzad Rafi",
-        "Dariush Mokhtari",
-        "Mohammad-Hasan Hosseinian",
-        "Masume Dair",
-        "Kambiz Peykarnegar",
-        "Hasan Roohparvari",
-        "Abbas-Ali Roomandi",
-        "Jafar Seyfollahi",
-        "Qolamreza Maleki"
+        "James Marsden",
+        "Kate Bosworth",
+        "Alexander Skarsg\u00e5rd",
+        "James Woods",
+        "Dominic Purcell",
+        "Rhys Coiro",
+        "Billy Lush",
+        "Laz Alonso",
+        "Willa Holland",
+        "Walton Goggins",
+        "Anson Mount",
+        "Drew Powell",
+        "Kristen Shaw",
+        "Megan Adelle",
+        "Jessica Dockrey"
     ],
-    "Director": "Majid Majidi",
+    "Director": "Rod Lurie",
     "Genres": [
+        "Action",
         "Drama",
-        "Family"
+        "Thriller"
     ],
-    "GrossRevenue": 1628579,
-    "Budget": 180000,
-    "NetRevenue": 1448579
+    "GrossRevenue": 10324441,
+    "Budget": 25000000,
+    "NetRevenue": -14675559
 }

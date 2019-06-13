@@ -1,28 +1,30 @@
 {
-    "MovieName": "The Terminator",
+    "MovieName": "X-Men: Days of Future Past",
     "Cast": [
-        "Arnold Schwarzenegger",
-        "Michael Biehn",
-        "Linda Hamilton",
-        "Paul Winfield",
-        "Lance Henriksen",
-        "Rick Rossovich",
-        "Bess Motta",
-        "Earl Boen",
-        "Dick Miller",
-        "Shawn Schepps",
-        "Bruce M. Kerner",
-        "Franco Columbu",
-        "Bill Paxton",
-        "Brad Rearden",
-        "Brian Thompson"
+        "Hugh Jackman",
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence",
+        "Halle Berry",
+        "Nicholas Hoult",
+        "Anna Paquin",
+        "Ellen Page",
+        "Peter Dinklage",
+        "Shawn Ashmore",
+        "Omar Sy",
+        "Evan Peters",
+        "Josh Helman",
+        "Daniel Cudmore",
+        "Bingbing Fan"
     ],
-    "Director": "James Cameron",
+    "Director": "Bryan Singer",
     "Genres": [
         "Action",
-        "Sci-Fi"
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 40000000,
-    "Budget": 6400000,
-    "NetRevenue": 33600000
+    "GrossRevenue": 748121534,
+    "Budget": 200000000,
+    "NetRevenue": 548121534
 }

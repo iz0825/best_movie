@@ -1,30 +1,29 @@
 {
-    "MovieName": "Drishyam",
+    "MovieName": "The Fate of the Furious",
     "Cast": [
-        "Ajay Devgn",
-        "Shriya Saran",
-        "Tabu",
-        "Rajat Kapoor",
-        "Ishita Dutta",
-        "Mrunal Jadhav",
-        "Prasanna Ketkar",
-        "Yogesh Sonam",
-        "Prathamesh Parab",
-        "Rishab Chadha",
-        "Ashish Warang",
-        "Anil Nagarkar",
-        "Tarun Shukla",
-        "Smita Inamdar",
-        "Sanjay Bhatia"
+        "Vin Diesel",
+        "Jason Statham",
+        "Dwayne Johnson",
+        "Michelle Rodriguez",
+        "Tyrese Gibson",
+        "Ludacris",
+        "Charlize Theron",
+        "Kurt Russell",
+        "Nathalie Emmanuel",
+        "Luke Evans",
+        "Elsa Pataky",
+        "Kristofer Hivju",
+        "Scott Eastwood",
+        "Patrick St. Esprit",
+        "Janmarco Santiago"
     ],
-    "Director": "Nishikant Kamat",
+    "Director": "F. Gary Gray",
     "Genres": [
+        "Action",
         "Crime",
-        "Drama",
-        "Mystery",
         "Thriller"
     ],
-    "GrossRevenue": 739478,
-    "Budget": 9400000,
-    "NetRevenue": -8660522
+    "GrossRevenue": 1238764765,
+    "Budget": 250000000,
+    "NetRevenue": 988764765
 }

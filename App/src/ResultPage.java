@@ -19,7 +19,7 @@ public class ResultPage extends JFrame {
   private JTextPane contentTextPane;
   private JLabel msgLabel;
 
-  public ResultPage() throws BadLocationException {
+  public ResultPage() {
 
     setContentPane(backgroundPanel);
 
@@ -27,23 +27,32 @@ public class ResultPage extends JFrame {
 
     nameLabel.setText(MovieName.getMovieName());
 
-    nameLabel.setBorder(new EmptyBorder(20, 20, 20, 20));
+    nameLabel.setBorder(new EmptyBorder(20, 20, 0, 20));
+
+    msgLabel.setBorder(new EmptyBorder(0, 20, 20, 20));
 
 //    contentTextPane.setBorder(new EmptyBorder(20, 20, 0, 0));
 
-    ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
 
 /*    ArrayList<String> list = new ArrayList<>();
     list.add("Actor 1");
     list.add("Actor 2");
     list.add("Actor 3");*/
 
+    ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
+
     for (int i = 0; i < 15; i++) {
       StyledDocument document = (StyledDocument)contentTextPane.getDocument();
       SimpleAttributeSet attributes = new SimpleAttributeSet();
       StyleConstants.setAlignment(attributes, StyleConstants.ALIGN_CENTER);
-      document.insertString(document.getLength(), list.get(i) + "\n", attributes);
+      try {
+//        System.out.println(list.get(i));
+        document.insertString(document.getLength(), list.get(i) + "\n", attributes);
+      } catch (BadLocationException e) {
+        e.printStackTrace();
+      }
     }
+
 
     backButton.addActionListener(e -> {
       MovieName movieNameWindow = new MovieName();
@@ -69,5 +78,29 @@ public class ResultPage extends JFrame {
     ExitCheck exitWindow = new ExitCheck();
     exitWindow.setLocationRelativeTo(null);
     exitWindow.setVisible(true);
+  }
+
+  private void createUIComponents() {
+    nameLabel = new JLabel();
+    nameLabel.setHorizontalAlignment(SwingConstants.CENTER);
+
+    msgLabel = new JLabel();
+    msgLabel.setHorizontalAlignment(SwingConstants.CENTER);
+
+/*    contentTextPane = new JTextPane();
+
+    ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
+
+    for (int i = 0; i < 15; i++) {
+      StyledDocument document = (StyledDocument)contentTextPane.getDocument();
+      SimpleAttributeSet attributes = new SimpleAttributeSet();
+      StyleConstants.setAlignment(attributes, StyleConstants.ALIGN_CENTER);
+      try {
+        System.out.println(list.get(i));
+        document.insertString(document.getLength(), list.get(i) + "\n", attributes);
+      } catch (BadLocationException e) {
+        e.printStackTrace();
+      }
+    }*/
   }
 }

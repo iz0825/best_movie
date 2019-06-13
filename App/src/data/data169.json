@@ -1,30 +1,28 @@
 {
-    "MovieName": "Logan",
+    "MovieName": "The Green Inferno",
     "Cast": [
-        "Hugh Jackman",
-        "Patrick Stewart",
-        "Dafne Keen",
-        "Boyd Holbrook",
-        "Stephen Merchant",
-        "Elizabeth Rodriguez",
-        "Richard E. Grant",
-        "Eriq La Salle",
-        "Elise Neal",
-        "Quincy Fouse",
-        "Al Coronel",
-        "Frank Gallegos",
-        "Anthony Escobar",
-        "Reynaldo Gallegos",
-        "Krzysztof Soszynski"
+        "Lorenza Izzo",
+        "Ariel Levy",
+        "Daryl Sabara",
+        "Kirby Bliss Blanton",
+        "Magda Apanowicz",
+        "Sky Ferreira",
+        "Nicol\u00e1s Mart\u00ednez",
+        "Aaron Burns",
+        "Ignacia Allamand",
+        "Ram\u00f3n Llao",
+        "Richard Burgi",
+        "Mat\u00edas L\u00f3pez",
+        "Antonieta Pari",
+        "Tatiana Panaifo",
+        "Percy Chumbe"
     ],
-    "Director": "James Mangold",
+    "Director": "Eli Roth",
     "Genres": [
-        "Action",
-        "Drama",
-        "Sci-Fi",
-        "Thriller"
+        "Adventure",
+        "Horror"
     ],
-    "GrossRevenue": 619021436,
-    "Budget": 97000000,
-    "NetRevenue": 522021436
+    "GrossRevenue": 7192291,
+    "Budget": 6000000,
+    "NetRevenue": 1192291
 }

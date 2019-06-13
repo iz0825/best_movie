@@ -1,30 +1,30 @@
 {
-    "MovieName": "L.A. Confidential",
+    "MovieName": "The Dark Knight",
     "Cast": [
-        "Kevin Spacey",
-        "Russell Crowe",
-        "Guy Pearce",
-        "James Cromwell",
-        "Kim Basinger",
-        "Danny DeVito",
-        "David Strathairn",
-        "Ron Rifkin",
-        "Matt McCoy",
-        "Paul Guilfoyle",
-        "Paolo Seganti",
-        "Elisabeth Granli",
-        "Sandra Taylor",
-        "Steve Rankin",
-        "Graham Beckel"
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal",
+        "Gary Oldman",
+        "Morgan Freeman",
+        "Monique Gabriela Curnen",
+        "Ron Dean",
+        "Cillian Murphy",
+        "Chin Han",
+        "Nestor Carbonell",
+        "Eric Roberts",
+        "Ritchie Coster",
+        "Anthony Michael Hall"
     ],
-    "Director": "Curtis Hanson",
+    "Director": "Christopher Nolan",
     "Genres": [
+        "Action",
         "Crime",
         "Drama",
-        "Mystery",
         "Thriller"
     ],
-    "GrossRevenue": 126216940,
-    "Budget": 35000000,
-    "NetRevenue": 91216940
+    "GrossRevenue": 1004558444,
+    "Budget": 185000000,
+    "NetRevenue": 819558444
 }

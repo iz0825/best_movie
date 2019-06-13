@@ -1,0 +1,29 @@
+{
+    "MovieName": "Pacific Rim",
+    "Cast": [
+        "Charlie Hunnam",
+        "Diego Klattenhoff",
+        "Idris Elba",
+        "Rinko Kikuchi",
+        "Charlie Day",
+        "Burn Gorman",
+        "Max Martini",
+        "Robert Kazinsky",
+        "Clifton Collins Jr.",
+        "Ron Perlman",
+        "Brad William Henke",
+        "Larry Joe Campbell",
+        "Mana Ashida",
+        "Santiago Segura",
+        "Joe Pingue"
+    ],
+    "Director": "Guillermo del Toro",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 411002906,
+    "Budget": 190000000,
+    "NetRevenue": 221002906
+}

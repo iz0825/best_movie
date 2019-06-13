@@ -1,29 +1,30 @@
 {
-    "MovieName": "12 Years a Slave",
+    "MovieName": "Men in Black 3",
     "Cast": [
-        "Chiwetel Ejiofor",
-        "Dwight Henry",
-        "Dickie Gravois",
-        "Bryan Batt",
-        "Ashley Dyke",
-        "Kelsey Scott",
-        "Quvenzhan\u00e9 Wallis",
-        "Cameron Zeigler",
-        "Tony Bentley",
-        "Scoot McNairy",
-        "Taran Killam",
-        "Christopher Berry",
-        "Bill Camp",
-        "Mister Mackey Jr.",
-        "Chris Chalk"
+        "Will Smith",
+        "Tommy Lee Jones",
+        "Josh Brolin",
+        "Jemaine Clement",
+        "Emma Thompson",
+        "Michael Stuhlbarg",
+        "Mike Colter",
+        "Nicole Scherzinger",
+        "Michael Chernus",
+        "Alice Eve",
+        "David Rasche",
+        "Keone Young",
+        "Bill Hader",
+        "Cayen Martin",
+        "Clarke Thorell"
     ],
-    "Director": "Steve McQueen",
+    "Director": "Barry Sonnenfeld",
     "Genres": [
-        "Biography",
-        "Drama",
-        "History"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 187733202,
-    "Budget": 20000000,
-    "NetRevenue": 167733202
+    "GrossRevenue": 624026776,
+    "Budget": 225000000,
+    "NetRevenue": 399026776
 }

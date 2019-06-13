@@ -1,29 +1,30 @@
 {
-    "MovieName": "Jurassic Park",
+    "MovieName": "The Snowman",
     "Cast": [
-        "Sam Neill",
-        "Laura Dern",
-        "Jeff Goldblum",
-        "Richard Attenborough",
-        "Bob Peck",
-        "Martin Ferrero",
-        "BD Wong",
-        "Joseph Mazzello",
-        "Ariana Richards",
-        "Samuel L. Jackson",
-        "Wayne Knight",
-        "Gerald R. Molen",
-        "Miguel Sandoval",
-        "Cameron Thor",
-        "Christopher John Fields"
+        "Michael Fassbender",
+        "Rebecca Ferguson",
+        "Charlotte Gainsbourg",
+        "Jonas Karlsson",
+        "Michael Yates",
+        "Ronan Vibert",
+        "J.K. Simmons",
+        "Val Kilmer",
+        "David Dencik",
+        "Toby Jones",
+        "Genevieve O'Reilly",
+        "James D'Arcy",
+        "Jet\u00e9 Laurence",
+        "Adrian Dunbar",
+        "Chlo\u00eb Sevigny"
     ],
-    "Director": "Steven Spielberg",
+    "Director": "Tomas Alfredson",
     "Genres": [
-        "Adventure",
-        "Sci-Fi",
+        "Crime",
+        "Drama",
+        "Mystery",
         "Thriller"
     ],
-    "GrossRevenue": 1029153882,
-    "Budget": 63000000,
-    "NetRevenue": 966153882
+    "GrossRevenue": 6670765,
+    "Budget": 35000000,
+    "NetRevenue": -28329235
 }

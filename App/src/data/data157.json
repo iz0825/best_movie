@@ -1,28 +1,28 @@
 {
-    "MovieName": "Platoon",
+    "MovieName": "Brightburn",
     "Cast": [
-        "Tom Berenger",
-        "Keith David",
-        "Willem Dafoe",
-        "Forest Whitaker",
-        "Francesco Quinn",
-        "Kevin Dillon",
-        "John C. McGinley",
-        "Reggie Johnson",
-        "Mark Moses",
-        "Corey Glover",
-        "Johnny Depp",
-        "Chris Pedersen",
-        "Bob Orwig",
-        "Corkey Ford",
-        "David Neidorf"
+        "Elizabeth Banks",
+        "David Denman",
+        "Jackson A. Dunn",
+        "Abraham Clinkscales",
+        "Christian Finlayson",
+        "Jennifer Holland",
+        "Emmie Hunter",
+        "Matt Jones",
+        "Meredith Hagner",
+        "Becky Wahlstrom",
+        "Terence Rosemore",
+        "Gregory Alan Williams",
+        "Elizabeth Becka",
+        "Annie Humphrey",
+        "Steve Agee"
     ],
-    "Director": "Oliver Stone",
+    "Director": "David Yarovesky",
     "Genres": [
-        "Drama",
-        "War"
+        "Horror",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 138530565,
-    "Budget": 6000000,
-    "NetRevenue": 132530565
+    "GrossRevenue": 26721148,
+    "Budget": 7000000,
+    "NetRevenue": 19721148
 }

@@ -1,27 +1,30 @@
 {
-    "MovieName": "Trainspotting",
+    "MovieName": "The Lost City of Z",
     "Cast": [
-        "Ewan McGregor",
-        "Ewen Bremner",
-        "Jonny Lee Miller",
-        "Kevin McKidd",
-        "Robert Carlyle",
-        "Kelly Macdonald",
-        "Peter Mullan",
-        "James Cosmo",
-        "Eileen Nicholas",
-        "Susan Vidler",
-        "Pauline Lynch",
-        "Shirley Henderson",
-        "Stuart McQuarrie",
-        "Irvine Welsh",
-        "Dale Winton"
+        "Charlie Hunnam",
+        "Robert Pattinson",
+        "Sienna Miller",
+        "Tom Holland",
+        "Edward Ashley",
+        "Angus Macfadyen",
+        "Ian McDiarmid",
+        "Clive Francis",
+        "Pedro Coello",
+        "Matthew Sunderland",
+        "Johann Myers",
+        "Aleksandar Jovanovic",
+        "Elena Solovey",
+        "Bobby Smalldridge",
+        "Tom Mulheron"
     ],
-    "Director": "Danny Boyle",
+    "Director": "James Gray",
     "Genres": [
-        "Drama"
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History"
     ],
-    "GrossRevenue": 71558971,
-    "Budget": 3500000,
-    "NetRevenue": 68058971
+    "GrossRevenue": 17509437,
+    "Budget": 30000000,
+    "NetRevenue": -12490563
 }

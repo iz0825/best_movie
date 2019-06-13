@@ -1,29 +1,29 @@
 {
-    "MovieName": "City Lights",
+    "MovieName": "300",
     "Cast": [
-        "Virginia Cherrill",
-        "Florence Lee",
-        "Harry Myers",
-        "Garcia Al Ernest",
-        "Hank Mann",
-        "Charles Chaplin",
-        "Jack Alexander",
-        "T.S. Alexander",
-        "Victor Alexander",
-        "Albert Austin",
-        "Harry Ayers",
-        "Eddie Baker",
-        "Henry Bergman",
-        "Betty Blair",
-        "Buster Brodie"
+        "Gerard Butler",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Vincent Regan",
+        "Michael Fassbender",
+        "Tom Wisdom",
+        "Andrew Pleavin",
+        "Andrew Tiernan",
+        "Rodrigo Santoro",
+        "Giovani Cimmino",
+        "Stephen McHattie",
+        "Greg Kramer",
+        "Alex Ivanovici",
+        "Kelly Craig"
     ],
-    "Director": "Charles Chaplin",
+    "Director": "Zack Snyder",
     "Genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Action",
+        "Fantasy",
+        "War"
     ],
-    "GrossRevenue": 19181,
-    "Budget": 1500000,
-    "NetRevenue": -1480819
+    "GrossRevenue": 456068181,
+    "Budget": 65000000,
+    "NetRevenue": 391068181
 }

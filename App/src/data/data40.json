@@ -1,28 +1,29 @@
 {
-    "MovieName": "Whiplash",
+    "MovieName": "P.S. I Love You",
     "Cast": [
-        "Miles Teller",
-        "J.K. Simmons",
-        "Paul Reiser",
-        "Melissa Benoist",
-        "Austin Stowell",
-        "Nate Lang",
-        "Chris Mulkey",
-        "Damon Gupton",
-        "Suanne Spoke",
-        "Max Kasch",
-        "Charlie Ian",
-        "Jayson Blair",
-        "Kofi Siriboe",
-        "Kavita Patil",
-        "C.J. Vana"
+        "Hilary Swank",
+        "Gerard Butler",
+        "Lisa Kudrow",
+        "Gina Gershon",
+        "James Marsters",
+        "Kathy Bates",
+        "Harry Connick Jr.",
+        "Nellie McKay",
+        "Jeffrey Dean Morgan",
+        "Dean Winters",
+        "Anne Kent",
+        "Brian McGrath",
+        "Sherie Rene Scott",
+        "Susan Blackwell",
+        "Michael Countryman"
     ],
-    "Director": "Damien Chazelle",
+    "Director": "Richard LaGravenese",
     "Genres": [
+        "Comedy",
         "Drama",
-        "Music"
+        "Romance"
     ],
-    "GrossRevenue": 48982041,
-    "Budget": 3300000,
-    "NetRevenue": 45682041
+    "GrossRevenue": 156835339,
+    "Budget": 30000000,
+    "NetRevenue": 126835339
 }

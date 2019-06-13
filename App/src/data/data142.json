@@ -1,28 +1,27 @@
 {
-    "MovieName": "Shutter Island",
+    "MovieName": "Waiting...",
     "Cast": [
-        "Leonardo DiCaprio",
-        "Mark Ruffalo",
-        "Ben Kingsley",
-        "Max von Sydow",
-        "Michelle Williams",
-        "Emily Mortimer",
-        "Patricia Clarkson",
-        "Jackie Earle Haley",
-        "Ted Levine",
-        "John Carroll Lynch",
-        "Elias Koteas",
-        "Robin Bartlett",
-        "Christopher Denham",
-        "Nellie Sciutto",
-        "Joseph Sikora"
+        "Ryan Reynolds",
+        "Anna Faris",
+        "Justin Long",
+        "David Koechner",
+        "Luis Guzm\u00e1n",
+        "Chi McBride",
+        "John Francis Daley",
+        "Kaitlin Doubleday",
+        "Rob Benedict",
+        "Alanna Ubach",
+        "Vanessa Lengies",
+        "Max Kasch",
+        "Andy Milonakis",
+        "Dane Cook",
+        "Jordan Ladd"
     ],
-    "Director": "Martin Scorsese",
+    "Director": "Rob McKittrick",
     "Genres": [
-        "Mystery",
-        "Thriller"
+        "Comedy"
     ],
-    "GrossRevenue": 294804195,
-    "Budget": 80000000,
-    "NetRevenue": 214804195
+    "GrossRevenue": 16124543,
+    "Budget": 3000000,
+    "NetRevenue": 13124543
 }

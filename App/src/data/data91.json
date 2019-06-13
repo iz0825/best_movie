@@ -1,31 +1,30 @@
 {
-    "MovieName": "Toy Story 3",
+    "MovieName": "The Meg",
     "Cast": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Joan Cusack",
-        "Ned Beatty",
-        "Don Rickles",
-        "Michael Keaton",
-        "Wallace Shawn",
-        "John Ratzenberger",
-        "Estelle Harris",
-        "John Morris",
-        "Jodi Benson",
-        "Emily Hahn",
-        "Laurie Metcalf",
-        "Blake Clark",
-        "Teddy Newton"
+        "Jason Statham",
+        "Bingbing Li",
+        "Rainn Wilson",
+        "Cliff Curtis",
+        "Winston Chao",
+        "Shuya Sophia Cai",
+        "Ruby Rose",
+        "Page Kennedy",
+        "Robert Taylor",
+        "\u00d3lafur Darri \u00d3lafsson",
+        "Jessica McNamee",
+        "Masi Oka",
+        "Raymond Vinten",
+        "Hongmei Mai",
+        "Wei Yi"
     ],
-    "Director": "Lee Unkrich",
+    "Director": "Jon Turteltaub",
     "Genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 1063171911,
-    "Budget": 200000000,
-    "NetRevenue": 863171911
+    "GrossRevenue": 530243742,
+    "Budget": 130000000,
+    "NetRevenue": 400243742
 }

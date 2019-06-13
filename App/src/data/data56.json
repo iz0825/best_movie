@@ -1,28 +1,28 @@
 {
-    "MovieName": "Django Unchained",
+    "MovieName": "Titanic",
     "Cast": [
-        "Jamie Foxx",
-        "Christoph Waltz",
         "Leonardo DiCaprio",
-        "Kerry Washington",
-        "Samuel L. Jackson",
-        "Walton Goggins",
-        "Dennis Christopher",
-        "James Remar",
-        "David Steen",
-        "Dana Gourrier",
-        "Nichole Galicia",
-        "Laura Cayouette",
-        "Ato Essandoh",
-        "Sammi Rotibi",
-        "Clay Donahue Fontenot"
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates",
+        "Frances Fisher",
+        "Gloria Stuart",
+        "Bill Paxton",
+        "Bernard Hill",
+        "David Warner",
+        "Victor Garber",
+        "Jonathan Hyde",
+        "Suzy Amis",
+        "Lewis Abernathy",
+        "Nicholas Cascone",
+        "Anatoly M. Sagalevitch"
     ],
-    "Director": "Quentin Tarantino",
+    "Director": "James Cameron",
     "Genres": [
         "Drama",
-        "Western"
+        "Romance"
     ],
-    "GrossRevenue": 425368238,
-    "Budget": 100000000,
-    "NetRevenue": 325368238
+    "GrossRevenue": 2186772302,
+    "Budget": 200000000,
+    "NetRevenue": 1986772302
 }

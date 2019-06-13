@@ -1,29 +1,30 @@
 {
-    "MovieName": "Raging Bull",
+    "MovieName": "Serenity",
     "Cast": [
-        "Robert De Niro",
-        "Cathy Moriarty",
-        "Joe Pesci",
-        "Frank Vincent",
-        "Nicholas Colasanto",
-        "Theresa Saldana",
-        "Mario Gallo",
-        "Frank Adonis",
-        "Joseph Bono",
-        "Frank Topham",
-        "Lori Anne Flax",
-        "Charles Scorsese",
-        "Don Dunphy",
-        "Bill Hanrahan",
-        "Rita Bennett"
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Diane Lane",
+        "Jason Clarke",
+        "Djimon Hounsou",
+        "Jeremy Strong",
+        "Charlotte Butler",
+        "David Butler",
+        "Rafael Sayegh",
+        "Michael Richard",
+        "Robert Hobbs",
+        "Kenneth Fok",
+        "Garion Dowds",
+        "John Whiteley",
+        "Edeen Bhugeloo"
     ],
-    "Director": "Martin Scorsese",
+    "Director": "Steven Knight",
     "Genres": [
-        "Biography",
         "Drama",
-        "Sport"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 49034,
-    "Budget": 18000000,
-    "NetRevenue": -17950966
+    "GrossRevenue": 8547045,
+    "Budget": 25000000,
+    "NetRevenue": -16452955
 }

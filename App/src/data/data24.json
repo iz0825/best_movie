@@ -1,30 +1,30 @@
 {
-    "MovieName": "Life Is Beautiful",
+    "MovieName": "Beauty and the Beast",
     "Cast": [
-        "Roberto Benigni",
-        "Nicoletta Braschi",
-        "Giorgio Cantarini",
-        "Giustino Durano",
-        "Sergio Bini Bustric",
-        "Marisa Paredes",
-        "Horst Buchholz",
-        "Lidia Alfonsi",
-        "Giuliana Lojodice",
-        "Amerigo Fontani",
-        "Pietro De Silva",
-        "Francesco Guzzo",
-        "Raffaella Lebboroni",
-        "Claudio Alfonsi",
-        "Gil Baroni"
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Josh Gad",
+        "Kevin Kline",
+        "Hattie Morahan",
+        "Haydn Gwynne",
+        "Gerard Horan",
+        "Ray Fearon",
+        "Ewan McGregor",
+        "Ian McKellen",
+        "Emma Thompson",
+        "Nathan Mack",
+        "Audra McDonald",
+        "Stanley Tucci"
     ],
-    "Director": "Roberto Benigni",
+    "Director": "Bill Condon",
     "Genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "War"
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
     ],
-    "GrossRevenue": 229163264,
-    "Budget": 20000000,
-    "NetRevenue": 209163264
+    "GrossRevenue": 1263521126,
+    "Budget": 160000000,
+    "NetRevenue": 1103521126
 }

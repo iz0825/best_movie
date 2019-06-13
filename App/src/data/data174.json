@@ -1,30 +1,28 @@
 {
-    "MovieName": "Nausica\u00e4 of the Valley of the Wind",
+    "MovieName": "The Foreigner",
     "Cast": [
-        "Sumi Shimamoto",
-        "Mahito Tsujimura",
-        "Hisako Ky\u00f4da",
-        "Gor\u00f4 Naya",
-        "Ichir\u00f4 Nagai",
-        "K\u00f4hei Miyauchi",
-        "J\u00f4ji Yanami",
-        "Minoru Yada",
-        "Rihoko Yoshida",
-        "Masako Sugaya",
-        "Takako Sasuga",
-        "Chika Sakamoto",
-        "Tarako",
-        "Y\u00f4ji Matsuda",
-        "M\u00eena Tominaga"
+        "Katie Leung",
+        "Jackie Chan",
+        "Rufus Jones",
+        "Mark Tandy",
+        "John Cronin",
+        "Caolan Byrne",
+        "Donna Bernard",
+        "Aaron Monaghan",
+        "Niall McNamee",
+        "Pierce Brosnan",
+        "Charlie Murphy",
+        "Orla Brady",
+        "Lia Williams",
+        "Michael McElhatton",
+        "David Pearse"
     ],
-    "Director": "Hayao Miyazaki",
+    "Director": "Martin Campbell",
     "Genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
+        "Action",
+        "Thriller"
     ],
-    "GrossRevenue": 495770,
-    "Budget": 1000000,
-    "NetRevenue": -504230
+    "GrossRevenue": 34393507,
+    "Budget": 35000000,
+    "NetRevenue": -606493
 }

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Blade",
+    "Cast": [
+        "Wesley Snipes",
+        "Stephen Dorff",
+        "Kris Kristofferson",
+        "N'Bushe Wright",
+        "Donal Logue",
+        "Udo Kier",
+        "Arly Jover",
+        "Traci Lords",
+        "Kevin Patrick Walls",
+        "Tim Guinee",
+        "Sanaa Lathan",
+        "Eric Edwards",
+        "Donna Wong",
+        "Carmen Thomas",
+        "Shannon Lee"
+    ],
+    "Director": "Stephen Norrington",
+    "Genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 131183530,
+    "Budget": 45000000,
+    "NetRevenue": 86183530
+}

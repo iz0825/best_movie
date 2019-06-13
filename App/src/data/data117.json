@@ -1,30 +1,23 @@
 {
-    "MovieName": "The Gold Rush",
+    "MovieName": "Alien",
     "Cast": [
-        "Charles Chaplin",
-        "Mack Swain",
-        "Tom Murray",
-        "Henry Bergman",
-        "Malcolm Waite",
-        "Georgia Hale",
-        "Jack Adams",
-        "Frank Aderias",
-        "Leona Aderias",
-        "Lillian Adrian",
-        "Sam Allen",
-        "Claude Anderson",
-        "Harry Arras",
-        "Albert Austin",
-        "Marta Belfort"
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm",
+        "Yaphet Kotto",
+        "Bolaji Badejo",
+        "Helen Horton",
+        "Eddie Powell"
     ],
-    "Director": "Charles Chaplin",
+    "Director": "Ridley Scott",
     "Genres": [
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Family"
+        "Horror",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 5450000,
-    "Budget": 923000,
-    "NetRevenue": 4527000
+    "GrossRevenue": 203630630,
+    "Budget": 11000000,
+    "NetRevenue": 192630630
 }

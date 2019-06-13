@@ -1,30 +1,29 @@
 {
-    "MovieName": "Witness for the Prosecution",
+    "MovieName": "Captain America: The First Avenger",
     "Cast": [
-        "Tyrone Power",
-        "Marlene Dietrich",
-        "Charles Laughton",
-        "Elsa Lanchester",
-        "John Williams",
-        "Henry Daniell",
-        "Ian Wolfe",
-        "Torin Thatcher",
-        "Norma Varden",
-        "Una O'Connor",
-        "Francis Compton",
-        "Philip Tonge",
-        "Ruta Lee",
-        "Patrick Aherne",
-        "Walter Bacon"
+        "Chris Evans",
+        "Hayley Atwell",
+        "Sebastian Stan",
+        "Tommy Lee Jones",
+        "Hugo Weaving",
+        "Dominic Cooper",
+        "Richard Armitage",
+        "Stanley Tucci",
+        "Samuel L. Jackson",
+        "Toby Jones",
+        "Neal McDonough",
+        "Derek Luke",
+        "Kenneth Choi",
+        "JJ Feild",
+        "Bruno Ricci"
     ],
-    "Director": "Billy Wilder",
+    "Director": "Joe Johnston",
     "Genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 16350000,
-    "Budget": 3000000,
-    "NetRevenue": 13350000
+    "GrossRevenue": 370569774,
+    "Budget": 140000000,
+    "NetRevenue": 230569774
 }

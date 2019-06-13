@@ -1,28 +1,28 @@
 {
-    "MovieName": "A Beautiful Mind",
+    "MovieName": "What We Do in the Shadows",
     "Cast": [
-        "Russell Crowe",
-        "Ed Harris",
-        "Jennifer Connelly",
-        "Christopher Plummer",
-        "Paul Bettany",
-        "Adam Goldberg",
-        "Josh Lucas",
-        "Anthony Rapp",
-        "Jason Gray-Stanford",
-        "Judd Hirsch",
-        "Austin Pendleton",
-        "Vivien Cardone",
-        "Jillie Simon",
-        "Victor Steinbach",
-        "Tanya Clarke"
+        "Jemaine Clement",
+        "Taika Waititi",
+        "Jonny Brugh",
+        "Cori Gonzalez-Macuer",
+        "Stu Rutherford",
+        "Ben Fransham",
+        "Jackie van Beek",
+        "Elena Stejko",
+        "Jason Hoyte",
+        "Karen O'Leary",
+        "Mike Minogue",
+        "Chelsie Preston Crayford",
+        "Ian Harcourt",
+        "Ethel Robinson",
+        "Brad Harding"
     ],
-    "Director": "Ron Howard",
+    "Director": "Taika Waititi",
     "Genres": [
-        "Biography",
-        "Drama"
+        "Comedy",
+        "Horror"
     ],
-    "GrossRevenue": 313542341,
-    "Budget": 58000000,
-    "NetRevenue": 255542341
+    "GrossRevenue": 3333000,
+    "Budget": 1600000,
+    "NetRevenue": 1733000
 }

@@ -1,29 +1,32 @@
 {
-    "MovieName": "Interstellar",
+    "MovieName": "Incredibles 2",
     "Cast": [
-        "Ellen Burstyn",
-        "Matthew McConaughey",
-        "Mackenzie Foy",
-        "John Lithgow",
-        "Timoth\u00e9e Chalamet",
-        "David Oyelowo",
-        "Collette Wolfe",
-        "Francis X. McCarthy",
-        "Bill Irwin",
-        "Anne Hathaway",
-        "Andrew Borba",
-        "Wes Bentley",
-        "William Devane",
-        "Michael Caine",
-        "David Gyasi"
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Huck Milner",
+        "Catherine Keener",
+        "Eli Fucile",
+        "Bob Odenkirk",
+        "Samuel L. Jackson",
+        "Michael Bird",
+        "Sophia Bush",
+        "Brad Bird",
+        "Phil LaMarr",
+        "Isabella Rossellini",
+        "Adam Gates",
+        "Jonathan Banks"
     ],
-    "Director": "Christopher Nolan",
+    "Director": "Brad Bird",
     "Genres": [
+        "Animation",
+        "Action",
         "Adventure",
-        "Drama",
+        "Comedy",
+        "Family",
         "Sci-Fi"
     ],
-    "GrossRevenue": 675020017,
-    "Budget": 165000000,
-    "NetRevenue": 510020017
+    "GrossRevenue": 1242770554,
+    "Budget": 200000000,
+    "NetRevenue": 1042770554
 }

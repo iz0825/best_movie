@@ -1,30 +1,28 @@
 {
-    "MovieName": "Rebecca",
+    "MovieName": "White Boy Rick",
     "Cast": [
-        "Laurence Olivier",
-        "Joan Fontaine",
-        "George Sanders",
-        "Judith Anderson",
-        "Nigel Bruce",
-        "Reginald Denny",
-        "C. Aubrey Smith",
-        "Gladys Cooper",
-        "Florence Bates",
-        "Melville Cooper",
-        "Leo G. Carroll",
-        "Leonard Carey",
-        "Lumsden Hare",
-        "Edward Fielding",
-        "Philip Winter"
+        "Matthew McConaughey",
+        "Richie Merritt",
+        "Bel Powley",
+        "Jennifer Jason Leigh",
+        "Brian Tyree Henry",
+        "Rory Cochrane",
+        "RJ Cyler",
+        "Jonathan Majors",
+        "Eddie Marsan",
+        "Taylour Paige",
+        "Bruce Dern",
+        "Piper Laurie",
+        "Raekwon Haynes",
+        "Ishmael Ali",
+        "James Howard"
     ],
-    "Director": "Alfred Hitchcock",
+    "Director": "Yann Demange",
     "Genres": [
-        "Drama",
-        "Mystery",
-        "Romance",
-        "Thriller"
+        "Crime",
+        "Drama"
     ],
-    "GrossRevenue": 7592465,
-    "Budget": 1288000,
-    "NetRevenue": 6304465
+    "GrossRevenue": 24011188,
+    "Budget": 29000000,
+    "NetRevenue": -4988812
 }

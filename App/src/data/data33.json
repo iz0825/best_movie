@@ -1,29 +1,29 @@
 {
-    "MovieName": "Casablanca",
+    "MovieName": "John Carter",
     "Cast": [
-        "Humphrey Bogart",
-        "Ingrid Bergman",
-        "Paul Henreid",
-        "Claude Rains",
-        "Conrad Veidt",
-        "Sydney Greenstreet",
-        "Peter Lorre",
-        "S.Z. Sakall",
-        "Madeleine Lebeau",
-        "Dooley Wilson",
-        "Joy Page",
-        "John Qualen",
-        "Leonid Kinskey",
-        "Curt Bois",
-        "Enrique Acosta"
+        "Taylor Kitsch",
+        "Lynn Collins",
+        "Samantha Morton",
+        "Willem Dafoe",
+        "Thomas Haden Church",
+        "Mark Strong",
+        "Ciar\u00e1n Hinds",
+        "Dominic West",
+        "James Purefoy",
+        "Bryan Cranston",
+        "Polly Walker",
+        "Daryl Sabara",
+        "Arkie Reece",
+        "Davood Ghadami",
+        "Pippa Nixon"
     ],
-    "Director": "Michael Curtiz",
+    "Director": "Andrew Stanton",
     "Genres": [
-        "Drama",
-        "Romance",
-        "War"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 14952620,
-    "Budget": 950000,
-    "NetRevenue": 14002620
+    "GrossRevenue": 284139100,
+    "Budget": 250000000,
+    "NetRevenue": 34139100
 }

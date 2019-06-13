@@ -1,28 +1,29 @@
 {
-    "MovieName": "Mr. Smith Goes to Washington",
+    "MovieName": "The Mummy",
     "Cast": [
-        "Jean Arthur",
-        "James Stewart",
-        "Claude Rains",
-        "Edward Arnold",
-        "Guy Kibbee",
-        "Thomas Mitchell",
-        "Eugene Pallette",
-        "Beulah Bondi",
-        "H.B. Warner",
-        "Harry Carey",
-        "Astrid Allwyn",
-        "Ruth Donnelly",
-        "Grant Mitchell",
-        "Porter Hall",
-        "H.V. Kaltenborn"
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah",
+        "Arnold Vosloo",
+        "Kevin J. O'Connor",
+        "Jonathan Hyde",
+        "Oded Fehr",
+        "Erick Avari",
+        "Stephen Dunham",
+        "Corey Johnson",
+        "Tuc Watkins",
+        "Omid Djalili",
+        "Aharon Ipal\u00e9",
+        "Bernard Fox",
+        "Patricia Velasquez"
     ],
-    "Director": "Frank Capra",
+    "Director": "Stephen Sommers",
     "Genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
-    "GrossRevenue": 9600000,
-    "Budget": 1500000,
-    "NetRevenue": 8100000
+    "GrossRevenue": 415933406,
+    "Budget": 80000000,
+    "NetRevenue": 335933406
 }

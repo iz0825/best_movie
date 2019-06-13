@@ -1,27 +1,30 @@
 {
-    "MovieName": "The Hunt",
+    "MovieName": "Guardians of the Galaxy",
     "Cast": [
-        "Mads Mikkelsen",
-        "Thomas Bo Larsen",
-        "Annika Wedderkopp",
-        "Lasse Fogelstr\u00f8m",
-        "Susse Wold",
-        "Anne Louise Hassing",
-        "Lars Ranthe",
-        "Alexandra Rapaport",
-        "Sebastian Bull Sarning",
-        "Steen Ordell Guldbrand Jensen",
-        "Daniel Engstrup",
-        "Troels Thorsen",
-        "S\u00f8ren R\u00f8nholt",
-        "Hana Shuan",
-        "Jytte Kvinesdal"
+        "Chris Pratt",
+        "Zoe Saldana",
+        "Dave Bautista",
+        "Vin Diesel",
+        "Bradley Cooper",
+        "Lee Pace",
+        "Michael Rooker",
+        "Karen Gillan",
+        "Djimon Hounsou",
+        "John C. Reilly",
+        "Glenn Close",
+        "Benicio Del Toro",
+        "Laura Haddock",
+        "Sean Gunn",
+        "Peter Serafinowicz"
     ],
-    "Director": "Thomas Vinterberg",
+    "Director": "James Gunn",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 18309793,
-    "Budget": 3800000,
-    "NetRevenue": 14509793
+    "GrossRevenue": 774176600,
+    "Budget": 170000000,
+    "NetRevenue": 604176600
 }

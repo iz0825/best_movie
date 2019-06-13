@@ -1,27 +1,30 @@
 {
-    "MovieName": "The Shawshank Redemption",
+    "MovieName": "Godzilla: King of the Monsters",
     "Cast": [
-        "Tim Robbins",
-        "Morgan Freeman",
-        "Bob Gunton",
-        "William Sadler",
-        "Clancy Brown",
-        "Gil Bellows",
-        "Mark Rolston",
-        "James Whitmore",
-        "Jeffrey DeMunn",
-        "Larry Brandenburg",
-        "Neil Giuntoli",
-        "Brian Libby",
-        "David Proval",
-        "Joseph Ragno",
-        "Jude Ciccolella"
+        "Kyle Chandler",
+        "Vera Farmiga",
+        "Millie Bobby Brown",
+        "Ken Watanabe",
+        "Ziyi Zhang",
+        "Bradley Whitford",
+        "Sally Hawkins",
+        "Charles Dance",
+        "Thomas Middleditch",
+        "Aisha Hinds",
+        "O'Shea Jackson Jr.",
+        "David Strathairn",
+        "Anthony Ramos",
+        "Elizabeth Faith Ludlow",
+        "Jonathan Howard"
     ],
-    "Director": "Frank Darabont",
+    "Director": "Michael Dougherty",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 58500000,
-    "Budget": 25000000,
-    "NetRevenue": 33500000
+    "GrossRevenue": 294507504,
+    "Budget": 170000000,
+    "NetRevenue": 124507504
 }

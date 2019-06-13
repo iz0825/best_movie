@@ -1,29 +1,29 @@
 {
-    "MovieName": "Eternal Sunshine of the Spotless Mind",
+    "MovieName": "Fantastic Beasts and Where to Find Them",
     "Cast": [
-        "Jim Carrey",
-        "Kate Winslet",
-        "Gerry Robert Byrne",
-        "Elijah Wood",
-        "Thomas Jay Ryan",
-        "Mark Ruffalo",
-        "Jane Adams",
-        "David Cross",
-        "Kirsten Dunst",
-        "Tom Wilkinson",
-        "Ryan Whitney",
-        "Debbon Ayer",
-        "Amir Ali Said",
-        "Brian Price",
-        "Paulie Litt"
+        "Eddie Redmayne",
+        "Sam Redford",
+        "Scott Goldman",
+        "Tim Bentinck",
+        "Tristan Tait",
+        "Colin Farrell",
+        "Tom Clarke Hill",
+        "Matthew Sim",
+        "Katherine Waterston",
+        "Samantha Morton",
+        "Dan Fogler",
+        "Ezra Miller",
+        "Faith Wood-Blagrove",
+        "Jenn Murray",
+        "Cory Peterson"
     ],
-    "Director": "Michel Gondry",
+    "Director": "David Yates",
     "Genres": [
-        "Drama",
-        "Romance",
-        "Sci-Fi"
+        "Adventure",
+        "Family",
+        "Fantasy"
     ],
-    "GrossRevenue": 73169222,
-    "Budget": 20000000,
-    "NetRevenue": 53169222
+    "GrossRevenue": 814037575,
+    "Budget": 180000000,
+    "NetRevenue": 634037575
 }

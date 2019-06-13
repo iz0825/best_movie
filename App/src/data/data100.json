@@ -1,27 +1,29 @@
 {
-    "MovieName": "All About Eve",
+    "MovieName": "Bumblebee",
     "Cast": [
-        "Bette Davis",
-        "Anne Baxter",
-        "George Sanders",
-        "Celeste Holm",
-        "Gary Merrill",
-        "Hugh Marlowe",
-        "Gregory Ratoff",
-        "Barbara Bates",
-        "Marilyn Monroe",
-        "Thelma Ritter",
-        "Walter Hampden",
-        "Randy Stuart",
-        "Craig Hill",
-        "Leland Harris",
-        "Barbara White"
+        "Hailee Steinfeld",
+        "Jorge Lendeborg Jr.",
+        "John Cena",
+        "Jason Drucker",
+        "Pamela Adlon",
+        "Stephen Schneider",
+        "Ricardo Hoyos",
+        "John Ortiz",
+        "Glynn Turman",
+        "Len Cariou",
+        "Kollin Holtz",
+        "Gracie Dzienny",
+        "Fred Dryer",
+        "Isabelle Ellingson",
+        "Mika Kubo"
     ],
-    "Director": "Joseph L. Mankiewicz",
+    "Director": "Travis Knight",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 10177,
-    "Budget": 1400000,
-    "NetRevenue": -1389823
+    "GrossRevenue": 467705125,
+    "Budget": 135000000,
+    "NetRevenue": 332705125
 }

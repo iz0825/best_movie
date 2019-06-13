@@ -1,28 +1,30 @@
 {
-    "MovieName": "To Kill a Mockingbird",
+    "MovieName": "The Secret Life of Pets",
     "Cast": [
-        "Gregory Peck",
-        "John Megna",
-        "Frank Overton",
-        "Rosemary Murphy",
-        "Ruth White",
-        "Brock Peters",
-        "Estelle Evans",
-        "Paul Fix",
-        "Collin Wilcox Paxton",
-        "James Anderson",
-        "Alice Ghostley",
-        "Robert Duvall",
-        "William Windom",
-        "Crahan Denton",
-        "Richard Hale"
+        "Louis C.K.",
+        "Eric Stonestreet",
+        "Kevin Hart",
+        "Jenny Slate",
+        "Ellie Kemper",
+        "Albert Brooks",
+        "Lake Bell",
+        "Dana Carvey",
+        "Hannibal Buress",
+        "Bobby Moynihan",
+        "Chris Renaud",
+        "Steve Coogan",
+        "Michael Beattie",
+        "Sandra Echeverr\u00eda",
+        "Jaime Camil"
     ],
-    "Director": "Robert Mulligan",
+    "Director": "Yarrow Cheney",
     "Genres": [
-        "Crime",
-        "Drama"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
     ],
-    "GrossRevenue": 13129846,
-    "Budget": 2000000,
-    "NetRevenue": 11129846
+    "GrossRevenue": 875457937,
+    "Budget": 75000000,
+    "NetRevenue": 800457937
 }

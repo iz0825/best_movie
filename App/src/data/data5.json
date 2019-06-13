@@ -1,29 +1,30 @@
 {
-    "MovieName": "Schindler's List",
+    "MovieName": "Aquaman",
     "Cast": [
-        "Liam Neeson",
-        "Ben Kingsley",
-        "Ralph Fiennes",
-        "Caroline Goodall",
-        "Jonathan Sagall",
-        "Embeth Davidtz",
-        "Malgorzata Gebel",
-        "Shmuel Levy",
-        "Mark Ivanir",
-        "B\u00e9atrice Macola",
-        "Andrzej Seweryn",
-        "Friedrich von Thun",
-        "Krzysztof Luft",
-        "Harry Nehring",
-        "Norbert Weisser"
+        "Jason Momoa",
+        "Amber Heard",
+        "Willem Dafoe",
+        "Patrick Wilson",
+        "Nicole Kidman",
+        "Dolph Lundgren",
+        "Yahya Abdul-Mateen II",
+        "Temuera Morrison",
+        "Ludi Lin",
+        "Michael Beach",
+        "Randall Park",
+        "Graham McTavish",
+        "Leigh Whannell",
+        "Tainui Kirkwood",
+        "Tamor Kirkwood"
     ],
-    "Director": "Steven Spielberg",
+    "Director": "James Wan",
     "Genres": [
-        "Biography",
-        "Drama",
-        "History"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 221000000,
-    "Budget": 22000000,
-    "NetRevenue": 199000000
+    "GrossRevenue": 1147761807,
+    "Budget": 160000000,
+    "NetRevenue": 987761807
 }

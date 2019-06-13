@@ -1,31 +1,28 @@
 {
-    "MovieName": "The Lion King",
+    "MovieName": "Collateral Beauty",
     "Cast": [
-        "Rowan Atkinson",
-        "Matthew Broderick",
-        "Niketa Calame-Harris",
-        "Jim Cummings",
-        "Whoopi Goldberg",
-        "Robert Guillaume",
-        "Jeremy Irons",
-        "James Earl Jones",
-        "Moira Kelly",
-        "Nathan Lane",
-        "Zoe Leader",
-        "Cheech Marin",
-        "Ernie Sabella",
-        "Madge Sinclair",
-        "Jonathan Taylor Thomas"
+        "Will Smith",
+        "Edward Norton",
+        "Kate Winslet",
+        "Michael Pe\u00f1a",
+        "Helen Mirren",
+        "Naomie Harris",
+        "Keira Knightley",
+        "Jacob Latimore",
+        "Ann Dowd",
+        "Liza Col\u00f3n-Zayas",
+        "Natalie Gold",
+        "Kylie Rogers",
+        "Shirley Rumierk",
+        "Alyssa Cheatham",
+        "Benjamin Snyder"
     ],
-    "Director": "Rob Minkoff",
+    "Director": "David Frankel",
     "Genres": [
-        "Animation",
-        "Adventure",
         "Drama",
-        "Family",
-        "Musical"
+        "Romance"
     ],
-    "GrossRevenue": 987483777,
-    "Budget": 45000000,
-    "NetRevenue": 942483777
+    "GrossRevenue": 76168721,
+    "Budget": 36000000,
+    "NetRevenue": 40168721
 }

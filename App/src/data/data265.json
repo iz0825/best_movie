@@ -1,0 +1,28 @@
+{
+    "MovieName": "Fright Night",
+    "Cast": [
+        "Anton Yelchin",
+        "Colin Farrell",
+        "Toni Collette",
+        "David Tennant",
+        "Imogen Poots",
+        "Christopher Mintz-Plasse",
+        "Dave Franco",
+        "Reid Ewing",
+        "Will Denton",
+        "Sandra Vergara",
+        "Emily Montague",
+        "Chris Sarandon",
+        "Gracie Gillam",
+        "Chelsea Tavares",
+        "Lisa Loeb"
+    ],
+    "Director": "Craig Gillespie",
+    "Genres": [
+        "Comedy",
+        "Horror"
+    ],
+    "GrossRevenue": 18298649,
+    "Budget": 30000000,
+    "NetRevenue": -11701351
+}

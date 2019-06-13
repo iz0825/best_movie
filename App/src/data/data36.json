@@ -1,30 +1,30 @@
 {
-    "MovieName": "Modern Times",
+    "MovieName": "The Hunger Games",
     "Cast": [
-        "Charles Chaplin",
-        "Paulette Goddard",
-        "Henry Bergman",
-        "Tiny Sandford",
-        "Chester Conklin",
-        "Hank Mann",
-        "Stanley Blystone",
-        "Garcia Al Ernest",
-        "Richard Alexander",
-        "Cecil Reynolds",
-        "Mira McKinney",
-        "Murdock MacQuarrie",
-        "Wilfred Lucas",
-        "Edward LeSaint",
-        "Fred Malatesta"
+        "Stanley Tucci",
+        "Wes Bentley",
+        "Jennifer Lawrence",
+        "Willow Shields",
+        "Liam Hemsworth",
+        "Elizabeth Banks",
+        "Sandra Ellis Lafferty",
+        "Paula Malcomson",
+        "Rhoda Griffis",
+        "Sandino Moya-Smith",
+        "Josh Hutcherson",
+        "Raiko Bowman",
+        "Dwayne Boyd",
+        "Anthony Reynolds",
+        "Judd Lormand"
     ],
-    "Director": "Charles Chaplin",
+    "Director": "Gary Ross",
     "Genres": [
-        "Comedy",
-        "Drama",
-        "Family",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 163245,
-    "Budget": 1500000,
-    "NetRevenue": -1336755
+    "GrossRevenue": 694394724,
+    "Budget": 78000000,
+    "NetRevenue": 616394724
 }

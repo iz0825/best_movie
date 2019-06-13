@@ -1,27 +1,28 @@
 {
-    "MovieName": "American Beauty",
+    "MovieName": "Terminator 2: Judgment Day",
     "Cast": [
-        "Kevin Spacey",
-        "Annette Bening",
-        "Thora Birch",
-        "Wes Bentley",
-        "Mena Suvari",
-        "Peter Gallagher",
-        "Allison Janney",
-        "Chris Cooper",
-        "Scott Bakula",
-        "Sam Robards",
-        "Barry Del Sherman",
-        "Ara Celi",
-        "John Cho",
-        "Fort Atkinson",
-        "Sue Casey"
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick",
+        "Earl Boen",
+        "Joe Morton",
+        "S. Epatha Merkerson",
+        "Castulo Guerra",
+        "Danny Cooksey",
+        "Jenette Goldstein",
+        "Xander Berkeley",
+        "Leslie Hamilton Gearren",
+        "Ken Gibbel",
+        "Robert Winley",
+        "Peter Schrum"
     ],
-    "Director": "Sam Mendes",
+    "Director": "James Cameron",
     "Genres": [
-        "Drama"
+        "Action",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 226200000,
-    "Budget": 15000000,
-    "NetRevenue": 211200000
+    "GrossRevenue": 315000000,
+    "Budget": 102000000,
+    "NetRevenue": 213000000
 }

@@ -1,28 +1,27 @@
 {
-    "MovieName": "Dead Poets Society",
+    "MovieName": "Zabriskie Point",
     "Cast": [
-        "Robin Williams",
-        "Robert Sean Leonard",
-        "Ethan Hawke",
-        "Josh Charles",
-        "Gale Hansen",
-        "Dylan Kussman",
-        "Allelon Ruggiero",
-        "James Waterston",
-        "Norman Lloyd",
-        "Kurtwood Smith",
-        "Carla Belver",
-        "Leon Pownall",
-        "George Martin",
-        "Joe Aufiery",
-        "Matt Carey"
+        "Mark Frechette",
+        "Daria Halprin",
+        "Paul Fix",
+        "G.D. Spradlin",
+        "Bill Garaway",
+        "Kathleen Cleaver",
+        "Rod Taylor",
+        "Michael L. Davis",
+        "Lee Duncan",
+        "George Dunn",
+        "Harrison Ford",
+        "Jim Goldrup",
+        "Norman Grabowski",
+        "Philip Baker Hall",
+        "Bill Hickman"
     ],
-    "Director": "Peter Weir",
+    "Director": "Michelangelo Antonioni",
     "Genres": [
-        "Comedy",
         "Drama"
     ],
-    "GrossRevenue": 140000000,
-    "Budget": 16400000,
-    "NetRevenue": 123600000
+    "GrossRevenue": 891918,
+    "Budget": 7000000,
+    "NetRevenue": -6108082
 }

@@ -1,0 +1,29 @@
+{
+    "MovieName": "Casper",
+    "Cast": [
+        "Chauncey Leopardi",
+        "Spencer Vrooman",
+        "Malachi Pearson",
+        "Cathy Moriarty",
+        "Eric Idle",
+        "Ben Stein",
+        "Don Novello",
+        "Fred Rogers",
+        "Terry Murphy",
+        "Bill Pullman",
+        "Christina Ricci",
+        "Ernestine Mercer",
+        "Doug Bruckner",
+        "Joe Nipote",
+        "Joe Alaskey"
+    ],
+    "Director": "Brad Silberling",
+    "Genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "GrossRevenue": 287928194,
+    "Budget": 50000000,
+    "NetRevenue": 237928194
+}

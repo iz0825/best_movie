@@ -1,27 +1,28 @@
 {
-    "MovieName": "For a Few Dollars More",
+    "MovieName": "Halloween",
     "Cast": [
-        "Clint Eastwood",
-        "Lee Van Cleef",
-        "Gian Maria Volont\u00e8",
-        "Mario Brega",
-        "Luigi Pistilli",
-        "Aldo Sambrell",
-        "Klaus Kinski",
-        "Benito Stefanelli",
-        "Luis Rodr\u00edguez",
-        "Panos Papadopulos",
-        "Mara Krupp",
-        "Roberto Camardiel",
-        "Joseph Egger",
-        "Tom\u00e1s Blanco",
-        "Lorenzo Robledo"
+        "Jamie Lee Curtis",
+        "Judy Greer",
+        "Andi Matichak",
+        "James Jude Courtney",
+        "Nick Castle",
+        "Haluk Bilginer",
+        "Will Patton",
+        "Rhian Rees",
+        "Jefferson Hall",
+        "Toby Huss",
+        "Virginia Gardner",
+        "Dylan Arnold",
+        "Miles Robbins",
+        "Drew Scheid",
+        "Jibrail Nantambu"
     ],
-    "Director": "Sergio Leone",
+    "Director": "David Gordon Green",
     "Genres": [
-        "Western"
+        "Horror",
+        "Thriller"
     ],
-    "GrossRevenue": 15000000,
-    "Budget": 600000,
-    "NetRevenue": 14400000
+    "GrossRevenue": 254342015,
+    "Budget": 10000000,
+    "NetRevenue": 244342015
 }

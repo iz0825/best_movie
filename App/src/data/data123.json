@@ -1,28 +1,29 @@
 {
-    "MovieName": "The Elephant Man",
+    "MovieName": "Catch-22",
     "Cast": [
-        "Anthony Hopkins",
-        "John Hurt",
-        "Anne Bancroft",
-        "John Gielgud",
-        "Wendy Hiller",
-        "Freddie Jones",
-        "Michael Elphick",
-        "Hannah Gordon",
-        "Helen Ryan",
-        "John Standing",
-        "Dexter Fletcher",
-        "Lesley Dunlop",
-        "Phoebe Nicholls",
-        "Pat Gorman",
-        "Claire Davenport"
+        "Alan Arkin",
+        "Martin Balsam",
+        "Richard Benjamin",
+        "Art Garfunkel",
+        "Jack Gilford",
+        "Buck Henry",
+        "Bob Newhart",
+        "Anthony Perkins",
+        "Paula Prentiss",
+        "Martin Sheen",
+        "Jon Voight",
+        "Orson Welles",
+        "Bob Balaban",
+        "Susanne Benton",
+        "Norman Fell"
     ],
-    "Director": "David Lynch",
+    "Director": "Mike Nichols",
     "Genres": [
-        "Biography",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "War"
     ],
-    "GrossRevenue": 26010864,
-    "Budget": 5000000,
-    "NetRevenue": 21010864
+    "GrossRevenue": 24911670,
+    "Budget": 18000000,
+    "NetRevenue": 6911670
 }

@@ -1,29 +1,30 @@
 {
-    "MovieName": "Some Like It Hot",
+    "MovieName": "Blade Runner 2049",
     "Cast": [
-        "Marilyn Monroe",
-        "Tony Curtis",
-        "Jack Lemmon",
-        "George Raft",
-        "Pat O'Brien",
-        "Joe E. Brown",
-        "Nehemiah Persoff",
-        "Joan Shawlee",
-        "Billy Gray",
-        "George E. Stone",
-        "Dave Barry",
-        "Mike Mazurki",
-        "Harry Wilson",
-        "Beverly Wills",
-        "Barbara Drew"
+        "Ryan Gosling",
+        "Dave Bautista",
+        "Robin Wright",
+        "Mark Arnold",
+        "Vilma Sz\u00e9csi",
+        "Ana de Armas",
+        "Wood Harris",
+        "David Dastmalchian",
+        "T\u00f3mas Lemarquis",
+        "Sylvia Hoeks",
+        "Edward James Olmos",
+        "Jared Leto",
+        "Sallie Harmsen",
+        "Hiam Abbass",
+        "Mackenzie Davis"
     ],
-    "Director": "Billy Wilder",
+    "Director": "Denis Villeneuve",
     "Genres": [
-        "Comedy",
-        "Music",
-        "Romance"
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 25000000,
-    "Budget": 2883848,
-    "NetRevenue": 22116152
+    "GrossRevenue": 259344059,
+    "Budget": 150000000,
+    "NetRevenue": 109344059
 }

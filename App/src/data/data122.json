@@ -1,29 +1,29 @@
 {
-    "MovieName": "The Wolf of Wall Street",
+    "MovieName": "A Clockwork Orange",
     "Cast": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie",
-        "Matthew McConaughey",
-        "Kyle Chandler",
-        "Rob Reiner",
-        "Jon Bernthal",
-        "Jon Favreau",
-        "Jean Dujardin",
-        "Joanna Lumley",
-        "Cristin Milioti",
-        "Christine Ebersole",
-        "Shea Whigham",
-        "Katarina Cas",
-        "P.J. Byrne"
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates",
+        "Warren Clarke",
+        "John Clive",
+        "Adrienne Corri",
+        "Carl Duering",
+        "Paul Farrell",
+        "Clive Francis",
+        "Michael Gover",
+        "Miriam Karlin",
+        "James Marcus",
+        "Aubrey Morris",
+        "Godfrey Quigley",
+        "Sheila Raynor"
     ],
-    "Director": "Martin Scorsese",
+    "Director": "Stanley Kubrick",
     "Genres": [
-        "Biography",
         "Crime",
-        "Drama"
+        "Drama",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 392000694,
-    "Budget": 100000000,
-    "NetRevenue": 292000694
+    "GrossRevenue": 26589355,
+    "Budget": 2200000,
+    "NetRevenue": 24389355
 }

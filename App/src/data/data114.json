@@ -1,28 +1,28 @@
 {
-    "MovieName": "Ran",
+    "MovieName": "American Psycho",
     "Cast": [
-        "Tatsuya Nakadai",
-        "Akira Terao",
-        "Jinpachi Nezu",
-        "Daisuke Ry\u00fb",
-        "Mieko Harada",
-        "Yoshiko Miyazaki",
-        "Hisashi Igawa",
-        "P\u00eet\u00e2",
-        "Masayuki Yui",
-        "Kazuo Kat\u00f4",
-        "Norio Matsui",
-        "Toshiya Ito",
-        "Kenji Kodama",
-        "Takashi Watanabe",
-        "Mansai Nomura"
+        "Christian Bale",
+        "Justin Theroux",
+        "Josh Lucas",
+        "Bill Sage",
+        "Chlo\u00eb Sevigny",
+        "Reese Witherspoon",
+        "Samantha Mathis",
+        "Matt Ross",
+        "Jared Leto",
+        "Willem Dafoe",
+        "Cara Seymour",
+        "Guinevere Turner",
+        "Stephen Bogaert",
+        "Monika Meier",
+        "Reg E. Cathey"
     ],
-    "Director": "Akira Kurosawa",
+    "Director": "Mary Harron",
     "Genres": [
-        "Action",
+        "Crime",
         "Drama"
     ],
-    "GrossRevenue": 3522421,
-    "Budget": 11500000,
-    "NetRevenue": -7977579
+    "GrossRevenue": 34266564,
+    "Budget": 7000000,
+    "NetRevenue": 27266564
 }

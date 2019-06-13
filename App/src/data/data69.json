@@ -1,29 +1,30 @@
 {
-    "MovieName": "Vertigo",
+    "MovieName": "Zombieland",
     "Cast": [
-        "James Stewart",
-        "Kim Novak",
-        "Barbara Bel Geddes",
-        "Tom Helmore",
-        "Henry Jones",
-        "Raymond Bailey",
-        "Ellen Corby",
-        "Konstantin Shayne",
-        "Lee Patrick",
-        "David Ahdar",
-        "Isabel Analla",
-        "Jack Ano",
-        "Margaret Bacon",
-        "John Benson",
-        "Danny Borzage"
+        "Jesse Eisenberg",
+        "Woody Harrelson",
+        "Emma Stone",
+        "Abigail Breslin",
+        "Amber Heard",
+        "Bill Murray",
+        "Derek Graf",
+        "Aquavian Abel",
+        "Cesar Aguirre",
+        "Jacob G. Akins",
+        "Hunter Aldridge",
+        "Elle Alexander",
+        "Cameron Jacob Alpert",
+        "Michael August",
+        "Melanie Booth"
     ],
-    "Director": "Alfred Hitchcock",
+    "Director": "Ruben Fleischer",
     "Genres": [
-        "Mystery",
-        "Romance",
-        "Thriller"
+        "Adventure",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 25000000,
-    "Budget": 2479000,
-    "NetRevenue": 22521000
+    "GrossRevenue": 102391540,
+    "Budget": 23600000,
+    "NetRevenue": 78791540
 }

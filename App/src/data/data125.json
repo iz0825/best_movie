@@ -1,30 +1,29 @@
 {
-    "MovieName": "V for Vendetta",
+    "MovieName": "Spectre",
     "Cast": [
-        "Natalie Portman",
-        "Hugo Weaving",
-        "Stephen Rea",
-        "Stephen Fry",
-        "John Hurt",
-        "Tim Pigott-Smith",
-        "Rupert Graves",
-        "Roger Allam",
-        "Ben Miles",
-        "Sin\u00e9ad Cusack",
-        "Natasha Wightman",
-        "John Standing",
-        "Eddie Marsan",
-        "Clive Ashborn",
-        "Emma Field-Rayner"
+        "Daniel Craig",
+        "Christoph Waltz",
+        "L\u00e9a Seydoux",
+        "Ralph Fiennes",
+        "Monica Bellucci",
+        "Ben Whishaw",
+        "Naomie Harris",
+        "Dave Bautista",
+        "Andrew Scott",
+        "Rory Kinnear",
+        "Jesper Christensen",
+        "Alessandro Cremona",
+        "Stephanie Sigman",
+        "Tenoch Huerta",
+        "Adriana Paz"
     ],
-    "Director": "James McTeigue",
+    "Director": "Sam Mendes",
     "Genres": [
         "Action",
-        "Drama",
-        "Sci-Fi",
+        "Adventure",
         "Thriller"
     ],
-    "GrossRevenue": 132511035,
-    "Budget": 54000000,
-    "NetRevenue": 78511035
+    "GrossRevenue": 880674175,
+    "Budget": 245000000,
+    "NetRevenue": 635674175
 }

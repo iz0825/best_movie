@@ -1,29 +1,30 @@
 {
-    "MovieName": "North by Northwest",
+    "MovieName": "Watchmen",
     "Cast": [
-        "Cary Grant",
-        "Eva Marie Saint",
-        "James Mason",
-        "Jessie Royce Landis",
-        "Leo G. Carroll",
-        "Josephine Hutchinson",
-        "Philip Ober",
-        "Martin Landau",
-        "Adam Williams",
-        "Edward Platt",
-        "Robert Ellenstein",
-        "Les Tremayne",
-        "Philip Coolidge",
-        "Patrick McVey",
-        "Edward Binns"
+        "Malin Akerman",
+        "Billy Crudup",
+        "Matthew Goode",
+        "Jackie Earle Haley",
+        "Jeffrey Dean Morgan",
+        "Patrick Wilson",
+        "Carla Gugino",
+        "Matt Frewer",
+        "Stephen McHattie",
+        "Laura Mennell",
+        "Rob LaBelle",
+        "Gary Houston",
+        "James M. Connor",
+        "Mary Ann Burger",
+        "John Shaw"
     ],
-    "Director": "Alfred Hitchcock",
+    "Director": "Zack Snyder",
     "Genres": [
-        "Adventure",
+        "Action",
+        "Drama",
         "Mystery",
-        "Thriller"
+        "Sci-Fi"
     ],
-    "GrossRevenue": 22213000,
-    "Budget": 3101000,
-    "NetRevenue": 19112000
+    "GrossRevenue": 185258983,
+    "Budget": 130000000,
+    "NetRevenue": 55258983
 }

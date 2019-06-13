@@ -1,29 +1,30 @@
 {
-    "MovieName": "The Lord of the Rings: The Two Towers",
+    "MovieName": "Guardians of the Galaxy Vol. 2",
     "Cast": [
-        "Bruce Allpress",
-        "Sean Astin",
-        "John Bach",
-        "Sala Baker",
-        "Cate Blanchett",
-        "Orlando Bloom",
-        "Billy Boyd",
-        "Jed Brophy",
-        "Sam Comery",
-        "Brad Dourif",
-        "Calum Gittins",
-        "Bernard Hill",
-        "Bruce Hopkins",
-        "Paris Howe Strewe",
-        "Christopher Lee"
+        "Chris Pratt",
+        "Zoe Saldana",
+        "Dave Bautista",
+        "Vin Diesel",
+        "Bradley Cooper",
+        "Michael Rooker",
+        "Karen Gillan",
+        "Pom Klementieff",
+        "Sylvester Stallone",
+        "Kurt Russell",
+        "Elizabeth Debicki",
+        "Chris Sullivan",
+        "Sean Gunn",
+        "Tommy Flanagan",
+        "Laura Haddock"
     ],
-    "Director": "Peter Jackson",
+    "Director": "James Gunn",
     "Genres": [
+        "Action",
         "Adventure",
-        "Drama",
-        "Fantasy"
+        "Comedy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 926047111,
-    "Budget": 94000000,
-    "NetRevenue": 832047111
+    "GrossRevenue": 863756051,
+    "Budget": 200000000,
+    "NetRevenue": 663756051
 }

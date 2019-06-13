@@ -1,31 +1,32 @@
 {
-    "MovieName": "Toy Story",
+    "MovieName": "The Darkest Minds",
     "Cast": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Don Rickles",
-        "Jim Varney",
-        "Wallace Shawn",
-        "John Ratzenberger",
-        "Annie Potts",
-        "John Morris",
-        "Erik von Detten",
-        "Laurie Metcalf",
-        "R. Lee Ermey",
-        "Sarah Freeman",
-        "Penn Jillette",
-        "Jack Angel",
-        "Spencer Aste"
+        "Amandla Stenberg",
+        "Mandy Moore",
+        "Bradley Whitford",
+        "Harris Dickinson",
+        "Patrick Gibson",
+        "Skylan Brooks",
+        "Miya Cech",
+        "Gwendoline Christie",
+        "Wade Williams",
+        "Mark O'Brien",
+        "Wallace Langham",
+        "Golden Brooks",
+        "Sammi Rotibi",
+        "Lidya Jewett",
+        "McCarrie McCausland"
     ],
-    "Director": "John Lasseter",
+    "Director": "Jennifer Yuh Nelson",
     "Genres": [
-        "Animation",
+        "Action",
         "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 373554033,
-    "Budget": 30000000,
-    "NetRevenue": 343554033
+    "GrossRevenue": 24420461,
+    "Budget": 34000000,
+    "NetRevenue": -9579539
 }

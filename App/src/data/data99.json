@@ -1,23 +1,29 @@
 {
-    "MovieName": "Rashomon",
+    "MovieName": "Black Panther",
     "Cast": [
-        "Toshir\u00f4 Mifune",
-        "Machiko Ky\u00f4",
-        "Masayuki Mori",
-        "Takashi Shimura",
-        "Minoru Chiaki",
-        "Kichijir\u00f4 Ueda",
-        "Noriko Honma",
-        "Daisuke Kat\u00f4",
-        "Anthony La Penna"
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman",
+        "Daniel Kaluuya",
+        "Letitia Wright",
+        "Winston Duke",
+        "Sterling K. Brown",
+        "Angela Bassett",
+        "Forest Whitaker",
+        "Andy Serkis",
+        "Florence Kasumba",
+        "John Kani",
+        "David S. Lee"
     ],
-    "Director": "Akira Kurosawa",
+    "Director": "Ryan Coogler",
     "Genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 96568,
-    "Budget": 250000,
-    "NetRevenue": -153432
+    "GrossRevenue": 1347071259,
+    "Budget": 200000000,
+    "NetRevenue": 1147071259
 }

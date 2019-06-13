@@ -1,27 +1,30 @@
 {
-    "MovieName": "12 Angry Men",
+    "MovieName": "Kong: Skull Island",
     "Cast": [
-        "Martin Balsam",
-        "John Fiedler",
-        "Lee J. Cobb",
-        "E.G. Marshall",
-        "Jack Klugman",
-        "Edward Binns",
-        "Jack Warden",
-        "Henry Fonda",
-        "Joseph Sweeney",
-        "Ed Begley",
-        "George Voskovec",
-        "Robert Webber",
-        "Rudy Bond",
-        "Tom Gorman",
-        "James Kelly"
+        "Tom Hiddleston",
+        "Samuel L. Jackson",
+        "Brie Larson",
+        "John C. Reilly",
+        "John Goodman",
+        "Corey Hawkins",
+        "John Ortiz",
+        "Tian Jing",
+        "Toby Kebbell",
+        "Jason Mitchell",
+        "Shea Whigham",
+        "Thomas Mann",
+        "Eugene Cordero",
+        "Marc Evan Jackson",
+        "Will Brittain"
     ],
-    "Director": "Sidney Lumet",
+    "Director": "Jordan Vogt-Roberts",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 4360000,
-    "Budget": 350000,
-    "NetRevenue": 4010000
+    "GrossRevenue": 566652812,
+    "Budget": 185000000,
+    "NetRevenue": 381652812
 }

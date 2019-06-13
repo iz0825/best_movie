@@ -1,29 +1,28 @@
 {
-    "MovieName": "Reservoir Dogs",
+    "MovieName": "Blade Runner",
     "Cast": [
-        "Harvey Keitel",
-        "Tim Roth",
-        "Michael Madsen",
-        "Chris Penn",
-        "Steve Buscemi",
-        "Lawrence Tierney",
-        "Randy Brooks",
-        "Kirk Baltz",
-        "Edward Bunker",
-        "Quentin Tarantino",
-        "Rich Turner",
-        "David Steen",
-        "Tony Cosmo",
-        "Stevo Polyi",
-        "Michael Sottile"
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah",
+        "William Sanderson",
+        "Brion James",
+        "Joe Turkel",
+        "Joanna Cassidy",
+        "James Hong",
+        "Morgan Paull",
+        "Kevin Thompson",
+        "John Edward Allen",
+        "Hy Pyke"
     ],
-    "Director": "Quentin Tarantino",
+    "Director": "Ridley Scott",
     "Genres": [
-        "Crime",
-        "Drama",
+        "Sci-Fi",
         "Thriller"
     ],
-    "GrossRevenue": 2832029,
-    "Budget": 1200000,
-    "NetRevenue": 1632029
+    "GrossRevenue": 27000000,
+    "Budget": 28000000,
+    "NetRevenue": -1000000
 }

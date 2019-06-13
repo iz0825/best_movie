@@ -1,30 +1,29 @@
 {
-    "MovieName": "The Prestige",
+    "MovieName": "The Sting",
     "Cast": [
-        "Hugh Jackman",
-        "Christian Bale",
-        "Michael Caine",
-        "Piper Perabo",
-        "Rebecca Hall",
-        "Scarlett Johansson",
-        "Samantha Mahurin",
-        "David Bowie",
-        "Andy Serkis",
-        "Daniel Davis",
-        "Jim Piddock",
-        "Christopher Neame",
-        "Mark Ryan",
-        "Roger Rees",
-        "Jamie Harris"
+        "Paul Newman",
+        "Robert Redford",
+        "Robert Shaw",
+        "Charles Durning",
+        "Ray Walston",
+        "Eileen Brennan",
+        "Harold Gould",
+        "John Heffernan",
+        "Dana Elcar",
+        "Jack Kehoe",
+        "Dimitra Arliss",
+        "Robert Earl Jones",
+        "James Sloyan",
+        "Charles Dierkop",
+        "Lee Paul"
     ],
-    "Director": "Christopher Nolan",
+    "Director": "George Roy Hill",
     "Genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi",
-        "Thriller"
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
-    "GrossRevenue": 109676311,
-    "Budget": 40000000,
-    "NetRevenue": 69676311
+    "GrossRevenue": 159600000,
+    "Budget": 5500000,
+    "NetRevenue": 154100000
 }

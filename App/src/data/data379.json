@@ -1,0 +1,29 @@
+{
+    "MovieName": "Captain America: Civil War",
+    "Cast": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson",
+        "Sebastian Stan",
+        "Anthony Mackie",
+        "Don Cheadle",
+        "Jeremy Renner",
+        "Chadwick Boseman",
+        "Paul Bettany",
+        "Elizabeth Olsen",
+        "Paul Rudd",
+        "Emily VanCamp",
+        "Tom Holland",
+        "Daniel Br\u00fchl",
+        "Frank Grillo"
+    ],
+    "Director": "Joe Russo",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "GrossRevenue": 1153304495,
+    "Budget": 250000000,
+    "NetRevenue": 903304495
+}

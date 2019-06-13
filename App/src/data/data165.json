@@ -1,28 +1,29 @@
 {
-    "MovieName": "Before Sunrise",
+    "MovieName": "Independence Day",
     "Cast": [
-        "Ethan Hawke",
-        "Julie Delpy",
-        "Andrea Eckert",
-        "Hanno P\u00f6schl",
-        "Karl Bruckschwaiger",
-        "Tex Rubinowitz",
-        "Erni Mangold",
-        "Dominik Castell",
-        "Haymon Maria Buttinger",
-        "Harald Waiglein",
-        "Bilge Jeschim",
-        "Kurti",
-        "Hans Weingartner",
-        "Liese Lyon",
-        "Peter Ily Huemer"
+        "Will Smith",
+        "Bill Pullman",
+        "Jeff Goldblum",
+        "Mary McDonnell",
+        "Judd Hirsch",
+        "Robert Loggia",
+        "Randy Quaid",
+        "Margaret Colin",
+        "James Rebhorn",
+        "Harvey Fierstein",
+        "Adam Baldwin",
+        "Brent Spiner",
+        "James Duval",
+        "Vivica A. Fox",
+        "Lisa Jakub"
     ],
-    "Director": "Richard Linklater",
+    "Director": "Roland Emmerich",
     "Genres": [
-        "Drama",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
-    "GrossRevenue": 17200000,
-    "Budget": 2500000,
-    "NetRevenue": 14700000
+    "GrossRevenue": 817400891,
+    "Budget": 75000000,
+    "NetRevenue": 742400891
 }

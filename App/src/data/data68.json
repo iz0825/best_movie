@@ -1,21 +1,21 @@
 {
-    "MovieName": "Braveheart",
+    "MovieName": "Hacksaw Ridge",
     "Cast": [
-        "James Robinson",
-        "Sean Lawlor",
-        "Sandy Nelson",
-        "James Cosmo",
-        "Sean McGinley",
-        "Alan Tall",
-        "Andrew Weir",
-        "Gerda Stevenson",
-        "Ralph Riach",
-        "Mhairi Calvey",
-        "Brian Cox",
-        "Patrick McGoohan",
-        "Peter Hanly",
-        "Sophie Marceau",
-        "Stephen Billington"
+        "Andrew Garfield",
+        "Richard Pyros",
+        "Jacob Warner",
+        "Milo Gibson",
+        "Darcy Bryce",
+        "Roman Guerriero",
+        "James Lugton",
+        "Kasia Stelmach",
+        "Hugo Weaving",
+        "Rachel Griffiths",
+        "Jarin Towney",
+        "Tim McGarry",
+        "Tyler Coppin",
+        "Teresa Palmer",
+        "Richard Platt"
     ],
     "Director": "Mel Gibson",
     "Genres": [
@@ -24,7 +24,7 @@
         "History",
         "War"
     ],
-    "GrossRevenue": 210409945,
-    "Budget": 72000000,
-    "NetRevenue": 138409945
+    "GrossRevenue": 175302354,
+    "Budget": 40000000,
+    "NetRevenue": 135302354
 }

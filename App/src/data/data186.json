@@ -1,27 +1,30 @@
 {
-    "MovieName": "The Help",
+    "MovieName": "X-Men: The Last Stand",
     "Cast": [
-        "Emma Stone",
-        "Viola Davis",
-        "Bryce Dallas Howard",
-        "Octavia Spencer",
-        "Jessica Chastain",
-        "Ahna O'Reilly",
-        "Allison Janney",
-        "Anna Camp",
-        "Eleanor Henry",
-        "Emma Henry",
-        "Chris Lowell",
-        "Cicely Tyson",
-        "Mike Vogel",
-        "Sissy Spacek",
-        "Brian Kerwin"
+        "Hugh Jackman",
+        "Halle Berry",
+        "Ian McKellen",
+        "Patrick Stewart",
+        "Famke Janssen",
+        "Anna Paquin",
+        "Kelsey Grammer",
+        "James Marsden",
+        "Rebecca Romijn",
+        "Shawn Ashmore",
+        "Aaron Stanford",
+        "Vinnie Jones",
+        "Ellen Page",
+        "Daniel Cudmore",
+        "Ben Foster"
     ],
-    "Director": "Tate Taylor",
+    "Director": "Brett Ratner",
     "Genres": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 216639112,
-    "Budget": 25000000,
-    "NetRevenue": 191639112
+    "GrossRevenue": 459359555,
+    "Budget": 210000000,
+    "NetRevenue": 249359555
 }

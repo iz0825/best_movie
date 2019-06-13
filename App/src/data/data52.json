@@ -1,28 +1,31 @@
 {
-    "MovieName": "Sunset Boulevard",
+    "MovieName": "The Lion King",
     "Cast": [
-        "William Holden",
-        "Gloria Swanson",
-        "Erich von Stroheim",
-        "Nancy Olson",
-        "Fred Clark",
-        "Lloyd Gough",
-        "Jack Webb",
-        "Franklyn Farnum",
-        "Larry J. Blake",
-        "Charles Dayton",
-        "Cecil B. DeMille",
-        "Hedda Hopper",
-        "Buster Keaton",
-        "Anna Q. Nilsson",
-        "H.B. Warner"
+        "Rowan Atkinson",
+        "Matthew Broderick",
+        "Niketa Calame-Harris",
+        "Jim Cummings",
+        "Whoopi Goldberg",
+        "Robert Guillaume",
+        "Jeremy Irons",
+        "James Earl Jones",
+        "Moira Kelly",
+        "Nathan Lane",
+        "Zoe Leader",
+        "Cheech Marin",
+        "Ernie Sabella",
+        "Madge Sinclair",
+        "Jonathan Taylor Thomas"
     ],
-    "Director": "Billy Wilder",
+    "Director": "Rob Minkoff",
     "Genres": [
+        "Animation",
+        "Adventure",
         "Drama",
-        "Film-Noir"
+        "Family",
+        "Musical"
     ],
-    "GrossRevenue": 5303175,
-    "Budget": 1752000,
-    "NetRevenue": 3551175
+    "GrossRevenue": 987483777,
+    "Budget": 45000000,
+    "NetRevenue": 942483777
 }

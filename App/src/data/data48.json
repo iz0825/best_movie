@@ -1,23 +1,30 @@
 {
-    "MovieName": "Alien",
+    "MovieName": "Volcano",
     "Cast": [
-        "Tom Skerritt",
-        "Sigourney Weaver",
-        "Veronica Cartwright",
-        "Harry Dean Stanton",
-        "John Hurt",
-        "Ian Holm",
-        "Yaphet Kotto",
-        "Bolaji Badejo",
-        "Helen Horton",
-        "Eddie Powell"
+        "Tommy Lee Jones",
+        "Anne Heche",
+        "Gaby Hoffmann",
+        "Don Cheadle",
+        "Jacqueline Kim",
+        "Keith David",
+        "John Corbett",
+        "Michael Rispoli",
+        "John Carroll Lynch",
+        "Marcello Thedford",
+        "Laurie Lathem",
+        "Bert Kramer",
+        "Bo Eason",
+        "James MacDonald",
+        "Dayton Callie"
     ],
-    "Director": "Ridley Scott",
+    "Director": "Mick Jackson",
     "Genres": [
-        "Horror",
-        "Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "GrossRevenue": 203630630,
-    "Budget": 11000000,
-    "NetRevenue": 192630630
+    "GrossRevenue": 122823468,
+    "Budget": 90000000,
+    "NetRevenue": 32823468
 }

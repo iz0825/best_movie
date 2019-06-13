@@ -1,29 +1,28 @@
 {
-    "MovieName": "Incendies",
+    "MovieName": "The Godfather",
     "Cast": [
-        "Mustafa Kamel",
-        "Hussein Sami",
-        "R\u00e9my Girard",
-        "M\u00e9lissa D\u00e9sormeaux-Poulin",
-        "Maxim Gaudette",
-        "Dominique Briand",
-        "Lubna Azabal",
-        "Fr\u00e9d\u00e9ric Paquet",
-        "Hamed Najem",
-        "Ahmad Massad",
-        "Bader Alami",
-        "Majida Hussein",
-        "Asriah Nijres",
-        "John Dunn-Hill",
-        "Nadia Essadiqi"
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Richard S. Castellano",
+        "Robert Duvall",
+        "Sterling Hayden",
+        "John Marley",
+        "Richard Conte",
+        "Al Lettieri",
+        "Diane Keaton",
+        "Abe Vigoda",
+        "Talia Shire",
+        "Gianni Russo",
+        "John Cazale",
+        "Rudy Bond"
     ],
-    "Director": "Denis Villeneuve",
+    "Director": "Francis Ford Coppola",
     "Genres": [
-        "Drama",
-        "Mystery",
-        "War"
+        "Crime",
+        "Drama"
     ],
-    "GrossRevenue": 12597210,
-    "Budget": 6800000,
-    "NetRevenue": 5797210
+    "GrossRevenue": 245066411,
+    "Budget": 6000000,
+    "NetRevenue": 239066411
 }

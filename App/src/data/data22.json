@@ -1,30 +1,29 @@
 {
-    "MovieName": "Star Wars: Episode IV - A New Hope",
+    "MovieName": "Jurassic World: Fallen Kingdom",
     "Cast": [
-        "Mark Hamill",
-        "Harrison Ford",
-        "Carrie Fisher",
-        "Peter Cushing",
-        "Alec Guinness",
-        "Anthony Daniels",
-        "Kenny Baker",
-        "Peter Mayhew",
-        "David Prowse",
-        "Phil Brown",
-        "Shelagh Fraser",
-        "Jack Purvis",
-        "Alex McCrindle",
-        "Eddie Byrne",
-        "Drewe Henley"
+        "Chris Pratt",
+        "Bryce Dallas Howard",
+        "Rafe Spall",
+        "Justice Smith",
+        "Daniella Pineda",
+        "James Cromwell",
+        "Toby Jones",
+        "Ted Levine",
+        "Jeff Goldblum",
+        "BD Wong",
+        "Geraldine Chaplin",
+        "Isabella Sermon",
+        "Robert Emms",
+        "Peter Jason",
+        "Kevin Layne"
     ],
-    "Director": "George Lucas",
+    "Director": "J.A. Bayona",
     "Genres": [
         "Action",
         "Adventure",
-        "Fantasy",
         "Sci-Fi"
     ],
-    "GrossRevenue": 775398007,
-    "Budget": 11000000,
-    "NetRevenue": 764398007
+    "GrossRevenue": 1309484461,
+    "Budget": 170000000,
+    "NetRevenue": 1139484461
 }

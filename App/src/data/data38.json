@@ -1,29 +1,30 @@
 {
-    "MovieName": "Back to the Future",
+    "MovieName": "Deadpool 2",
     "Cast": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Lea Thompson",
-        "Crispin Glover",
-        "Thomas F. Wilson",
-        "Claudia Wells",
-        "Marc McClure",
-        "Wendie Jo Sperber",
-        "George DiCenzo",
-        "Frances Lee McCain",
-        "James Tolkan",
-        "J.J. Cohen",
-        "Casey Siemaszko",
-        "Billy Zane",
-        "Harry Waters Jr."
+        "Ryan Reynolds",
+        "Josh Brolin",
+        "Morena Baccarin",
+        "Julian Dennison",
+        "Zazie Beetz",
+        "T.J. Miller",
+        "Leslie Uggams",
+        "Karan Soni",
+        "Brianna Hildebrand",
+        "Jack Kesy",
+        "Eddie Marsan",
+        "Shioli Kutsuna",
+        "Stefan Kapicic",
+        "Randal Reeder",
+        "Nikolai Witschl"
     ],
-    "Director": "Robert Zemeckis",
+    "Director": "David Leitch",
     "Genres": [
+        "Action",
         "Adventure",
         "Comedy",
         "Sci-Fi"
     ],
-    "GrossRevenue": 381109762,
-    "Budget": 19000000,
-    "NetRevenue": 362109762
+    "GrossRevenue": 785046920,
+    "Budget": 110000000,
+    "NetRevenue": 675046920
 }
