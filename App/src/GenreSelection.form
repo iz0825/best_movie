@@ -19,7 +19,7 @@
           <component id="92ccd" class="javax.swing.JButton" binding="nextButton" default-binding="true">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value=" &gt;"/>
             </properties>
@@ -27,7 +27,7 @@
           <component id="c6b7c" class="javax.swing.JButton" binding="cancelButton" default-binding="true">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="Cancel"/>
             </properties>

@@ -2,7 +2,7 @@
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="App">
   <grid id="27dc6" binding="backgroundPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
     <constraints>
-      <xy x="20" y="20" width="473" height="349"/>
+      <xy x="20" y="20" width="540" height="349"/>
     </constraints>
     <properties>
       <background color="-14471362"/>
@@ -20,7 +20,7 @@
           <component id="59053" class="javax.swing.JButton" binding="startButton" default-binding="true">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
               <font/>
               <foreground color="-14471362"/>
               <text value="Start"/>
@@ -29,6 +29,7 @@
           <component id="c0ff3" class="javax.swing.JButton" binding="cancelButton" default-binding="true">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="Cancel"/>
             </properties>
@@ -51,7 +52,7 @@
               <background color="-14471362"/>
               <font name="Avenir" size="24"/>
               <foreground color="-789517"/>
-              <text value="Welcome to best_movie_ever!"/>
+              <text value="Welcome to PCG!"/>
             </properties>
           </component>
           <component id="295f8" class="javax.swing.JLabel" binding="msgLabel" custom-create="true">
@@ -63,7 +64,7 @@
               <enabled value="true"/>
               <font name="Avenir" size="22"/>
               <foreground color="-789517"/>
-              <text value="Are you ready to make the best movie ever?"/>
+              <text value="Are you ready to make the most profitable movie ever?"/>
               <verticalTextPosition value="1"/>
             </properties>
           </component>

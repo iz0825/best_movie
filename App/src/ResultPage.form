@@ -13,12 +13,14 @@
         <constraints border-constraint="South"/>
         <properties>
           <background color="-14471362"/>
+          <foreground color="-82583"/>
         </properties>
         <border type="none"/>
         <children>
           <component id="1b811" class="javax.swing.JButton" binding="backButton">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="&lt;"/>
             </properties>
@@ -26,6 +28,7 @@
           <component id="f87ad" class="javax.swing.JButton" binding="closeButton" default-binding="true">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="Close"/>
             </properties>

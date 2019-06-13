@@ -19,7 +19,7 @@ public class App extends JFrame {
   private JLabel test;
 
   public App() {
-    setSize(500, 500);
+    setSize(600, 500);
 
     setContentPane(backgroundPanel);
 
