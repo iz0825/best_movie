@@ -24,7 +24,6 @@ public class App extends JFrame {
     setContentPane(backgroundPanel);
 
     titleLabel.setBorder(new EmptyBorder(20, 40, 0, 0));
-//    msgLabel.setBorder(new EmptyBorder(0, 30, 20, 30));
 
     startButton.addActionListener(
         e -> {
@@ -53,7 +52,6 @@ public class App extends JFrame {
 
   private void createUIComponents() {
     titleLabel = new JLabel();
-//    titleLabel.setHorizontalAlignment(SwingConstants.CENTER);
 
     msgLabel = new JLabel();
     msgLabel.setHorizontalAlignment(SwingConstants.CENTER);

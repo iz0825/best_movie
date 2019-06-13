@@ -12,13 +12,10 @@ public class Main {
   public static Movie makeObject(JSONObject movie){
     Movie movieObject = new Movie();
 
-
     JSONArray Cast = (JSONArray) movie.get("Cast");
     String [] CastArray = jsonArrayToNormalArray(Cast);
     JSONArray Genres = (JSONArray) movie.get("Genres");
     String [] GenreArray = jsonArrayToNormalArray(Genres);
-
-
 
     String MovieName = (String) movie.get("MovieName");
     String Director = (String) movie.get("Director");
@@ -35,16 +32,7 @@ public class Main {
     movieObject.setBudget(Budget);
     movieObject.setGrossRevenue(GrossRevenue);
     movieObject.setNetRevenue(NetRevenue);
-/*
-        System.out.println("Movie Name: " + movieObject.getMovieName());
-        System.out.println("Cast: " + Arrays.toString(movieObject.getCast()));
-        System.out.println("Director: " + movieObject.getDirector());
-        System.out.println("Genres: " + Arrays.toString(movieObject.getGenres()));
-        System.out.println("Budget: " + movieObject.getBudget());
-        System.out.println("GrossRevenue: " + movieObject.getGrossRevenue());
-        System.out.println("NetRevenue: " + movieObject.getNetRevenue());
 
-*/
     return movieObject;
   }
 

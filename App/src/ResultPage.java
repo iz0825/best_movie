@@ -4,7 +4,6 @@ import javax.swing.text.BadLocationException;
 import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
-import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
@@ -31,28 +30,19 @@ public class ResultPage extends JFrame {
 
     msgLabel.setBorder(new EmptyBorder(0, 20, 20, 20));
 
-//    contentTextPane.setBorder(new EmptyBorder(20, 20, 0, 0));
-
-
-/*    ArrayList<String> list = new ArrayList<>();
-    list.add("Actor 1");
-    list.add("Actor 2");
-    list.add("Actor 3");*/
-
     ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
 
     for (int i = 0; i < 15; i++) {
       StyledDocument document = (StyledDocument)contentTextPane.getDocument();
       SimpleAttributeSet attributes = new SimpleAttributeSet();
       StyleConstants.setAlignment(attributes, StyleConstants.ALIGN_CENTER);
+      document.setParagraphAttributes(0, document.getLength(), attributes, false);
       try {
-//        System.out.println(list.get(i));
         document.insertString(document.getLength(), list.get(i) + "\n", attributes);
       } catch (BadLocationException e) {
         e.printStackTrace();
       }
     }
-
 
     backButton.addActionListener(e -> {
       MovieName movieNameWindow = new MovieName();
@@ -86,21 +76,5 @@ public class ResultPage extends JFrame {
 
     msgLabel = new JLabel();
     msgLabel.setHorizontalAlignment(SwingConstants.CENTER);
-
-/*    contentTextPane = new JTextPane();
-
-    ArrayList<String> list = Main.filterbyGenres(GenreSelection.getGenreList());
-
-    for (int i = 0; i < 15; i++) {
-      StyledDocument document = (StyledDocument)contentTextPane.getDocument();
-      SimpleAttributeSet attributes = new SimpleAttributeSet();
-      StyleConstants.setAlignment(attributes, StyleConstants.ALIGN_CENTER);
-      try {
-        System.out.println(list.get(i));
-        document.insertString(document.getLength(), list.get(i) + "\n", attributes);
-      } catch (BadLocationException e) {
-        e.printStackTrace();
-      }
-    }*/
   }
 }
