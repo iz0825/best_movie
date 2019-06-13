@@ -2,7 +2,7 @@
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MovieName">
   <grid id="27dc6" binding="backgroundPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
     <constraints>
-      <xy x="20" y="20" width="500" height="400"/>
+      <xy x="20" y="20" width="583" height="400"/>
     </constraints>
     <properties>
       <background color="-14471362"/>
@@ -13,27 +13,31 @@
         <constraints border-constraint="South"/>
         <properties>
           <background color="-14471362"/>
+          <foreground color="-82583"/>
         </properties>
         <border type="none"/>
         <children>
           <component id="bae68" class="javax.swing.JButton" binding="backButton" default-binding="true">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
+              <foreground color="-14471362"/>
               <text value="&lt;"/>
             </properties>
           </component>
           <component id="b86f7" class="javax.swing.JButton" binding="nextButton">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
+              <foreground color="-14471362"/>
               <text value="&gt;"/>
             </properties>
           </component>
           <component id="20914" class="javax.swing.JButton" binding="cancelButton">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
+              <foreground color="-14471362"/>
               <text value="Cancel"/>
             </properties>
           </component>
@@ -55,7 +59,7 @@
             </constraints>
             <properties>
               <background color="-14471362"/>
-              <font name="Avenir" size="24"/>
+              <font name="Avenir" size="36"/>
               <foreground color="-16537882"/>
               <text value="Please enter a name for your movie:"/>
             </properties>
@@ -70,6 +74,7 @@
             </constraints>
             <properties>
               <background color="-789517"/>
+              <font name="Avenir" size="28"/>
             </properties>
           </component>
         </children>

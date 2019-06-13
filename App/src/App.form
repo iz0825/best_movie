@@ -2,7 +2,7 @@
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="App">
   <grid id="27dc6" binding="backgroundPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
     <constraints>
-      <xy x="20" y="20" width="473" height="349"/>
+      <xy x="20" y="20" width="540" height="349"/>
     </constraints>
     <properties>
       <background color="-14471362"/>
@@ -20,7 +20,7 @@
           <component id="59053" class="javax.swing.JButton" binding="startButton" default-binding="true">
             <constraints/>
             <properties>
-              <background color="-14471362"/>
+              <background color="-82583"/>
               <font/>
               <foreground color="-14471362"/>
               <text value="Start"/>
@@ -29,6 +29,7 @@
           <component id="c0ff3" class="javax.swing.JButton" binding="cancelButton" default-binding="true">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="Cancel"/>
             </properties>
@@ -43,43 +44,38 @@
         </properties>
         <border type="none"/>
         <children>
-          <component id="2e7f" class="javax.swing.JLabel" binding="titleLabel">
+          <component id="2e7f" class="javax.swing.JLabel" binding="titleLabel" custom-create="true">
             <constraints>
-              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <background color="-14471362"/>
               <font name="Avenir" size="24"/>
               <foreground color="-789517"/>
-              <text value="Welcome to best_movie_ever!"/>
+              <text value="Welcome to PCG!"/>
             </properties>
           </component>
-          <component id="295f8" class="javax.swing.JLabel" binding="msgLabel">
+          <component id="295f8" class="javax.swing.JLabel" binding="msgLabel" custom-create="true">
             <constraints>
-              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <background color="-14471362"/>
               <enabled value="true"/>
               <font name="Avenir" size="22"/>
               <foreground color="-789517"/>
-              <text value="Are you ready to make the best movie ever?"/>
+              <text value="Are you ready to make the most profitable movie ever?"/>
               <verticalTextPosition value="1"/>
             </properties>
           </component>
-          <grid id="2b33" binding="test" custom-create="true" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-            <margin top="0" left="0" bottom="0" right="0"/>
+          <component id="d99a" class="javax.swing.JLabel" binding="test" custom-create="true">
             <constraints>
-              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
-                <maximum-size width="-1" height="50"/>
-              </grid>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <background color="-14471362"/>
+              <text value=""/>
             </properties>
-            <border type="none"/>
-            <children/>
-          </grid>
+          </component>
         </children>
       </grid>
     </children>

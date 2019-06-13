@@ -65,7 +65,7 @@ public class GenreSelection extends JFrame {
 
     add(backgroundPanel);
 
-    titleLabel.setBorder(new EmptyBorder(20, 30, 0, 20));
+    titleLabel.setBorder(new EmptyBorder(30, 30, 0, 20));
 
     nextButton.addActionListener(
         e -> {

@@ -13,12 +13,14 @@
         <constraints border-constraint="South"/>
         <properties>
           <background color="-14471362"/>
+          <foreground color="-82583"/>
         </properties>
         <border type="none"/>
         <children>
           <component id="1b811" class="javax.swing.JButton" binding="backButton">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="&lt;"/>
             </properties>
@@ -26,6 +28,7 @@
           <component id="f87ad" class="javax.swing.JButton" binding="closeButton" default-binding="true">
             <constraints/>
             <properties>
+              <background color="-82583"/>
               <foreground color="-14471362"/>
               <text value="Close"/>
             </properties>
@@ -45,9 +48,7 @@
         <children>
           <component id="3fc30" class="javax.swing.JTextPane" binding="contentTextPane">
             <constraints>
-              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="2" indent="0" use-parent-layout="false">
-                <preferred-size width="150" height="50"/>
-              </grid>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <background color="-14471362"/>
@@ -57,21 +58,23 @@
               <text value=""/>
             </properties>
           </component>
-          <component id="d1ff4" class="javax.swing.JLabel" binding="msgLabel">
+          <component id="d1ff4" class="javax.swing.JLabel" binding="msgLabel" custom-create="true">
             <constraints>
-              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Your dream team would have this cast:"/>
+              <font name="Avenir" size="28"/>
+              <foreground color="-789517"/>
+              <text value="CAST"/>
             </properties>
           </component>
         </children>
       </grid>
-      <component id="96bdb" class="javax.swing.JLabel" binding="nameLabel">
+      <component id="96bdb" class="javax.swing.JLabel" binding="nameLabel" custom-create="true">
         <constraints border-constraint="North"/>
         <properties>
           <background color="-14471362"/>
-          <font name="Avenir" size="26"/>
+          <font name="Avenir" size="72"/>
           <foreground color="-26305"/>
           <text value="Title"/>
         </properties>

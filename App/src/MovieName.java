@@ -1,10 +1,7 @@
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
-import javax.swing.text.BadLocationException;
-import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.util.Arrays;
 
 public class MovieName extends JFrame {
   private JPanel backgroundPanel;
@@ -28,7 +25,7 @@ public class MovieName extends JFrame {
   public MovieName() {
     add(backgroundPanel);
 
-    setSize(600, 350);
+    setSize(700, 350);
 
     titleLabel.setBorder(new EmptyBorder(20, 40, 0, 0));
 
@@ -46,11 +43,7 @@ public class MovieName extends JFrame {
       } else {
         name = nameField.getText();
         ResultPage resultPageWindow = null;
-        try {
-          resultPageWindow = new ResultPage();
-        } catch (BadLocationException e1) {
-          e1.printStackTrace();
-        }
+        resultPageWindow = new ResultPage();
         resultPageWindow.setLocationRelativeTo(null);
         resultPageWindow.setVisible(true);
         dispose();
